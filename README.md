@@ -29,3 +29,13 @@ state change without a commit.
 
 This should take under five minutes. If it doesn't, the log entries lack
 context or evidence — that is a defect to fix.
+
+## Building and validating the site
+
+```bash
+npm install                 # @11ty/eleventy (dev dependency)
+npx @11ty/eleventy          # builds content/ + archive assets into build/
+python3 tools/validate.py   # structural + pixel diff of build/ vs the snapshot
+```
+
+`build/` is deployable as-is (identical URLs and asset paths to the live site).
