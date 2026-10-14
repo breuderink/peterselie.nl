@@ -1,0 +1,28 @@
+---
+{"permalink": "/tafeltheater", "layout": "base.html", "title": "kartonnen tafelpoppetjes voor  &quot;Mama kwijt&quot; | Poppentheater Peterselie", "h2": "kartonnen tafelpoppetjes voor  &quot;Mama kwijt&quot;", "active": null, "expand": false, "mission": null}
+---
+![papierenuiltjes.jpg](/files/papierenuiltjes.jpg "papierenuiltjes.jpg")<br>
+Ontwerp: Marjanne Peters (Poppentheater Peterselie)<br>
+Met dit tafeltheater en de kartonnen poppetjes kan het verhaal "Mama kwijt!" worden verteld en gespeeld.
+
+Klik op het patroon voor een vergroting.<br>
+[![tafelpop3kl.jpg](/files/tafelpop3kl.jpg "tafelpop3kl.jpg")](/files/tafelpop3gr.jpg)
+
+Het lijf tot een koker maken, met 1 cm overlap. Gemakkelijkste is het om het even te nieten. Rest van de onderdelen erop plakken, vastzetten met wasknijper tot het droog is.<br>
+Op de witte oog-rondjes komen nog plakoogjes (let op de maat)!
+
+[![tafelpop1klein.jpg](/files/tafelpop1klein.jpg "tafelpop1klein.jpg")](/files/tafelpop1.jpg)
+
+Het strookje voor het nekje van de eekhoorn tot een Z vouwen, ene uiteinde aan binnenkant lijf plakken, ander aan achterkant hoofd. Armpjes eekhoorn: muizentrapjes van 2 dunne strookjes karton. Plak een kant op het lijf, de andere aan het handje (duim omhoog).
+
+[![tafelpop2klein.jpg](/files/tafelpop2klein.jpg "tafelpop2klein.jpg")](/files/tafelpop2.jpg)
+
+Decor: Op de strook karton (69 x 47 cm) in diverse passende kleuren boomvormen van karton plakken (zie foto).<br>
+Voor het uilennest: Neem een kartonnen koker (18 cm), maak onderkant dicht met papier en plakband. Doe er wat zand of aquariumsteentjes in. Maak bovenkant dicht. Bekleed met paarse karton. Van paarse karton rondje knippen (doorsnee 10 cm, bijv. deksel van een grote pot omtrekken). Lange strook paars karton (2 cm breed) knippen. Onderste helft (trek streep over hele lengte op 1 cm) inknippen tot dikke franje. Dit wordt de rand van het nest (franje aan de onderkant plakken).<br>
+Van wc-rolletjes eventueel nog andere bomen maken.
+
+![boompjes.jpg](/files/boompjes.jpg "boompjes.jpg")
+
+![IMG.jpg](/files/IMG_0.jpg "IMG.jpg")
+
+Nog wat boompjes.
