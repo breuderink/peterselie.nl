@@ -9,9 +9,12 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy({ [`${A}/modules`]: "modules" });
   // Live Drupal URLs are extensionless (/contact, /tekoop); parity requires the same.
   eleventyConfig.configureErrorReporting({ allowMissingExtensions: true });
+  // Live URLs contain raw spaces; emit link hrefs verbatim (no %20).
+  eleventyConfig.amendLibrary("md", (md) => {
+    md.normalizeLink = (link) => link;
+  });
   return {
     templateFormats: ["html", "md"],
-    // Only content/ holds templates; archive/ and build/ must never be scanned.
     dir: { input: "content", includes: "../_includes", output: "build" },
   };
 };

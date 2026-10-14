@@ -48,8 +48,9 @@ def extract(page_html: str) -> tuple[str, list, list]:
     """Return (visible text, image srcs, link hrefs)."""
     t = re.sub(r"<!--.*?-->", "", page_html, flags=re.S)
     t = re.sub(r"<(script|style).*?</\1>", "", t, flags=re.S)
-    imgs = sorted(re.findall(r'<img[^>]+src="([^"]*)"', t))
-    links = sorted(re.findall(r'<a[^>]+href="([^"]*)"', t))
+    # Entities are normalized by the DOM; compare unescaped values.
+    imgs = sorted(htmlmod.unescape(s) for s in re.findall(r'<img[^>]+src="([^"]*)"', t))
+    links = sorted(htmlmod.unescape(s) for s in re.findall(r'<a[^>]+href="([^"]*)"', t))
     t = re.sub(r"<[^>]+>", " ", t)
     text = re.sub(r"\s+", " ", htmlmod.unescape(t)).strip()
     return text, imgs, links
