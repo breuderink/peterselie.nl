@@ -10,7 +10,7 @@ module.exports = (eleventyConfig) => {
   // Live Drupal URLs are extensionless (/contact, /tekoop); parity requires the same.
   eleventyConfig.configureErrorReporting({ allowMissingExtensions: true });
   return {
-    templateFormats: ["html"],
+    templateFormats: ["html", "md"],
     // Only content/ holds templates; archive/ and build/ must never be scanned.
     dir: { input: "content", includes: "../_includes", output: "build" },
   };

@@ -16,6 +16,13 @@ from pathlib import Path
 ARCHIVE_RE = re.compile(
     r"<!-- start main content -->\s*(.*?)\s*<!-- end main content -->", re.S
 )
+# Drupal node boilerplate; rendered by _includes/base.html instead, so
+# content bodies stay pure content (and simple pages can be markdown).
+WRAPPER_RE = re.compile(
+    r"\s*<div class=\"node\">\s*<div class=\"content\">(.*)"
+    r"</div>\s*<div class=\"terms\">.*?</div>\s*</div>\s*",
+    re.S,
+)
 
 
 def port_page(src: Path, out_dir: Path) -> dict:
@@ -28,6 +35,10 @@ def port_page(src: Path, out_dir: Path) -> dict:
     missing = [n for n, m in [("title", m_title), ("h2", m_h2), ("body", m_body)] if not m]
     if missing:
         raise ValueError(f"{src.name}: missing {missing}")
+    m_wrap = WRAPPER_RE.fullmatch(m_body.group(1))
+    if not m_wrap:
+        raise ValueError(f"{src.name}: body does not match the node wrapper")
+    body = m_wrap.group(1).strip()
 
     slug = "index" if src.name == "index.html" else src.name
     meta = {
@@ -41,7 +52,7 @@ def port_page(src: Path, out_dir: Path) -> dict:
     }
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / f"{slug}.html").write_text(
-        "---\n" + json.dumps(meta, ensure_ascii=False) + "\n---\n" + m_body.group(1) + "\n",
+        "---\n" + json.dumps(meta, ensure_ascii=False) + "\n---\n" + body + "\n",
         encoding="utf-8",
     )
     return meta

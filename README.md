@@ -38,4 +38,9 @@ npx @11ty/eleventy          # builds content/ + archive assets into build/
 python3 tools/validate.py   # structural + pixel diff of build/ vs the snapshot
 ```
 
+Content pipeline (after any change to the live snapshot):
+`python3 tools/port.py archive/live-2026-10-14 content` regenerates all
+page bodies, then `python3 tools/to_md.py` converts the eligible ones to
+markdown. Re-validate afterwards — the validator is the gate.
+
 `build/` is deployable as-is (identical URLs and asset paths to the live site).
