@@ -46,7 +46,11 @@ def serve(directory: Path, port: int) -> None:
 
 def extract(page_html: str) -> tuple[str, list, list]:
     """Return (visible text, image srcs, link hrefs)."""
-    t = re.sub(r"<!--.*?-->", "", page_html, flags=re.S)
+    # Sanctioned deviation (user, 2026-10-14, t008): the statcounter footer
+    # (a 1x1 tracking pixel on the live site) is dropped from the rebuild —
+    # remove it from the reference side so the gate compares like-for-like.
+    t = re.sub(r'<div class="statcounter">.*?</div>', "", page_html, flags=re.S)
+    t = re.sub(r"<!--.*?-->", "", t, flags=re.S)
     t = re.sub(r"<(script|style).*?</\1>", "", t, flags=re.S)
     # Entities are normalized by the DOM; compare unescaped values.
     imgs = sorted(htmlmod.unescape(s) for s in re.findall(r'<img[^>]+src="([^"]*)"', t))
@@ -73,8 +77,10 @@ def main() -> int:
                      {"text": (a_text, b_text), "images": (a_imgs, b_imgs), "links": (a_links, b_links)}.items() if a != b]
             if diffs:
                 struct_fail.append((name, diffs))
-            # 2. pixel
+            # 2. pixel — same sanctioned deviation: drop the statcounter
+            # element from the reference render before the screenshot
             page.goto(f"http://127.0.0.1:8101/{name}", wait_until="load", timeout=15000)
+            page.evaluate("document.querySelector('.statcounter')?.remove()")
             page.wait_for_timeout(300)
             a = page.screenshot()
             page.goto(f"http://127.0.0.1:8102/{name}", wait_until="load", timeout=15000)
