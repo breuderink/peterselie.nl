@@ -17,5 +17,5 @@ Ontwerp affiche: Boris Reuderink
 
 ![klalanainternet3.jpg](/files/klalanainternet3.jpg "klalanainternet3.jpg")
 
-![klalanainternet4.jpg](/files/klalanainternet4.jpg "klalanainternet4.jpg")<br>
-Een jonge Peterselie in Afrika
+![klalanainternet4.jpg](/files/klalanainternet4.jpg "klalanainternet4.jpg")
+ Een jonge Peterselie in Afrika

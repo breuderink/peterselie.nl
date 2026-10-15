@@ -9,11 +9,11 @@ De ijdele prinses Pauwelina vindt zichzelf veel te mooi om te trouwen. Ze zoekt 
 
 Speladviezen: Willemijn Gadiot
 
-Ontwerp affiche: Boris Reuderink<br>
-![prinsesinternet3.jpg](/files/prinsesinternet3.jpg "prinsesinternet3.jpg")<br>
-De dwerg krijgt goud en juwelen voor het toverdrankje.
+Ontwerp affiche: Boris Reuderink
+![prinsesinternet3.jpg](/files/prinsesinternet3.jpg "prinsesinternet3.jpg")
+ De dwerg krijgt goud en juwelen voor het toverdrankje.
 
-![prinsesinternet6.jpg](/files/prinsesinternet6.jpg "prinsesinternet6.jpg")<br>
-De prinses baadt zich in de vijver.
+![prinsesinternet6.jpg](/files/prinsesinternet6.jpg "prinsesinternet6.jpg")
+ De prinses baadt zich in de vijver.
 
 ![prinsesinternet12.jpg](/files/prinsesinternet12.jpg "prinsesinternet12.jpg")

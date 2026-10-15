@@ -3,19 +3,19 @@
 ---
 ![Sneeuwkoningin2.jpg](/files/Sneeuwkoningin2.jpg "Sneeuwkoningin2.jpg")
 
-Binnen 2 dagdelen maakt een groepje mensen een voorstelling, die ook daadwerkelijk opgevoerd gaat worden.<br>
-Alle poppen, attributen en decors worden zelf gemaakt, onder begeleiding van Peterselie.<br>
-Heel geschikt voor een Vriendinnendag, als teambuilding,  voor mensen uit Onderwijs, Kinderopvang of Zorg.<br>
-Het publiek kan bestaan uit kinderen, maar het kan ook familie zijn. Het verhaal moet natuurlijk gekozen worden met het publiek voor ogen. Er kan een eigen verhaal ingebracht worden, maar er kan ook gekozen worden uit de voorraad verhalen die Peterselie speciaal voor deze workshops heeft bewerkt.
+Binnen 2 dagdelen maakt een groepje mensen een voorstelling, die ook daadwerkelijk opgevoerd gaat worden.
+ Alle poppen, attributen en decors worden zelf gemaakt, onder begeleiding van Peterselie.
+ Heel geschikt voor een Vriendinnendag, als teambuilding,  voor mensen uit Onderwijs, Kinderopvang of Zorg.
+ Het publiek kan bestaan uit kinderen, maar het kan ook familie zijn. Het verhaal moet natuurlijk gekozen worden met het publiek voor ogen. Er kan een eigen verhaal ingebracht worden, maar er kan ook gekozen worden uit de voorraad verhalen die Peterselie speciaal voor deze workshops heeft bewerkt.
 
-Een van de reacties n.a.v. een workshop:<br>
-[![mailtjeklein.png](/files/mailtjeklein.png "mailtjeklein.png")](/files/mailtje.png)<br>
-Klein op dit kleine plaatje om het bericht te kunnen lezen.
+Een van de reacties n.a.v. een workshop:
+[![mailtjeklein.png](/files/mailtjeklein.png "mailtjeklein.png")](/files/mailtje.png)
+ Klein op dit kleine plaatje om het bericht te kunnen lezen.
 
-Maximum aantal: 10 mensen<br>
-Prijs: 275 E, excl. materialen, BTW en reiskosten<br>
-De locatie wordt door de client verzorgd.<br>
-Poppentheater Peterselie kan aanwezig zijn bij de uitvoering, als dit binnen de 2 dagdelen valt.
+Maximum aantal: 10 mensen
+ Prijs: 275 E, excl. materialen, BTW en reiskosten
+ De locatie wordt door de client verzorgd.
+ Poppentheater Peterselie kan aanwezig zijn bij de uitvoering, als dit binnen de 2 dagdelen valt.
 
 ![sneeuwkoningin1.jpg](/files/sneeuwkoningin1.jpg "sneeuwkoningin1.jpg")
 

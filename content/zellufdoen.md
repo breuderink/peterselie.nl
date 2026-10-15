@@ -1,15 +1,15 @@
 ---
 {"permalink": "/zellufdoen", "layout": "base.html", "title": "Zelluf doen | Poppentheater Peterselie", "h2": "Zelluf doen", "active": null, "expand": false, "mission": null}
 ---
-![zellufdoen1.jpg](/files/zellufdoen1.jpg "zellufdoen1.jpg")<br>
-Ontwerp affiche: Boris Reuderink
+![zellufdoen1.jpg](/files/zellufdoen1.jpg "zellufdoen1.jpg")
+ Ontwerp affiche: Boris Reuderink
 
 Deze voorstelling wordt niet meer gespeeld.
 
 Inhoud: Ezeltje vindt zichzelf al heel groot en wil dus helemaal alleen naar het verjaarsfeest van zijn vriendje Varken. Maar dat valt toch niet mee!
 
-Vrolijke vertelvoorstelling met poppen en maskers en veel verrassende effecten. De maskers worden erg voorzichtig geintroduceerd.<br>
-De liedjes worden begeleid op trekharmonica en speeldoosje.
+Vrolijke vertelvoorstelling met poppen en maskers en veel verrassende effecten. De maskers worden erg voorzichtig geintroduceerd.
+ De liedjes worden begeleid op trekharmonica en speeldoosje.
 
 ![poppentheaterpeterselie17ezel.jpg](/files/poppentheaterpeterselie17ezel_0.jpg "poppentheaterpeterselie17ezel.jpg")
 

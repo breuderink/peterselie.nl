@@ -12,6 +12,9 @@ module.exports = (eleventyConfig) => {
   // Live URLs contain raw spaces; emit link hrefs verbatim (no %20).
   eleventyConfig.amendLibrary("md", (md) => {
     md.normalizeLink = (link) => link;
+    // GFM line breaks: a single newline inside a paragraph renders as <br>,
+    // so content files read line-by-line (no <br> tags in the common case).
+    md.set({ breaks: true });
   });
   return {
     templateFormats: ["html", "md"],

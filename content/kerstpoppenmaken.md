@@ -11,10 +11,10 @@ Met crepe-tape (schilders-plakband) worden diverse neuzen (het afgezaagde topje 
 
 ![2.jpg](/files/2_0.jpg "2.jpg")
 
-Kwast het hoofd en de nek in met behangerslijm en plak er stukjes krant op.<br>
-Als het eenmaal helemaal beplakt is, laten drogen. Daarna een laagje dunne plakkaatverf aanbrengen, dan kan deze laag papier onderscheiden worden van de volgende.<br>
-Laat drogen.<br>
-Herhaal dit nog 2 keer. Beschilder met acrylverf (huidkleur).
+Kwast het hoofd en de nek in met behangerslijm en plak er stukjes krant op.
+ Als het eenmaal helemaal beplakt is, laten drogen. Daarna een laagje dunne plakkaatverf aanbrengen, dan kan deze laag papier onderscheiden worden van de volgende.
+ Laat drogen.
+ Herhaal dit nog 2 keer. Beschilder met acrylverf (huidkleur).
 
 ![3.jpg](/files/3_0.jpg "3.jpg")
 

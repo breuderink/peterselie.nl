@@ -13,6 +13,6 @@ We gaan uit van  eenvoudige vogel-klapbekpoppen waar we onze creativiteit volled
 
 ![workshop11:poppentheater-peterselie.jpg](/files/workshop11:poppentheater-peterselie.jpg "workshop11:poppentheater-peterselie.jpg")
 
-Voor een groep (niet groter dan 15 personen) kost deze meedoe-voorstelling €275,- excl BTW en reiskosten.<br>
-Peterselie zorgt voor alle materialen, poppen en attributen.<br>
-Als hieraan voorafgaand de lezing ["Prent+Pop=Taal"](prentpoptaal) wordt gegeven, is de totaalprijs €375,- excl. Hierbij zit dan ook een tentoonstelling over zelf te maken zeer eenvoudige poppen.
+Voor een groep (niet groter dan 15 personen) kost deze meedoe-voorstelling €275,- excl BTW en reiskosten.
+ Peterselie zorgt voor alle materialen, poppen en attributen.
+ Als hieraan voorafgaand de lezing ["Prent+Pop=Taal"](prentpoptaal) wordt gegeven, is de totaalprijs €375,- excl. Hierbij zit dan ook een tentoonstelling over zelf te maken zeer eenvoudige poppen.

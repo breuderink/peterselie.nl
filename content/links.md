@@ -1,8 +1,8 @@
 ---
 {"permalink": "/links", "layout": "base.html", "title": "Poppen-links | Poppentheater Peterselie", "h2": "Poppen-links", "active": null, "expand": false, "mission": null}
 ---
-![links.jpg](/files/links.jpg "links.jpg")<br>
-Poppentheater Peterselie in de voorstelling: "Nog een keertje!"
+![links.jpg](/files/links.jpg "links.jpg")
+ Poppentheater Peterselie in de voorstelling: "Nog een keertje!"
 
 [Margo en Mario Wouterse (Poppentheater Hupsakee)](http://www.poppentheaterhupsakee.nl)
 
@@ -16,9 +16,9 @@ Poppentheater Peterselie in de voorstelling: "Nog een keertje!"
 
 [Union Internationale de la Marionnette](http://www.unima.org)
 
-[poppentheater.beginthier.nl](http://poppentheater.beginthier.nl) 
+[poppentheater.beginthier.nl](http://poppentheater.beginthier.nl)
 
-[Poppenspel.eenpunt](http://poppenspel.eenpunt.nl) 
+[Poppenspel.eenpunt](http://poppenspel.eenpunt.nl)
 
 [Poppentheater.GoedBegin](http://poppentheater.GoedBegin.nl)
 

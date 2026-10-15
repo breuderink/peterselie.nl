@@ -6,9 +6,13 @@ pip has no network (pypi DNS blocked), so this re-implements it with
 html.parser. Rules (all verified against the snapshot; the validator is
 the gate — LOG 2026-10-14T17:38):
 
-- <p>  -> paragraph; text keeps original whitespace (a single newline
-          renders as a space, as on the live site)
-- <br> -> literal <br> (markdown single-newline semantics would drift)
+- <p>  -> paragraph; source newlines in text become spaces (the browser
+          renders them as spaces; with breaks:true a newline would be a break)
+- <br> -> plain newline (markdown-it runs with breaks:true, so the file
+          reads line-by-line); a run of n>=2 breaks keeps n-1 literal
+          <br> at end of line (a blank line would split the paragraph);
+          a trailing break renders nothing and is dropped; a break inside
+          <a>/<em>/<strong> stays a literal inline <br> (11 in the corpus)
 - <img> -> ![alt](src "title"?); width/height/class are redundant
           (attrs == natural size, 673/673 — LOG 11:10); a src or href
           containing spaces or parens is wrapped in <> (CommonMark
@@ -199,6 +203,32 @@ def inline_text(el: El) -> str:
     return "".join(c if isinstance(c, str) else render_inline(c) for c in el.children)
 
 
+def para_text(el: El) -> str:
+    # Top-level <br> becomes a newline (breaks:true renders it as <br>). A
+    # run of n breaks: n-1 literal <br> at end of line + one newline — a
+    # real blank line would split the paragraph. A trailing break renders
+    # nothing on the live site and is dropped. Whitespace between breaks
+    # collapses to nothing. Source newlines in text become spaces: the
+    # browser renders them as spaces, and a bare newline would be a break.
+    out, run = [], 0
+    for ch in el.children:
+        if isinstance(ch, El) and ch.tag == "br":
+            run += 1
+            continue
+        if isinstance(ch, str) and not ch.strip() and (run or not out):
+            continue  # whitespace between breaks / at paragraph start renders nothing
+        if run:
+            out.append("<br>" * (run - 1) + "\n")
+            run = 0
+        if isinstance(ch, str):
+            out.append(ch.replace("\n", " "))
+        else:
+            out.append(render_inline(ch))
+    if run:
+        out.append("<br>" * (run - 1))
+    return "".join(out).strip()
+
+
 def esc_line(ln: str) -> str:
     m = re.match(LISTY, ln)
     if not m:
@@ -318,7 +348,7 @@ def render_body(body: str) -> str:
                 nxt = next((x for x in kids[i + 1:] if isinstance(x, El)), None)
                 blocks.append(body[c.start:nxt.start if nxt else len(body)].strip())
             else:
-                blocks.append(escape_listy(inline_text(c)))
+                blocks.append(escape_listy(para_text(c)))
             i += 1
         elif c.tag in RAW_BLOCKS:
             flush_stray(c.start)

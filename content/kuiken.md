@@ -7,14 +7,14 @@ Een kuiken-vingerpopje met een liedje!
 
 Laat eerst het dichte ei zien, vouw je handen er omheen. Zing dan het liedje met de kinderen en laat, als het uit is, het kuikentje uit het ei komen.
 
-Benodigheden:<br>
-\- plastic ei<br>
-\- stukje gele stof<br>
-\- 2 zwarte kraaltjes<br>
-\- restje oranje vilt<br>
-\- vulsel<br>
-\- breekmesje<br>
-\- naaigerei
+Benodigheden:
+ \- plastic ei
+ \- stukje gele stof
+ \- 2 zwarte kraaltjes
+ \- restje oranje vilt
+ \- vulsel
+ \- breekmesje
+ \- naaigerei
 
 Snij in de onderkant van het ei een rond gat, waar je vinger ruim door kan. Snij de bovenkant zigzaggend eraf:
 
@@ -28,5 +28,5 @@ Onderkant kuikentje in onderkant ei vastnaaien (probeer of de goede kant er bove
 
 [![Liedjekuikenklein.png](/files/Liedjekuikenklein.png "Liedjekuikenklein.png")](/files/Liedjekuikengroot.png)
 
-Het is natuurlijk niet de bedoeling om het kuikentje + ei zo omhoog te houden als ik hierboven boven op de foto doe. Het ei moet min of meer in de palm van één hand liggen, met de andere hand er beschermend onder/omheen.<br>
-Zing het liedje met het dichte ei in de handpalm en laat, wanneer het liedje klaar is, het kuiken uit het ei komen.
+Het is natuurlijk niet de bedoeling om het kuikentje + ei zo omhoog te houden als ik hierboven boven op de foto doe. Het ei moet min of meer in de palm van één hand liggen, met de andere hand er beschermend onder/omheen.
+ Zing het liedje met het dichte ei in de handpalm en laat, wanneer het liedje klaar is, het kuiken uit het ei komen.

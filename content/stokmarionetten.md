@@ -3,9 +3,9 @@
 ---
 ![stokmarionet3-web.jpg](/files/stokmarionet3-web.jpg "stokmarionet3-web.jpg")
 
-Gebruik een plastic literfles met een ronde bovenkant (voor het hoofd).<br>
-Trek hier de voorvoet van een sok overheen (maak een gat in de teen voor de flessenopening) en bind de nek af met een draad katoen.<br>
-Steek een PVC-buis (of passende stok) goed ver in de opening en maak vast met tape (dit kan later gecamoefleerd worden met haar of een hoedje).
+Gebruik een plastic literfles met een ronde bovenkant (voor het hoofd).
+ Trek hier de voorvoet van een sok overheen (maak een gat in de teen voor de flessenopening) en bind de nek af met een draad katoen.
+ Steek een PVC-buis (of passende stok) goed ver in de opening en maak vast met tape (dit kan later gecamoefleerd worden met haar of een hoedje).
 
 ![stokmarionet1b-web.jpg](/files/stokmarionet1b-web.jpg "stokmarionet1b-web.jpg")
 

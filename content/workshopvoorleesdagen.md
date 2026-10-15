@@ -5,12 +5,12 @@
 
 Workshop POPPENSPEL GEBRUIKEN BIJ EEN PRENTENBOEK
 
-Kinderen vinden het heerlijk om uit een prentenboek voorgelezen te worden! Voorlezen is niet alleen gezellig, maar draagt ook bij aan de taalontwikkeling.<br>
-Illustraties bij een verhaal maken het aanleren van woordjes gemakkelijker, doordat de kinderen zien waar het over gaat (en dit geldt zeker voor kinderen met een andere culturele achtergrond en ook bijvoorbeeld voor mensen met een verstandelijke beperking).<br>
-Nog duidelijker wordt het, als het figuurtje uit het boek ook beweegt en praat, dus “leeft”, zoals bij poppenspel.
+Kinderen vinden het heerlijk om uit een prentenboek voorgelezen te worden! Voorlezen is niet alleen gezellig, maar draagt ook bij aan de taalontwikkeling.
+ Illustraties bij een verhaal maken het aanleren van woordjes gemakkelijker, doordat de kinderen zien waar het over gaat (en dit geldt zeker voor kinderen met een andere culturele achtergrond en ook bijvoorbeeld voor mensen met een verstandelijke beperking).
+ Nog duidelijker wordt het, als het figuurtje uit het boek ook beweegt en praat, dus “leeft”, zoals bij poppenspel.
 
-Vaak wordt gedacht dat het maken van poppen en het spelen ermee te moeilijk is.<br>
-In deze workshop laat ik zien dat het doodgemakkelijk kan zijn. Er is een “tentoonstelling” met meer dan 20 zeer eenvoudige voorbeelden waarbij ik uitleg zal geven en daarna gaan we allemaal zelf aan de slag met de figuren uit het Prentenboek van het jaar (Kleine Aap) dat tijdens de Voorleesdagen (eind januari/begin februari 2026) centraal zal staan.
+Vaak wordt gedacht dat het maken van poppen en het spelen ermee te moeilijk is.
+ In deze workshop laat ik zien dat het doodgemakkelijk kan zijn. Er is een “tentoonstelling” met meer dan 20 zeer eenvoudige voorbeelden waarbij ik uitleg zal geven en daarna gaan we allemaal zelf aan de slag met de figuren uit het Prentenboek van het jaar (Kleine Aap) dat tijdens de Voorleesdagen (eind januari/begin februari 2026) centraal zal staan.
 
 Hieronder staat het printblad dat gebruikt kan worden om alle figuurtjes uit het boek af te drukken en daarna uit te knippen (en te voorzien va een standaardje). Op A4-formaat afgedrukt is het geschikt voor een klein voorleesgroepje. Wil je het wat groter aanpakken, druk het dan op A3 af.
 

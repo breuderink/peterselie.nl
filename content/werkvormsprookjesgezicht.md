@@ -3,5 +3,5 @@
 ---
 ![DSC04913.JPG](/files/DSC04913.JPG "DSC04913.JPG")
 
-De werkvorm kan worden ingezet om verschillende "ikken" te beleven. Beschrijving van het maken van het "Gezicht" en een verhaaltje om het toe te passen.<br>
-[sprookjesgezichten.pdf](https://peterselie.nl/files/sprookjesgezichten.pdf "Download: sprookjesgezichten.pdf (1.19 MB)") 
+De werkvorm kan worden ingezet om verschillende "ikken" te beleven. Beschrijving van het maken van het "Gezicht" en een verhaaltje om het toe te passen.
+[sprookjesgezichten.pdf](https://peterselie.nl/files/sprookjesgezichten.pdf "Download: sprookjesgezichten.pdf (1.19 MB)")

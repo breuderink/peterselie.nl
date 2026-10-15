@@ -9,8 +9,8 @@ Krokodil denkt dat plagen leuk is, maar natuurlijk wil na een tijdje niemand mee
 
 ![Bruggetje2.jpg](/files/Bruggetje2.jpg "Bruggetje2.jpg")
 
-Het liedje dat tijdens de voorstelling wordt gezongen staat<br>
+Het liedje dat tijdens de voorstelling wordt gezongen staat
 [hier](http://www.peterselie.nl/liedjesbruggetje).
 
-![P1240414.jpg](/files/P1240414.jpg "P1240414.jpg")<br>
-Lekker meedoen met "De kikkertjes"
+![P1240414.jpg](/files/P1240414.jpg "P1240414.jpg")
+ Lekker meedoen met "De kikkertjes"

@@ -7,8 +7,8 @@ Helaas, deze voorstelling wordt niet meer gespeeld.
 
 Het sprookje Doornroosje, in de oorspronkelijke versie van Giambattista Basile, dus ongekuisd.
 
-Het verhaal wordt geillustreerd met prachtige tafelpoppen.<br>
-Het decor bestaat, naast een een toren, uit een koffer waar het interieur uit verschijnt en het geheel is in zwart-wit (+ grijs + zilver) uitgevoerd.
+Het verhaal wordt geillustreerd met prachtige tafelpoppen.
+ Het decor bestaat, naast een een toren, uit een koffer waar het interieur uit verschijnt en het geheel is in zwart-wit (+ grijs + zilver) uitgevoerd.
 
 Uitkoop: €375, excl BTW en reiskosten
 

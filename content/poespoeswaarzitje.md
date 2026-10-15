@@ -15,7 +15,7 @@ Inhoud: In een heel groot poppenhuis spelen Hond en Poespoes verstoppertje, maar
 
 ![poppentheaterpeterselie5poespoes.jpg](/files/poppentheaterpeterselie5poespoes.jpg "poppentheaterpeterselie5poespoes.jpg")
 
-![poppentheaterpeterselie6poespoes.jpg](/files/poppentheaterpeterselie6poespoes.jpg "poppentheaterpeterselie6poespoes.jpg")<br>
-Bouw poppenhuis: Jan van Kammen
+![poppentheaterpeterselie6poespoes.jpg](/files/poppentheaterpeterselie6poespoes.jpg "poppentheaterpeterselie6poespoes.jpg")
+ Bouw poppenhuis: Jan van Kammen
 
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/HWoWbsDyXmM" frameborder="0" allowfullscreen></iframe></p>

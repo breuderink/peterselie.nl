@@ -1,10 +1,10 @@
 ---
 {"permalink": "/beertjemeedoe", "layout": "base.html", "title": "Meedoe-voorstelling &quot;Nog een keertje!&quot; | Poppentheater Peterselie", "h2": "Meedoe-voorstelling &quot;Nog een keertje!&quot;", "active": null, "expand": false, "mission": null}
 ---
-De voorstelling [Nog een keertje](/nogeenkeertje) kan ook gespeeld worden als meedoe-voorstelling.<br>
-Er worden door de kinderen dan eerst vogeltjes geknutseld, die later meedoen in de voorstelling.<br>
-De meerprijs is €50,-, zowel bij een "normale" voorstelling als bij de voorstelling voor een [partijtje](/feestjes).<br>
-Peterselie neemt natuurlijk alle benodigdheden mee.
+De voorstelling [Nog een keertje](/nogeenkeertje) kan ook gespeeld worden als meedoe-voorstelling.
+ Er worden door de kinderen dan eerst vogeltjes geknutseld, die later meedoen in de voorstelling.
+ De meerprijs is €50,-, zowel bij een "normale" voorstelling als bij de voorstelling voor een [partijtje](/feestjes).
+ Peterselie neemt natuurlijk alle benodigdheden mee.
 
 ![D44C1B35-1FFB-4E12-B8B5-74B54230B63C.jpeg](/files/D44C1B35-1FFB-4E12-B8B5-74B54230B63C.jpeg "D44C1B35-1FFB-4E12-B8B5-74B54230B63C.jpeg")
 

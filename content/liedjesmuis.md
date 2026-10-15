@@ -3,17 +3,17 @@
 ---
 Loopliedje: (Wijs: Altijd is Kortjakje ziek)
 
-Kleine Muis, Kleine Muis<br>
-Zoekt een huis, zoekt een huis<br>
-Hij loopt en hij loopt en hij wordt zo moe.<br>
-Waar moet hij toch met zijn appel naartoe?<br>
-Kleine Muis enz.
+Kleine Muis, Kleine Muis
+ Zoekt een huis, zoekt een huis
+ Hij loopt en hij loopt en hij wordt zo moe.
+ Waar moet hij toch met zijn appel naartoe?
+ Kleine Muis enz.
 
 Slaapliedje:
 
-Slaap muisje, slaap<br>
-Daar buiten loopt een schaap<br>
-Een schaap met witte voetjes<br>
-Die drinkt zijn melk zo zoetjes<br>
-Slaap muisje, slaap<br>
-Daar buiten loopt een schaap
+Slaap muisje, slaap
+ Daar buiten loopt een schaap
+ Een schaap met witte voetjes
+ Die drinkt zijn melk zo zoetjes
+ Slaap muisje, slaap
+ Daar buiten loopt een schaap

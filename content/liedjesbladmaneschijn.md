@@ -1,44 +1,42 @@
 ---
 {"permalink": "/liedjesbladmaneschijn", "layout": "base.html", "title": "Liedjesblad &quot;In de maneschijn&quot; | Poppentheater Peterselie", "h2": "Liedjesblad &quot;In de maneschijn&quot;", "active": null, "expand": false, "mission": null}
 ---
-![langleven.gif](/files/langleven.gif "langleven.gif")<br>
-<br><br>
+![langleven.gif](/files/langleven.gif "langleven.gif")<br><br>
 **In de maneschijn**
 
-In de maneschijn,<br>
-in de maneschijn<br>
-klom ik op het trapje<br>
-naar het raamkozijn.<br>
-En je waagt het niet,<br>
-En je waagt het niet,<br>
-zo doet een vogel,<br>
-en zo doet een vis.<br>
-Zo doet een duizendpoot,<br>
-die schoenpoetser is.<br>
-En dat is één,<br>
-en dat is twee,<br>
-en dat is dikke,<br>
-dikke, dikke tante Kee,<br>
-en dat is recht,<br>
-en dat is krom,<br>
-en nu draaien we het wieltje nog eens om<br>
-Rom bom!
+In de maneschijn,
+ in de maneschijn
+ klom ik op het trapje
+ naar het raamkozijn.
+ En je waagt het niet,
+ En je waagt het niet,
+ zo doet een vogel,
+ en zo doet een vis.
+ Zo doet een duizendpoot,
+ die schoenpoetser is.
+ En dat is één,
+ en dat is twee,
+ en dat is dikke,
+ dikke, dikke tante Kee,
+ en dat is recht,
+ en dat is krom,
+ en nu draaien we het wieltje nog eens om
+ Rom bom!
 
-[Klik hier voor een geluidsfragment](/files/maneschijn.mp3)<br>
-<br><br>
+[Klik hier voor een geluidsfragment](/files/maneschijn.mp3)<br><br>
 **Twee handjes op de tafel**
 
-Twee handjes op de tafel,<br>
-twee handjes in de zij.<br>
-Twee handjes op de schoudertjes,<br>
-op het hoofdje allebei.<br>
-Nu maken wij twee vuistjes,<br>
-zo stevig als het maar kan.<br>
-Daar gaan we dan mee trommelen,<br>
-van je trommel de bommel de bom.<br>
-De duimpjes zijn het dikste<br>
-De pinkjes zijn maar klein<br>
-Nu moeten alle handjes<br>
-weer vlug op het ruggetje zijn
+Twee handjes op de tafel,
+ twee handjes in de zij.
+ Twee handjes op de schoudertjes,
+ op het hoofdje allebei.
+ Nu maken wij twee vuistjes,
+ zo stevig als het maar kan.
+ Daar gaan we dan mee trommelen,
+ van je trommel de bommel de bom.
+ De duimpjes zijn het dikste
+ De pinkjes zijn maar klein
+ Nu moeten alle handjes
+ weer vlug op het ruggetje zijn
 
 [Klik hier voor een geluidsfragment](/files/tweehandjes.mp3)

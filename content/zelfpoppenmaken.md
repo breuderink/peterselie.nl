@@ -3,8 +3,8 @@
 ---
 ![kleinefoto.jpg](/files/kleinefoto.jpg "kleinefoto.jpg")
 
-**Doe-het-zelf poppen**<br>
-Onderstaande poppen en knutsels mogen nagemaakt worden, maar alleen voor niet-commercieel gebruik!
+**Doe-het-zelf poppen**
+ Onderstaande poppen en knutsels mogen nagemaakt worden, maar alleen voor niet-commercieel gebruik!
 
 - [Pop-up kuiken met liedje](kuiken)
 - [Eenvoudige tafelpop van blikjes](schaaptafelpop)

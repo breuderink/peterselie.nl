@@ -3,15 +3,15 @@
 ---
 Kijk voor referenties, krantenknipsels e.d. ook bij [wat men schrijft](/watmenschrijft) over de optredens van Poppentheater Peterselie.
 
-![moentje:poppentheater-peterselie.jpg](/files/moentje:poppentheater-peterselie.jpg "moentje:poppentheater-peterselie.jpg")<br>
-Moentje uit "Gaatjes in je tong" van (toen nog) Poppentheater de Verhalendoos
+![moentje:poppentheater-peterselie.jpg](/files/moentje:poppentheater-peterselie.jpg "moentje:poppentheater-peterselie.jpg")
+ Moentje uit "Gaatjes in je tong" van (toen nog) Poppentheater de Verhalendoos
 
-**2025**<br>
-12 jan 25, Kielzog, Hoogezand, OPTIE
+**2025**
+ 12 jan 25, Kielzog, Hoogezand, OPTIE
 
 20 jun 25, BoekStartuurtje Bibliotheek Hoogezand, peutervoorstelling
 
-**2024** 
+**2024**
 
 24 jan 24, middag, Bibliotheek Winschoten, *Prent en Pop, inspiratiesessie Voorleesdagen*
 
@@ -111,8 +111,8 @@ Moentje uit "Gaatjes in je tong" van (toen nog) Poppentheater de Verhalendoos
 
 17 nov 21, 11u, School Lyndensteijn, Beetsterzwaag, *Muis zoekt huis*, (gecanceld wegens corona)
 
-8, 14, 15, 17, 21, 24 dec 21, Huize Odoorn,<br>
-Kerstproject
+8, 14, 15, 17, 21, 24 dec 21, Huize Odoorn,
+ Kerstproject
 
 11 dec 21, Dorpshuis Westdorp, meedoe-voorstelling Kerstverhaal, besloten, (gecanceld wegens corona)
 
@@ -124,7 +124,7 @@ Kerstproject
 
 **2020**
 
-20 feb 20, 14u, De Schierstins, *Nog een keertje!*, OPENBAAR (2-6 jr) 
+20 feb 20, 14u, De Schierstins, *Nog een keertje!*, OPENBAAR (2-6 jr)
 
 21 mrt 20, 10u, Bibliotheek Dokkum, *Alle eendjes...*, OPENBAAR (2 tot 4 jaar), (gecanceld wegens corona)
 
@@ -252,25 +252,25 @@ mei, psz Kidz First, Bovensmilde, *Nog een keertje!*, (gecanceld wegens corona)
 
 25 dec 18, 11u, Prot. Gem. Grolloo, *Van de Ster en de Stal*, OPENBAAR, familievoorstelling
 
-![klomphond:poppentheater-peterselie.jpg](/files/klomphond:poppentheater-peterselie.jpg "klomphond:poppentheater-peterselie.jpg")<br>
-Klapbek-klomphond van Poppentheater Peterselie
+![klomphond:poppentheater-peterselie.jpg](/files/klomphond:poppentheater-peterselie.jpg "klomphond:poppentheater-peterselie.jpg")
+ Klapbek-klomphond van Poppentheater Peterselie
 
-[speellijst2017.docx](https://peterselie.nl/files/speellijst2017.docx "Download: speellijst2017.docx (92.3 KB)")<br>
-[speellijst2016.docx](https://peterselie.nl/files/speellijst2016.docx "Download: speellijst2016.docx (102.65 KB)")<br>
-[speellijst2015.docx](https://peterselie.nl/files/speellijst2015.docx "Download: speellijst2015.docx (83.87 KB)")<br>
-[speellijst2014.doc](https://peterselie.nl/files/speellijst2014.doc "Download: speellijst2014.doc (47.5 KB)")<br>
-[speellijst2013.doc](https://peterselie.nl/files/speellijst2013.doc "Download: speellijst2013.doc (30.5 KB)")<br>
-[speellijst2012.doc](https://peterselie.nl/files/speellijst2012.doc "Download: speellijst2012.doc (50 KB)")<br>
-[speellijst2011.doc](https://peterselie.nl/files/speellijst2011.doc "Download: speellijst2011.doc (28 KB)")<br>
-[speellijst2010.doc](https://peterselie.nl/files/speellijst2010.doc "Download: speellijst2010.doc (54 KB)")<br>
-[speellijst2009.doc](https://peterselie.nl/files/speellijst2009.doc "Download: speellijst2009.doc (63.5 KB)")<br>
-[speellijst2008.doc](https://peterselie.nl/files/speellijst2008.doc "Download: speellijst2008.doc (61.5 KB)")<br>
-[speellijst2007.doc](https://peterselie.nl/files/speellijst2007.doc "Download: speellijst2007.doc (68.5 KB)")<br>
-[speellijst2006.doc](https://peterselie.nl/files/speellijst2006.doc "Download: speellijst2006.doc (80.5 KB)")<br>
-[speellijst2005.doc](https://peterselie.nl/files/speellijst2005.doc "Download: speellijst2005.doc (37 KB)")<br>
-[speellijst2004.doc](https://peterselie.nl/files/speellijst2004.doc "Download: speellijst2004.doc (59.5 KB)")<br>
-[speellijst2003.doc](https://peterselie.nl/files/speellijst2003.doc "Download: speellijst2003.doc (36 KB)")<br>
-[speellijst2002.doc](https://peterselie.nl/files/speellijst2002.doc "Download: speellijst2002.doc (36 KB)")<br>
+[speellijst2017.docx](https://peterselie.nl/files/speellijst2017.docx "Download: speellijst2017.docx (92.3 KB)")
+[speellijst2016.docx](https://peterselie.nl/files/speellijst2016.docx "Download: speellijst2016.docx (102.65 KB)")
+[speellijst2015.docx](https://peterselie.nl/files/speellijst2015.docx "Download: speellijst2015.docx (83.87 KB)")
+[speellijst2014.doc](https://peterselie.nl/files/speellijst2014.doc "Download: speellijst2014.doc (47.5 KB)")
+[speellijst2013.doc](https://peterselie.nl/files/speellijst2013.doc "Download: speellijst2013.doc (30.5 KB)")
+[speellijst2012.doc](https://peterselie.nl/files/speellijst2012.doc "Download: speellijst2012.doc (50 KB)")
+[speellijst2011.doc](https://peterselie.nl/files/speellijst2011.doc "Download: speellijst2011.doc (28 KB)")
+[speellijst2010.doc](https://peterselie.nl/files/speellijst2010.doc "Download: speellijst2010.doc (54 KB)")
+[speellijst2009.doc](https://peterselie.nl/files/speellijst2009.doc "Download: speellijst2009.doc (63.5 KB)")
+[speellijst2008.doc](https://peterselie.nl/files/speellijst2008.doc "Download: speellijst2008.doc (61.5 KB)")
+[speellijst2007.doc](https://peterselie.nl/files/speellijst2007.doc "Download: speellijst2007.doc (68.5 KB)")
+[speellijst2006.doc](https://peterselie.nl/files/speellijst2006.doc "Download: speellijst2006.doc (80.5 KB)")
+[speellijst2005.doc](https://peterselie.nl/files/speellijst2005.doc "Download: speellijst2005.doc (37 KB)")
+[speellijst2004.doc](https://peterselie.nl/files/speellijst2004.doc "Download: speellijst2004.doc (59.5 KB)")
+[speellijst2003.doc](https://peterselie.nl/files/speellijst2003.doc "Download: speellijst2003.doc (36 KB)")
+[speellijst2002.doc](https://peterselie.nl/files/speellijst2002.doc "Download: speellijst2002.doc (36 KB)")
 [speellijst1996tot2001.doc](https://peterselie.nl/files/speellijst1996tot2001.doc "Download: speellijst1996tot2001.doc (61.5 KB)")
 
 ![vingerrups.jpg](/files/vingerrups.jpg "vingerrups.jpg")
