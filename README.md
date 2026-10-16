@@ -35,6 +35,7 @@ context or evidence — that is a defect to fix.
 ```bash
 npm install                 # @11ty/eleventy (dev dependency)
 npx @11ty/eleventy          # builds content/ + archive assets into build/
+python3 tools/mediadiet.py  # lossless diet of build/files (zip dedupe, PNG, TIF)
 python3 tools/validate.py   # structural + pixel diff of build/ vs the snapshot
 ```
 
