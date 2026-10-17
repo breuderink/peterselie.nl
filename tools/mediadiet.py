@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Post-build media diet (t013): shrink the deploy payload, archive untouched.
 
-Runs AFTER `npx @11ty/eleventy`, before the validator. Lossless only:
+Runs AFTER `npx @11ty/eleventy`, before the validator. Lossless passes,
+plus one user-approved lossy audio pass (sign-off 2026-10-16):
 
 - orphan files in build/files/ (referenced by no built page) are deleted
   — the 2026-10-14 snapshot has none: all 827 files are referenced, most
@@ -16,10 +17,17 @@ Runs AFTER `npx @11ty/eleventy`, before the validator. Lossless only:
   2026-10-15), pixel-verified, restored on any drift
 - TIF: re-saved with LZW (bouwplaat.tif was stored raw), pixel-verified,
   replaced only if smaller
-- JPEG: NOT re-encoded. Decode->encode round-trips are provably lossy
-  (same Q tables + 4:4:4, pixels still drift — measured 2026-10-15); a
-  DCT-domain tool (jpegtran) is not installable offline. Skipped, not approximated.
-- GIF / audio / video: untouched. No lossless GIF tool; lossy = user sign-off.
+- JPEG: jpegtran -copy icc -optimize (lossless, DCT-domain). -copy icc keeps
+  the ICC profile (552 of 718 JPEGs carry one, mostly Apple Display P3 —
+  browsers color-manage it; stripping it changes rendered colors while PIL
+  pixels stay equal, zelfpoppenmaken pixel-diff, 2026-10-16) and drops
+  EXIF/comment (0 of 718 have an orientation tag). This libjpeg-turbo
+  build has no "unsafe" mode — only none|comments|icc|all.
+  pixel-verified, kept only if smaller.
+- AUDIO (lossy, user-approved): m4a -> AAC 96 kbps, mp3 -> MP3 96 kbps,
+  container/extension unchanged; kept only if smaller AND duration within
+  2%. The four m4a ZIPs are download files, not inlined — left alone.
+- GIF / video: untouched.
 
 Idempotent: safe to re-run; a file is only replaced when the result is
 pixel-identical AND no larger.
@@ -74,6 +82,68 @@ def pixels(path: Path) -> bytes:
 
 def mb(n: int) -> str:
     return f"{n / 2**20:.1f} MB"
+
+
+def jpeg_pass() -> None:
+    # jpegtran cannot write in place: read src, write to a sibling temp.
+    changed = 0
+    for p in sorted(FILES.iterdir()):
+        if p.suffix.lower() not in (".jpg", ".jpeg"):
+            continue
+        before = pixels(p)
+        out = p.with_name(p.name + ".jt.jpg")
+        r = subprocess.run(["jpegtran", "-copy", "icc", "-optimize",
+                            "-outfile", str(out), str(p)], capture_output=True)
+        if r.returncode != 0:
+            out.unlink(missing_ok=True)
+            print(f"jpeg:      {p.name} FAILED rc={r.returncode}: {r.stderr[:120]!r}")
+            raise SystemExit(1)
+        if out.stat().st_size < p.stat().st_size and pixels(out) == before:
+            out.replace(p)
+            changed += 1
+        else:
+            out.unlink(missing_ok=True)
+    print(f"jpeg:      {changed} optimized (lossless, pixel-verified)")
+
+
+AUDIO_CMD = {".m4a": ["aac", "96k"], ".mp3": ["libmp3lame", "96k"]}
+
+
+def audio_pass() -> None:
+    # Lossy (user-approved 2026-10-16): speech/song recordings at 96 kbps,
+    # container and extension unchanged. Guard: smaller AND duration intact.
+    def dur(f: Path) -> float:
+        r = subprocess.run(["ffprobe", "-v", "error", "-show_entries",
+                            "format=duration", "-of", "default=nw=1:nk=1",
+                            str(f)], capture_output=True, text=True)
+        return float(r.stdout.strip())
+
+    changed = saved = 0
+    for p in sorted(FILES.iterdir()):
+        if p.suffix.lower() not in AUDIO_CMD:
+            continue
+        codec, brate = AUDIO_CMD[p.suffix.lower()]
+        out = p.with_name(p.name + ".enc" + p.suffix.lower())
+        r = subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(p),
+                            "-vn", "-c:a", codec, "-b:a", brate, str(out)],
+                           capture_output=True, text=True)
+        if r.returncode != 0:
+            out.unlink(missing_ok=True)
+            print(f"audio:     {p.name} FAILED: {r.stderr[:120]!r}")
+            raise SystemExit(1)
+        if out.stat().st_size >= p.stat().st_size:
+            out.unlink(missing_ok=True)
+            continue
+        a, b = dur(p), dur(out)
+        if abs(a - b) / a > 0.02:
+            out.unlink(missing_ok=True)
+            print(f"audio:     {p.name} duration {a:.1f}s -> {b:.1f}s — FAIL")
+            raise SystemExit(1)
+        saved += p.stat().st_size - out.stat().st_size
+        out.replace(p)
+        changed += 1
+    print(f"audio:     {changed} re-encoded @96k "
+          f"({mb(saved)} saved, user-approved lossy)")
 
 
 def main() -> int:
@@ -134,6 +204,12 @@ def main() -> int:
         else:
             out.unlink(missing_ok=True)
             print(f"tif:       {p.name} kept (LZW {mb(new_bytes)} vs {mb(orig_bytes)})")
+
+    # 5. JPEG — jpegtran in DCT domain (lossless), pixel-verified
+    jpeg_pass()
+
+    # 6. AUDIO — lossy, user-approved; see module docstring
+    audio_pass()
 
     after = sum(p.stat().st_size for p in FILES.iterdir())
     print(f"\nbuild/files: {len(before_files)} -> {len(list(FILES.iterdir()))} files, "
