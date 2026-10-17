@@ -32,16 +32,30 @@ context or evidence — that is a defect to fix.
 
 ## Building and validating the site
 
+Build inputs (the rewrite — no archive needed):
+
+- `content/*.md` — 179 pages, markdown, the only thing an editor touches
+- `files/` — all site media (single copy; also the oracle's media via symlink)
+- `themes/ misc/ modules/` — the site CSS
+- `_includes/base.html` + `.eleventy.js` — the theme chrome and config
+
 ```bash
-npm install                 # @11ty/eleventy (dev dependency)
-npx @11ty/eleventy          # builds content/ + archive assets into build/
-python3 tools/mediadiet.py  # lossless diet of build/files (zip dedupe, PNG, TIF)
-python3 tools/validate.py   # structural + pixel diff of build/ vs the snapshot
+npm install     # @11ty/eleventy (dev dependency)
+npm run build   # = eleventy -> tools/mediadiet.py -> tools/validate.py
 ```
 
-Content pipeline (after any change to the live snapshot):
+`validate.py` is the gate: structural + zero-tolerance pixel diff of every
+page, `build/` vs the old site. 179/179 PASS = deployable. The old site
+(`archive/live-2026-10-14/`: HTML pages + manifest) is the validator's
+oracle and the re-import source — NOT a build input (proven: build + diet
+succeed with the archive directory removed). Its `files/ themes/ misc/
+modules/` are symlinks to the first-class directories (Linux).
+
+Re-import (re-sync from the old site; wipes local .md edits — do not use
+for routine editing):
 `python3 tools/port.py archive/live-2026-10-14 content` regenerates all
 page bodies, then `python3 tools/to_md.py` converts the eligible ones to
-markdown. Re-validate afterwards — the validator is the gate.
+markdown. Re-validate afterwards.
 
-`build/` is deployable as-is (identical URLs and asset paths to the live site).
+`build/` is deployable as-is (identical URLs and asset paths to the live
+site; pages are extensionless, as on the old site).
