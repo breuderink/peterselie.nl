@@ -1,12 +1,24 @@
+/* Poppentheater Peterselie — single stylesheet (2.0).
+   Replaces the Drupal-era cascade (this file + modules/{node,system,user,defaults}.css).
+   Div/flex layout reproducing the old table theme pixel-for-pixel, including
+   the old rendering's table artifacts, kept on purpose (the gate is
+   zero-tolerance against the archived render):
+   - 1px #ccc line at the top of the 600px column and of the black panel
+     (old modules/system/system.css: tbody { border-top: 1px solid #ccc });
+   - 0.5px header offset and 2px top-nav band (border-collapse row metrics);
+   - sidebar 202px (old UA td padding of 1px on the 200px cell);
+   - panel at the block's left edge: the old 9-slice table's 10px padding was
+     dropped by Chromium's collapsed table model.
+   tools/validate.py (800x1000, zero tolerance) is the proof. */
+
 body {
-	color: #040;
-	background: #999;
-	
-	font-family: Verdana, Helvetica, Arial, Lucida, sans-serif;
-	font-size: 10px;
-	text-align:center;
-	padding: 0;
-	margin: 10px 10px 10px 10px;
+  color: #040;
+  background: #999;
+  font-family: Verdana, Helvetica, Arial, Lucida, sans-serif;
+  font-size: 10px;
+  text-align: center;
+  margin: 10px;
+  padding: 0;
 }
 
 a, a:link { color: #333; }
@@ -14,238 +26,150 @@ a:visited { color: #777; }
 a:hover, a:focus { color: #0a0; }
 a:active { color: #606; }
 
-h1 { font-size: 1.3em; font-weight: bold;}
-h2 { font-size: 1.1em; font-weight: bold;}
-h3 { font-size: 1em; font-weight: bold;}
-h4, h5, h6 { font-size: 0.9em; font-weight: bold;}
-h1, h2, h3, h4, h5, h6 {
-  font-family: Verdana, Helvetica, Arial, Lucida, sans-serif;
-}
-p{
-  padding: 0 0 1.5em 0;
+h1 { font-size: 1.3em; font-weight: bold; }
+h2 { font-size: 1.1em; font-weight: bold; }
+h3 { font-size: 1em; font-weight: bold; }
+h4, h5, h6 { font-size: 0.9em; font-weight: bold; }
+h1, h2, h3, h4, h5, h6 { font-family: Verdana, Helvetica, Arial, Lucida, sans-serif; }
+
+p {
   margin: 0;
+  padding: 0 0 1.5em 0;
   font-size: 1em;
   text-align: justify;
-/*   line-height: 1.6em; */
 }
 
+img { border: 0; }
+
+/* --- page frame (600px cream column on the grey body) --- */
+
+#content {
+  position: relative;
+  width: 600px;
+  margin: 0 auto;
+  background-image: url('content.png');
+  font-size: 1em;
+  text-align: left;
+}
+
+/* old tbody top border (1px #ccc), painted over the header's top half */
+#content::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 600px;
+  height: 1px;
+  background: #ccc;
+  z-index: 1;
+}
+
+/* old collapsed-table header row sat at y=10.5, but Chromium rasterizes
+   the 80px header image on the pixel grid: it starts at y=11. The box is
+   80.5px tall (so the row below starts at 90.5 as in the old layout) and
+   the image is offset 1px and clipped at the box bottom — row 90 becomes
+   half image row 79 + half cream, exactly like the old render */
 #header {
-	width: 600px;
-	height: 80px;
-	background-image: url('header.png');
-	margin-left:auto; margin-right:auto;
+  width: 600px;
+  height: 80.5px;
+  background-image: url('header.png');
+  background-position: 0 1px;
 }
 
-.sidebar {
-	vertical-align: top;
-	width: 200px ! important;
+#topnav {
+  width: 600px;
+  height: 2px; /* old empty top-nav row (UA td padding 1px top+bottom) */
 }
 
-.sidebar h2
-{
-	text-transform: lowercase;
-}
-
-.sidebar a, .sidebar a:link { color: #ffffcc; }
-.sidebar a:visited { color: #ffffcc; }
-.sidebar a:hover, .sidebar a:focus { color: #ffffcc; }
-.sidebar a:active { color: #ffffcc; }
-
-
-.sidebar .block {
-	color: #ffffcc;
-	margin: 5px 5px 5px 5px; 
-	padding: 0 0 0 0;
-	
-}
-
-.sidebar .block table
-{
-	padding: 10px 10px 10px 10px;
-	margin-left: 0;
-	margin-right: auto;
-	
-}
-
-.sidebar .block table td, .sidebar .block table tr
-{
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
-}
-
-
-.block .tl
-{
-	padding: 0 0 0 0;
-	width: 10px ! important;
-	height: 10px ! important;
-	background-image: url('tl.png')
-}
-
-.block .tr
-{
-	padding: 0 0 0 0;
-	width: 10px ! important;
-	height: 10px ! important;
-	background-image: url('tr.png')
-}
-.block .bl
-{
-	padding: 0 0 0 0;
-	width: 10px ! important;
-	height: 10px ! important;
-	background-image: url('bl.png')
-}
-.block .br
-{
-	padding: 0 0 0 0;
-	width: 10px ! important;
-	height: 10px ! important;
-	background-image: url('br.png')
-}
-
-.block .tside, .block .lside, .block .rside,.block .bside
-{
-	background: #000;
-}
-.block .mid
-{
-	background: #000;
-	width: 150px;
-}
-
-li.expanded, li.collapsed, li.leaf {
-	list-style-type: disc;
-	list-style-image: none;
-	padding: 0;
-	margin: 0;
-	color: #ffffcc;
-}
-
-.container-inline
-{
-	padding: 0px;
-	margin: 0px;
-}
-
-container-inline .form-item .form-text
-{
-	width: 140px;
-
-}
-
-.container-inline .form-submit
-{
-	width: 60px;
-	background-color: #ffffcc;
-	text-transform: lowercase;
-}
-
-.container-inline .form-item .form-text
-{
-	padding: 1px;
-	margin: 1px;
-	background-color: #ffffcc;
-}
-
-
-.container-inline .form-submit, input
-{
-	border: #999 1px solid;
-	padding: 0px;
-	margin: 1px;
-}
-
-.search-form input
-{
-	width: 140px;
-}
-
-.form-text, .form-submit
-{
-/* 	height: 18px; */
-}
-
-/*.container-inline .form-item , .container-inline
-{
-	border: #0f0 1px solid;
-	padding: 0px;
-	margin: 0px;
-}*/
-
-#content
-{
-	background-image: url('content.png');
-	width: 600px ! important;
-	padding: 0 0 0 0;
-	margin-left: auto; margin-right:auto;
-	font-size: 1em;
-	text-align: left;
-}
-
-.main-content .node
-{
-	width: 320px;
-	
-}
-
-.main-content, .main-content .node
-{
-	vertical-align: top;
-	padding: 10px 30px 10px 0px;
-	margin-left: 0px; margin-right:auto;
-}
-
-.main-content .node h2, .main-content .node h2 a
-{
-	margin: 1em 0 0 0;
-	padding: 0;
-	font-size: 1.2em;
-	text-decoration: none;
-}
-
-.main-content .node .info {
-	font-size: .8em;
-	color: #999;
-	padding: 0;
-	margin: .2em 0 1em 0;
-}
-
-.main-content .node .links {
-	font-size: .8em;
-	color: #999;
-	padding: 0;
-	margin: 1em 0 4em 0;
-}
-
-.textarea
-{
-	border: #999 1px solid;
-	width: 350px;
-}
+#columns { display: flex; align-items: flex-start; }
 
 #footer {
-	font-size: 0.8em;
-	background-image: url('footer.png');
-	width: 600px;
-	height: 50px;
-	padding: 0 0 0 0;
-	margin-left:auto; margin-right:auto;
-	
-	text-align: center;
+  width: 600px;
+  height: 50px;
+  margin: 0 auto;
+  font-size: 0.8em;
+  text-align: center;
+  background-image: url('footer.png');
 }
 
-.content-title
-{
-	text-transform: uppercase;
+/* --- sidebar: black rounded panel. Legacy fragment: the old 9-slice
+   TABLE, verbatim markup and rules. Chromium rasterizes the collapsed-
+   border cell backgrounds at a half-pixel phase (and repeats the corner
+   image into the 0.5px cell overflow) that no div equivalent reproduces;
+   the zero-tolerance gate keeps it. --- */
+
+/* old modules/system/defaults.css + system.css: the seam line is a real
+   tbody border under collapsed borders */
+table { border-collapse: collapse; }
+tbody { border-top: 1px solid #ccc; }
+
+.sidebar { width: 202px; }
+
+.sidebar .block {
+  color: #ffffcc;
+  margin: 6px; /* old 5px block margin + 1px UA td padding (old block sat in a td) */
+  padding: 0;
 }
 
-img
-{
-	text-decoration: none;
+.sidebar .block table { padding: 10px; margin-left: 0; margin-right: auto; }
+.sidebar .block table td, .sidebar .block table tr { margin: 0; padding: 0; }
+
+.block .tl, .block .tr, .block .bl, .block .br {
+  padding: 0;
+  width: 10px !important;
+  height: 10px !important;
+}
+.block .tl { background-image: url('tl.png'); }
+.block .tr { background-image: url('tr.png'); }
+.block .bl { background-image: url('bl.png'); }
+.block .br { background-image: url('br.png'); }
+
+.block .tside, .block .lside, .block .rside, .block .bside { background: #000; }
+.block .mid { background: #000; width: 150px; }
+
+.sidebar a, .sidebar a:link, .sidebar a:visited,
+.sidebar a:hover, .sidebar a:focus, .sidebar a:active { color: #ffffcc; }
+/* Drupal quirk kept for parity: the active menu link renders black on the
+   black panel (old modules/system/system.css: li a.active). */
+li a.active { color: #000; }
+
+.sidebar .block ul {
+  margin: 0;
+  padding: 0 0 0.25em 1em;
+  list-style: none;
+  text-align: left;
+}
+
+/* ul.menu li (specificity 0,1,2) beats li.leaf (0,1,1): the 0.5em left
+   margin survives the theme's margin: 0 */
+.sidebar li.leaf, .sidebar li.expanded, .sidebar li.collapsed {
+  margin: 0 0 0 0.5em;
+  padding: 0;
+  color: #ffffcc;
+  list-style-type: disc;
+  list-style-image: none;
+}
+
+/* --- main column --- */
+
+/* vertical-align: top is inherited by the inline <img>s: it removes the
+   font descent from image line boxes (old .main-content/.node rule),
+   which changes the page height by 3px on image pages */
+.main-content, .main-content .node {
+  vertical-align: top;
+  padding: 10px 30px 10px 0;
+}
+
+.main-content {
+  flex: 1; /* 600 - 202 = 398px, as the old table row distributed it */
+}
+
+.main-content .node {
+  width: 320px;
 }
 
 .content-title {
-font-size: 16px;
-font-weight: bold;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
