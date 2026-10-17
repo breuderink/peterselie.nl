@@ -3,8 +3,10 @@
    Div/flex layout reproducing the old table theme pixel-for-pixel, including
    the old rendering's table artifacts, kept on purpose (the gate is
    zero-tolerance against the archived render):
-   - 1px #ccc line at the top of the 600px column and of the black panel
-     (old modules/system/system.css: tbody { border-top: 1px solid #ccc });
+   - 1px #ccc line at the top of the 600px column (pseudo-element) and of
+     the black panel (a REAL tbody border — the 9-slice is kept as a
+     legacy table; old modules/system/system.css:
+     tbody { border-top: 1px solid #ccc });
    - 0.5px header offset and 2px top-nav band (border-collapse row metrics);
    - sidebar 202px (old UA td padding of 1px on the 200px cell);
    - panel at the block's left edge: the old 9-slice table's 10px padding was

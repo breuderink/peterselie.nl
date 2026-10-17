@@ -1,11 +1,12 @@
 module.exports = (eleventyConfig) => {
   // Output asset paths must stay byte-identical to the live site.
-  // Build inputs are first-class (files/, themes/, misc/, modules/);
-  // the dated snapshot is the validator's oracle and re-import source only.
+  // Build inputs are first-class (files/, themes/, misc/); the dated
+  // snapshot is the validator's oracle and re-import source only. (The
+  // 2.0 build links one stylesheet, themes/peterselie/style.css; the old
+  // modules/*.css are served to the oracle via its own symlink.)
   eleventyConfig.addPassthroughCopy({ "files": "files" });
   eleventyConfig.addPassthroughCopy({ "themes": "themes" });
   eleventyConfig.addPassthroughCopy({ "misc": "misc" });
-  eleventyConfig.addPassthroughCopy({ "modules": "modules" });
   // Live Drupal URLs are extensionless (/contact, /tekoop); parity requires the same.
   eleventyConfig.configureErrorReporting({ allowMissingExtensions: true });
   // Live URLs contain raw spaces; emit link hrefs verbatim (no %20).

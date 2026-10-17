@@ -36,7 +36,7 @@ Build inputs (the rewrite — no archive needed):
 
 - `content/*.md` — 179 pages, markdown, the only thing an editor touches
 - `files/` — all site media (single copy; also the oracle's media via symlink)
-- `themes/ misc/ modules/` — the site CSS
+- `themes/` — the site CSS (one consolidated stylesheet, 2.0); `misc/` — favicon
 - `_includes/base.html` + `.eleventy.js` — the theme chrome and config
 
 ```bash
@@ -48,8 +48,10 @@ npm run build   # = eleventy -> tools/mediadiet.py -> tools/validate.py
 page, `build/` vs the old site. 179/179 PASS = deployable. The old site
 (`archive/live-2026-10-14/`: HTML pages + manifest) is the validator's
 oracle and the re-import source — NOT a build input (proven: build + diet
-succeed with the archive directory removed). Its `files/ themes/ misc/
-modules/` are symlinks to the first-class directories (Linux).
+succeed with the archive directory removed). Its `files/ misc/ modules/`
+are symlinks to the first-class directories (Linux); its `themes/` is the
+git-extracted ORIGINAL CSS as real files (the crawler's symlink to the
+live theme dir let 2.0 CSS contaminate the reference — fixed 80f6240).
 
 Re-import (re-sync from the old site; wipes local .md edits — do not use
 for routine editing):
