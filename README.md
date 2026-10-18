@@ -42,8 +42,12 @@ Build inputs (the rewrite — no archive needed):
 
 ```bash
 npm install     # @11ty/eleventy (dev dependency)
-npm run build   # = eleventy -> tools/mediadiet.py -> tools/validate.py
+npm run build   # = eleventy -> tools/validate.py
 ```
+
+The source media in `files/` is already dieted (committed), so the build
+just copies and validates. `tools/mediadiet.py` is NOT in the build chain —
+it is a one-time / on-reimport tool (see below).
 
 **2.0 is an intent-level redesign** (user decision 2026-10-17): the old
 look in modern, simpler primitives — not a pixel clone. The old table
@@ -72,7 +76,10 @@ Re-import (re-sync from the old site; wipes local .md edits — do not use
 for routine editing):
 `python3 tools/port.py archive/live-2026-10-14 content` regenerates all
 page bodies, then `python3 tools/to_md.py` converts the eligible ones to
-markdown. Re-validate afterwards.
+markdown. A re-import brings back the ORIGINAL (undieted) media, so re-run
+the diet on the source before building:
+`python3 tools/mediadiet.py .` (it diets `files/` in place, idempotent),
+then `npm run build` and re-validate.
 
 `build/` is deployable as-is (identical URLs and asset paths to the live
 site; pages are extensionless, as on the old site).

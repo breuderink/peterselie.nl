@@ -3,6 +3,6 @@
     "@11ty/eleventy": "^3.1.6"
   },
   "scripts": {
-    "build": "eleventy && python3 tools/mediadiet.py && python3 tools/validate.py"
+    "build": "eleventy && python3 tools/validate.py"
   }
 }

@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
-"""Post-build media diet (t013): shrink the deploy payload, archive untouched.
+"""Media diet (t013): shrink the media payload, archive untouched.
 
-Runs AFTER `npx @11ty/eleventy`, before the validator. Lossless passes,
+The source media in files/ is committed ALREADY dieted, so this is NOT in
+the build chain — run it once after a re-import (port.py) brings back the
+undieted originals: `python3 tools/mediadiet.py .` (diets ./files in
+place). It can also diet a build dir: `python3 tools/mediadiet.py build`.
+Lossless passes,
 plus one user-approved lossy audio pass (sign-off 2026-10-16):
 
 - orphan files in build/files/ (referenced by no built page) are deleted
