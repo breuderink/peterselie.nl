@@ -39,8 +39,10 @@ normaliter op de juiste Content-Type zetten.)
 ## Vóór het omschakelen
 
 - [ ] DNS: laat de domeinwijziging pas toe na een groene controle.
-- [ ] E-mail: check of mail voor info@peterselie.nl op de server staat
-      (onbekend — STATE.md "Unknowns").
+- [ ] E-mail: info@peterselie.nl staat op hetzelfde Plesk-account als de
+      website (gecontroleerd, 2026-10-17). Gaat de mail later naar iCloud
+      op een domein, dan wisselen de MX-records — onafhankelijk van de
+      website zelf; de mail blijft dan werken zolang het domein er is.
 - [ ] De oude site (Drupal) pas uitschakelen ná de nieuwe site.
 - [ ] Na livegang: een paar pagina's, de menuknoppen, een video en een
       audio-download controleren.

@@ -54,11 +54,13 @@ ununderlined, footer credit is real text (was baked into an image), the
 layout stacks below 640px (the old site was a fixed 600px, unusable on
 phones). The pixel-perfect version of 2.0 lives on at tag v2.0.
 
-`validate.py` is the gate, three checks per page: structural (exact
-text/images/links), closeness (shift-tolerant pixel budget — the new
-render sits 1-3px off where the old table artifacts were removed), and
-a design contract (banner image, black panel, cream column). 179/179
-PASS = deployable. The old site
+`validate.py` is the gate: structural (exact text/images/links on all
+179 pages) + a design contract on ONE rendered page (banner image,
+black panel, cream column — the chrome is one template + one
+stylesheet, so one page is provably enough). ~2 seconds. The
+pixel-diff check was RETIRED in 2.1 with the user's sign-off
+(2026-10-17): parity with the old site had already been proven at tag
+v2.0, and 2.1 is a deliberate redesign. PASS = deployable. The old site
 (`archive/live-2026-10-14/`: HTML pages + manifest) is the validator's
 oracle and the re-import source — NOT a build input (proven: build + diet
 succeed with the archive directory removed). Its `files/ misc/ modules/`
