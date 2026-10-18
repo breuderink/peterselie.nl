@@ -1,13 +1,10 @@
-<!-- XHTML 1.0 doctype on purpose: Chromium lays out img lines 3px
-     differently under an HTML5 doctype; the old site's doctype is what
-     makes the render pixel-identical across browsers -->
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="nl" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="nl">
 <head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ title }}</title>
-<meta name="description" content="Poppentheater Peterselie verzorgt vrolijk poppentheater in het hele land voor kinderen vanaf twee jaar."/>
+<meta name="description" content="Poppentheater Peterselie verzorgt vrolijk poppentheater in het hele land voor kinderen vanaf twee jaar.">
 <meta name="keywords" content="poppentheater, poppenspel, workshop, puppetry, puppeteer, poppenspeler, theater, peuter theater, meespeeltheater, verstandelijk gehandicapten"/>
 <link rel="icon" href="/misc/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" href="/themes/peterselie/style.css">
@@ -15,36 +12,25 @@
 <body>
 <div id="content">
   <header id="header"></header>
-  <div id="topnav"></div>
 
   <div id="columns">
     <aside id="sidebar-left" class="sidebar">
-      <div class="block block-user" id="block-user-1">
-        <!-- legacy fragment: the old 9-slice table, verbatim. Chromium
-             rasterizes its collapsed-border cell backgrounds at a
-             half-pixel phase that no div equivalent reproduces; the
-             zero-tolerance gate keeps it. -->
-        <table>
-          <tr><td class="tl"/><td class="tside"/><td class="tr"/></tr>
-          <tr><td class="lside"/><td class="mid"><div class="content">
+      <div class="panel">
+        <ul class="menu">
+          <li class="leaf"><a href="/intro" title="Poppentheater Peterselie: Introductie"{% if active == "/intro" %} class="active"{% endif %}>introductie</a></li>
+          <li class="leaf"><a href="/boekpoppenspel">boek toegepast poppenspel</a></li>
+          <li class="leaf"><a href="/voorstellingen" title="Voorstellingen"{% if active == "/voorstellingen" %} class="active"{% endif %}>voorstellingen</a></li>
+          <li class="{% if expand %}expanded{% else %}collapsed{% endif %}"><a href="/cursussen_workshops" title="Cursussen / workshops"{% if active == "/cursussen_workshops" %} class="active"{% endif %}>cursussen / workshops </a>{% if expand %}
           <ul class="menu">
-            <li class="leaf"><a href="/intro" title="Poppentheater Peterselie: Introductie"{% if active == "/intro" %} class="active"{% endif %}>introductie</a></li>
-            <li class="leaf"><a href="/boekpoppenspel">boek toegepast poppenspel</a></li>
-            <li class="leaf"><a href="/voorstellingen" title="Voorstellingen"{% if active == "/voorstellingen" %} class="active"{% endif %}>voorstellingen</a></li>
-            <li class="{% if expand %}expanded{% else %}collapsed{% endif %}"><a href="/cursussen_workshops" title="Cursussen / workshops"{% if active == "/cursussen_workshops" %} class="active"{% endif %}>cursussen / workshops </a>{% if expand %}
-            <ul class="menu">
-              <li class="leaf"><a href="/toegepastpoppenspel" title="poppenspel inzetten bij educatie en therapie"{% if active == "/toegepastpoppenspel" %} class="active"{% endif %}>workshop toegepast poppenspel </a></li>
-              <li class="leaf"><a href="/workshopvoorleesdagen" title="workshop Voorleesdagen 2026"{% if active == "/workshopvoorleesdagen" %} class="active"{% endif %}>workshop Voorleesdagen 2026</a></li>
-            </ul>{% endif %}</li>
-            <li class="leaf"><a href="/speellijsten">speellijst</a></li>
-            <li class="leaf"><a href="/tekoop">Peterselie biedt te koop aan</a></li>
-            <li class="leaf"><a href="/contact" title="Contact"{% if active == "/contact" %} class="active"{% endif %}>contact</a></li>
-            <li class="leaf"><a href="/enverder" title="En verder..."{% if active == "/enverder" %} class="active"{% endif %}>en verder...</a></li>
-            <li class="leaf"><a href="/introduction" title="English"{% if active == "/introduction" %} class="active"{% endif %}>english</a></li>
-          </ul>
-          </div></td><td class="rside"/></tr>
-          <tr><td class="bl"/><td class="bside"/><td class="br"/></tr>
-        </table>
+            <li class="leaf"><a href="/toegepastpoppenspel" title="poppenspel inzetten bij educatie en therapie"{% if active == "/toegepastpoppenspel" %} class="active"{% endif %}>workshop toegepast poppenspel </a></li>
+            <li class="leaf"><a href="/workshopvoorleesdagen" title="workshop Voorleesdagen 2026"{% if active == "/workshopvoorleesdagen" %} class="active"{% endif %}>workshop Voorleesdagen 2026</a></li>
+          </ul>{% endif %}</li>
+          <li class="leaf"><a href="/speellijsten">speellijst</a></li>
+          <li class="leaf"><a href="/tekoop">Peterselie biedt te koop aan</a></li>
+          <li class="leaf"><a href="/contact" title="Contact"{% if active == "/contact" %} class="active"{% endif %}>contact</a></li>
+          <li class="leaf"><a href="/enverder" title="En verder..."{% if active == "/enverder" %} class="active"{% endif %}>en verder...</a></li>
+          <li class="leaf"><a href="/introduction" title="English"{% if active == "/introduction" %} class="active"{% endif %}>english</a></li>
+        </ul>
       </div>
     </aside>
 
@@ -57,7 +43,7 @@
     </main>
   </div>
 
-  <footer id="footer"></footer>
+  <footer id="footer">ontwerp: Boris Reuderink (b.reuderink@alumni.utwente.nl)</footer>
 </div>
 </body>
 </html>

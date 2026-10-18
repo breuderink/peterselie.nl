@@ -1,38 +1,34 @@
 /* Poppentheater Peterselie — single stylesheet (2.0).
-   Replaces the Drupal-era cascade (this file + modules/{node,system,user,defaults}.css).
-   Div/flex layout reproducing the old table theme pixel-for-pixel, including
-   the old rendering's table artifacts, kept on purpose (the gate is
-   zero-tolerance against the archived render):
-   - 1px #ccc line at the top of the 600px column (pseudo-element) and of
-     the black panel (a REAL tbody border — the 9-slice is kept as a
-     legacy table; old modules/system/system.css:
-     tbody { border-top: 1px solid #ccc });
-   - 0.5px header offset and 2px top-nav band (border-collapse row metrics);
-   - sidebar 202px (old UA td padding of 1px on the 200px cell);
-   - panel at the block's left edge: the old 9-slice table's 10px padding was
-     dropped by Chromium's collapsed table model.
-   tools/validate.py (800x1000, zero tolerance) is the proof. */
+   The 2.0 goal is the old design's INTENT in modern primitives, not a
+   pixel-for-pixel clone (user decision 2026-10-17): the old Drupal-era
+   table chrome, 9-slice corner PNGs, seam borders and 0.5px raster
+   offsets are retired; tools/validate.py checks structure exactly and
+   pixels within a closeness budget.
+   Intent kept: 600px cream column on grey, the green hand-drawn logo
+   banner (the only image in the chrome), the black rounded menu panel
+   with cream links, Verdana 10px voice, right-aligned footer credit. */
 
 body {
+  margin: 10px;
+  padding: 0;
   color: #040;
   background: #999;
   font-family: Verdana, Helvetica, Arial, Lucida, sans-serif;
   font-size: 10px;
   text-align: center;
-  margin: 10px;
-  padding: 0;
 }
 
+/* --- links: old Drupal palette, kept --- */
 a, a:link { color: #333; }
 a:visited { color: #777; }
 a:hover, a:focus { color: #0a0; }
 a:active { color: #606; }
 
-h1 { font-size: 1.3em; font-weight: bold; }
-h2 { font-size: 1.1em; font-weight: bold; }
-h3 { font-size: 1em; font-weight: bold; }
-h4, h5, h6 { font-size: 0.9em; font-weight: bold; }
-h1, h2, h3, h4, h5, h6 { font-family: Verdana, Helvetica, Arial, Lucida, sans-serif; }
+h1 { font-size: 1.3em; }
+h2 { font-size: 1.1em; }
+h3 { font-size: 1em; }
+h4, h5, h6 { font-size: 0.9em; }
+h1, h2, h3, h4, h5, h6 { font-weight: bold; font-family: Verdana, Helvetica, Arial, Lucida, sans-serif; }
 
 p {
   margin: 0;
@@ -41,137 +37,95 @@ p {
   text-align: justify;
 }
 
-img { border: 0; }
+img {
+  border: 0;
+  /* old design rule, kept: aligns photos tightly to their captions */
+  vertical-align: top;
+}
 
-/* --- page frame (600px cream column on the grey body) --- */
+/* --- page frame: 600px cream column, fluid below 640px --- */
 
 #content {
-  position: relative;
-  width: 600px;
+  width: 100%;
+  max-width: 600px;
   margin: 0 auto;
-  background-image: url('content.png');
-  font-size: 1em;
+  background: #ffffcc;
   text-align: left;
 }
 
-/* old tbody top border (1px #ccc), painted over the header's top half */
-#content::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 600px;
-  height: 1px;
-  background: #ccc;
-  z-index: 1;
-}
-
-/* old collapsed-table header row sat at y=10.5, but Chromium rasterizes
-   the 80px header image on the pixel grid: it starts at y=11. The box is
-   80.5px tall (so the row below starts at 90.5 as in the old layout) and
-   the image is offset 1px and clipped at the box bottom — row 90 becomes
-   half image row 79 + half cream, exactly like the old render */
 #header {
-  width: 600px;
-  height: 80.5px;
-  background-image: url('header.png');
-  background-position: 0 1px;
-}
-
-#topnav {
-  width: 600px;
-  height: 2px; /* old empty top-nav row (UA td padding 1px top+bottom) */
+  height: 80px;
+  background: #2d8900 url('header.png') top left / 100% auto no-repeat;
 }
 
 #columns { display: flex; align-items: flex-start; }
 
 #footer {
-  width: 600px;
-  height: 50px;
-  margin: 0 auto;
+  min-height: 50px;
+  padding: 0 10px;
   font-size: 0.8em;
-  text-align: center;
-  background-image: url('footer.png');
+  color: #555;
+  text-align: right;
+  background: linear-gradient(#ffffcc, #d6d6b3);
 }
 
-/* --- sidebar: black rounded panel. Legacy fragment: the old 9-slice
-   TABLE, verbatim markup and rules. Chromium rasterizes the collapsed-
-   border cell backgrounds at a half-pixel phase (and repeats the corner
-   image into the 0.5px cell overflow) that no div equivalent reproduces;
-   the zero-tolerance gate keeps it. --- */
+/* --- sidebar: black rounded menu panel --- */
 
-/* old modules/system/defaults.css + system.css: the seam line is a real
-   tbody border under collapsed borders */
-table { border-collapse: collapse; }
-tbody { border-top: 1px solid #ccc; }
+.sidebar { width: 202px; flex: none; }
 
-.sidebar { width: 202px; }
-
-.sidebar .block {
+.sidebar .panel {
+  box-sizing: border-box;
+  width: 170px;
+  margin: 6px;
+  padding: 10px;
   color: #ffffcc;
-  margin: 6px; /* old 5px block margin + 1px UA td padding (old block sat in a td) */
-  padding: 0;
+  background: #000;
+  border-radius: 10px;
 }
 
-.sidebar .block table { padding: 10px; margin-left: 0; margin-right: auto; }
-.sidebar .block table td, .sidebar .block table tr { margin: 0; padding: 0; }
-
-.block .tl, .block .tr, .block .bl, .block .br {
-  padding: 0;
-  width: 10px !important;
-  height: 10px !important;
-}
-.block .tl { background-image: url('tl.png'); }
-.block .tr { background-image: url('tr.png'); }
-.block .bl { background-image: url('bl.png'); }
-.block .br { background-image: url('br.png'); }
-
-.block .tside, .block .lside, .block .rside, .block .bside { background: #000; }
-.block .mid { background: #000; width: 150px; }
-
-.sidebar a, .sidebar a:link, .sidebar a:visited,
-.sidebar a:hover, .sidebar a:focus, .sidebar a:active { color: #ffffcc; }
-/* Drupal quirk kept for parity: the active menu link renders black on the
-   black panel (old modules/system/system.css: li a.active). */
-li a.active { color: #000; }
-
-.sidebar .block ul {
+/* one rule for every menu state; the old 0.5em indent was a cascade
+   accident (system.css ul.menu li beating the theme's margin: 0) */
+.panel .menu {
   margin: 0;
-  padding: 0 0 0.25em 1em;
+  padding: 0;
   list-style: none;
   text-align: left;
 }
+.panel .menu li { margin: 0; padding: 0; }
+.panel .menu ul { padding: 0 0 0 1em; }
 
-/* ul.menu li (specificity 0,1,2) beats li.leaf (0,1,1): the 0.5em left
-   margin survives the theme's margin: 0 */
-.sidebar li.leaf, .sidebar li.expanded, .sidebar li.collapsed {
-  margin: 0 0 0 0.5em;
-  padding: 0;
+.sidebar a, .sidebar a:link, .sidebar a:visited,
+.sidebar a:hover, .sidebar a:focus, .sidebar a:active {
   color: #ffffcc;
-  list-style-type: disc;
-  list-style-image: none;
+  text-decoration: none;
 }
+/* the old active state was black-on-black (invisible Drupal bug);
+   bold is the honest modern version */
+.sidebar a.active { font-weight: bold; }
 
 /* --- main column --- */
 
-/* vertical-align: top is inherited by the inline <img>s: it removes the
-   font descent from image line boxes (old .main-content/.node rule),
-   which changes the page height by 3px on image pages */
-.main-content, .main-content .node {
-  vertical-align: top;
+.main-content {
+  flex: 1;
+  min-width: 0;
   padding: 10px 30px 10px 0;
 }
 
-.main-content {
-  flex: 1; /* 600 - 202 = 398px, as the old table row distributed it */
-}
-
-.main-content .node {
-  width: 320px;
-}
+.main-content .node { width: 320px; }
 
 .content-title {
   font-size: 16px;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+/* --- small screens: stack the columns --- */
+
+@media (max-width: 640px) {
+  body { margin: 0; }
+  #columns { flex-direction: column; }
+  .sidebar { width: 100%; }
+  .sidebar .panel { width: auto; }
+  .main-content { padding: 10px; }
+  .main-content .node { width: auto; }
 }
