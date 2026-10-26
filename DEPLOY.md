@@ -52,6 +52,16 @@ cd build && find . -maxdepth 1 -type f ! -name "*.html" ! -name "*.txt" -print0 
 (De bestanden in `files/`, `themes/`, `misc/`, `modules/` laten S3
 normaliter op de juiste Content-Type zetten.)
 
+## 404-pagina (pagina niet gevonden)
+
+De build bevat `404.html` (themapagina). De server moet die serveren
+voor onbekende urls:
+
+- **S3 (statische hosting)**:
+  `aws s3 website s3:<bucket> --index-document index.html --error-document 404.html`
+- **Plesk/nginx**: `error_page 404 /404.html;` in de vhost (Plesk:
+  Apache & nginx-instellingen → nginx custom configuration).
+
 ## Vóór het omschakelen
 
 - [ ] DNS: laat de domeinwijziging pas toe na een groene controle.
