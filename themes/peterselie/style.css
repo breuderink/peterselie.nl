@@ -60,13 +60,19 @@ img {
 
 #columns { display: flex; align-items: flex-start; }
 
+/* the original credit was baked into a 600x50 footer.png: black 8px text,
+   12px from the right edge, 2px above the bottom of the box */
 #footer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  box-sizing: border-box;
   min-height: 50px;
-  padding: 0 10px;
+  padding: 0 12px 2px;
   font-size: 0.8em;
-  color: #555;
+  color: #000;
   text-align: right;
-  background: linear-gradient(#ffffcc, #d6d6b3);
+  background: linear-gradient(#ffffcc, #d8d8b4);
 }
 
 /* --- sidebar: black rounded menu panel --- */

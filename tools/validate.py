@@ -73,7 +73,7 @@ def extract(page_html: str) -> tuple[str, list, list]:
     # Sanctioned deviation (2.0, 2026-10-17): the footer credit is real
     # selectable text in the rebuild (it was baked into footer.png in the
     # archive) — drop it so the gate compares like-for-like.
-    text = text.replace("ontwerp: Boris Reuderink (b.reuderink@alumni.utwente.nl)", "").strip()
+    text = text.replace("ontwerp: Boris Reuderink (b.reuderink@alumnus.utwente.nl)", "").strip()
     return text, imgs, links
 
 
