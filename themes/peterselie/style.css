@@ -82,32 +82,36 @@ img {
 .sidebar .panel {
   box-sizing: border-box;
   width: 170px;
-  margin: 6px;
+  /* top: 10px below the header, matching the old panel's top edge (y=100) */
+  margin: 10px 6px 6px;
   padding: 10px;
   color: #ffffcc;
   background: #000;
   border-radius: 10px;
 }
 
-/* one rule for every menu state; the old 0.5em indent was a cascade
-   accident (system.css ul.menu li beating the theme's margin: 0) */
+/* Menu: computed styles measured from the old render (getComputedStyle on
+   the archived page) and replicated: ul { padding: 0 0 0.25em 1em };
+   li { margin: 0 0 0 0.5em; padding: 0; list-style: disc };
+   links plain cream, UA underline, weight 400 — the active item is
+   indistinguishable from the others in the old render (cream, not the
+   system.css li a.active #000). Measured geometry: top items bullet 117,
+   text 131..265; sub items bullet 132, text 146.. */
 .panel .menu {
   margin: 0;
-  padding: 0;
-  list-style: none;
+  padding: 0 0 0.25em 1em;
   text-align: left;
 }
-.panel .menu li { margin: 0; padding: 0; }
-.panel .menu ul { padding: 0 0 0 1em; }
+.panel .menu li {
+  margin: 0 0 0 0.5em;
+  padding: 0;
+  list-style-type: disc;
+}
 
 .sidebar a, .sidebar a:link, .sidebar a:visited,
 .sidebar a:hover, .sidebar a:focus, .sidebar a:active {
   color: #ffffcc;
-  text-decoration: none;
 }
-/* the old active state was black-on-black (invisible Drupal bug);
-   bold is the honest modern version */
-.sidebar a.active { font-weight: bold; }
 
 /* --- main column --- */
 
