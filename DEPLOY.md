@@ -12,8 +12,24 @@ rsync -avz --delete build/ <gebruiker>@peterselie.nl:/path/naar/webroot/
 - Upload alles uit `build/` (de map zelf niet), bestaande bestanden
   verwijderen met `--delete`.
 - De server mag statisch leveren; PHP is niet nodig.
+- Let op: paginabestanden zonder extensie krijgen bij veel statische
+  servers (nginx default_type, Apache, S3) `application/octet-stream` —
+  zet daar expliciet `text/html` (zie Optie 2), anders downloadt de
+  browser de pagina.
 - Controleer daarna een paar pagina's én een afbeelding en een
   downloadlink (bijv. /files/bouwplaat.tif).
+
+## Lokaal testen
+
+`python3 -m http.server` levert paginabestanden zonder extensie op als
+`application/octet-stream` — de browser downloadt dan i.p.v. tonen.
+Gebruik daarom:
+
+```
+python3 tools/serve_local.py 8000
+```
+
+en ga naar http://localhost:8000.
 
 ## Optie 2: S3 (statische hosting)
 
