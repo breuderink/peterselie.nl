@@ -16,20 +16,17 @@
   <div id="columns">
     <aside id="sidebar-left" class="sidebar">
       <div class="panel">
+        {% assign activeUrl = active | default: page.url %}
         <ul class="menu">
-          <li class="leaf"><a href="/intro" title="Poppentheater Peterselie: Introductie"{% if active == "/intro" %} class="active"{% endif %}>introductie</a></li>
-          <li class="leaf"><a href="/boekpoppenspel">boek toegepast poppenspel</a></li>
-          <li class="leaf"><a href="/voorstellingen" title="Voorstellingen"{% if active == "/voorstellingen" %} class="active"{% endif %}>voorstellingen</a></li>
-          <li class="{% if expand %}expanded{% else %}collapsed{% endif %}"><a href="/cursussen_workshops" title="Cursussen / workshops"{% if active == "/cursussen_workshops" %} class="active"{% endif %}>cursussen / workshops </a>{% if expand %}
+          {% for item in menu %}
+          <li class="{% if item.children %}{% if item | inMenu: activeUrl %}expanded{% else %}collapsed{% endif %}{% else %}leaf{% endif %}"><a href="{{ item.url }}"{% if item.url == activeUrl %} class="active"{% endif %}>{{ item.label }}</a>{% if item.children %}{% if item | inMenu: activeUrl %}
           <ul class="menu">
-            <li class="leaf"><a href="/toegepastpoppenspel" title="poppenspel inzetten bij educatie en therapie"{% if active == "/toegepastpoppenspel" %} class="active"{% endif %}>workshop toegepast poppenspel </a></li>
-            <li class="leaf"><a href="/workshopvoorleesdagen" title="workshop Voorleesdagen 2026"{% if active == "/workshopvoorleesdagen" %} class="active"{% endif %}>workshop Voorleesdagen 2026</a></li>
-          </ul>{% endif %}</li>
-          <li class="leaf"><a href="/speellijsten">speellijst</a></li>
-          <li class="leaf"><a href="/tekoop">Peterselie biedt te koop aan</a></li>
-          <li class="leaf"><a href="/contact" title="Contact"{% if active == "/contact" %} class="active"{% endif %}>contact</a></li>
-          <li class="leaf"><a href="/enverder" title="En verder..."{% if active == "/enverder" %} class="active"{% endif %}>en verder...</a></li>
-          <li class="leaf"><a href="/introduction" title="English"{% if active == "/introduction" %} class="active"{% endif %}>english</a></li>
+            {% for child in item.children %}
+            <li class="leaf"><a href="{{ child.url }}"{% if child.url == activeUrl %} class="active"{% endif %}>{{ child.label }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}{% endif %}</li>
+          {% endfor %}
         </ul>
       </div>
     </aside>

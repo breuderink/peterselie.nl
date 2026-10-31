@@ -4,6 +4,11 @@ module.exports = (eleventyConfig) => {
   // snapshot is the validator's oracle and re-import source only. (The
   // 2.0 build links one stylesheet, themes/peterselie/style.css; the old
   // modules/*.css are served to the oracle via its own symlink.)
+  // Menu (content/_data/menu.json): an item with children stays open on its
+  // own page and on its children's pages — the old site's expand behaviour,
+  // now derived from the URL instead of per-page frontmatter.
+  eleventyConfig.addFilter("inMenu", (item, url) =>
+    item.url === url || (item.children || []).some((c) => c.url === url));
   eleventyConfig.addPassthroughCopy({ "files": "files" });
   eleventyConfig.addPassthroughCopy({ "themes": "themes" });
   eleventyConfig.addPassthroughCopy({ "misc": "misc" });
