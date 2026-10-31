@@ -4,6 +4,9 @@
 Two checks:
   1. structural — per page: visible text, image list, link list
      (archive vs build), exact. Catches lost/duplicated content.
+     The sidebar menu is exempt from the archive comparison: it is
+     owner-editable (content/_data/menu.json) and checked against that
+     source instead, so menu changes pass the gate.
   2. contract   — design invariants of the new render, checked on ONE
      page: the green banner image (incl. its cream logo), the black menu
      panel, the cream 600px column. One page is provably enough — the
@@ -21,6 +24,7 @@ Usage: python3 tools/validate.py [ARCHIVE_DIR] [BUILD_DIR]
 import html as htmlmod
 import http.server
 import io
+import json
 import re
 import socketserver
 import sys
@@ -36,6 +40,24 @@ ARCHIVE = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "archive" / "live-2
 BUILD = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / "build"
 VIEWPORT = {"width": 800, "height": 1000}
 CONTRACT_PAGE = "contact"  # short, stable slug; the chrome is the same on every page
+MENU = json.loads((ROOT / "content" / "_data" / "menu.json").read_text(encoding="utf-8"))
+
+
+def expected_menu(url: str) -> tuple[str, list[str]]:
+    """Sidebar text and link hrefs the template must render for a page URL.
+
+    A sub-menu is present on the parent's page and on its children's pages
+    (the rule the template implements in _includes/base.html)."""
+    labels: list[str] = []
+    links: list[str] = []
+    for item in MENU:
+        labels.append(item["label"])
+        links.append(item["url"])
+        children = item.get("children", [])
+        if children and (item["url"] == url or any(c["url"] == url for c in children)):
+            labels += [c["label"] for c in children]
+            links += [c["url"] for c in children]
+    return " ".join(labels), sorted(links)
 
 
 def serve(directory: Path, port: int) -> None:
@@ -103,12 +125,32 @@ def main() -> int:
     pages = sorted(p.name for p in ARCHIVE.iterdir() if p.is_file() and p.name != "manifest.tsv")
     struct_fail = []
 
+    # Frontmatter `active` is an alias override (e.g. front page -> /intro);
+    # otherwise the page URL is what the template highlights/expands.
+    overrides = {}
+    for f in (ROOT / "content").glob("*.md"):
+        lines = f.read_text(encoding="utf-8").split("\n")
+        if lines[0] == "---":
+            fm = json.loads(lines[1])
+            if fm.get("active") and fm["active"] != fm.get("permalink"):
+                overrides[fm["permalink"]] = fm["active"]
+
+    menu_fail = [u for item in MENU
+                 for u in [item["url"]] + [c["url"] for c in item.get("children", [])]
+                 if not (BUILD / u.lstrip("/")).is_file()]
+
     # 1. structural — file-based, no browser needed
     for name in pages:
-        a_text, a_imgs, a_links = extract((ARCHIVE / name).read_text(encoding="utf-8"))
-        b_text, b_imgs, b_links = extract((BUILD / name).read_text(encoding="utf-8"))
-        diffs = [k for k, (a, b) in
-                 {"text": (a_text, b_text), "images": (a_imgs, b_imgs), "links": (a_links, b_links)}.items() if a != b]
+        a_html = (ARCHIVE / name).read_text(encoding="utf-8")
+        b_html = (BUILD / name).read_text(encoding="utf-8")
+        a = extract(re.sub(r'<td class="sidebar" id="sidebar-left">.*?(?=<td class="main-content")', "", a_html, flags=re.S))
+        aside = re.search(r"<aside id=\"sidebar-left\".*?</aside>", b_html, flags=re.S)
+        b = extract(re.sub(r"<aside id=\"sidebar-left\".*?</aside>", "", b_html, flags=re.S))
+        diffs = [k for k, (x, y) in {"text": (a[0], b[0]), "images": (a[1], b[1]), "links": (a[2], b[2])}.items() if x != y]
+        if aside:
+            m_text, m_links = expected_menu(overrides.get("/" + name, "/" + name))
+            if extract(aside.group(0))[0] != m_text or extract(aside.group(0))[2] != m_links:
+                diffs.append("menu")
         if diffs:
             struct_fail.append((name, diffs))
 
@@ -126,9 +168,11 @@ def main() -> int:
     print(f"checked {len(pages)} pages")
     for name, diffs in struct_fail:
         print(f"STRUCTURAL DIFF {name}: {diffs}")
+    for u in menu_fail:
+        print(f"MENU LINK MISSING {u}")
     if contract_fail:
         print(f"CONTRACT FAIL {CONTRACT_PAGE}: {contract_fail}")
-    ok = not (struct_fail or contract_fail)
+    ok = not (struct_fail or contract_fail or menu_fail)
     print("PASS" if ok else "FAIL")
     return 0 if ok else 1
 

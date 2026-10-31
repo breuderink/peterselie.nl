@@ -34,7 +34,9 @@ context or evidence — that is a defect to fix.
 
 Build inputs (the rewrite — no archive needed):
 
-- `content/*.md` — 179 pages, markdown, the only thing an editor touches
+- `content/*.md` — the pages, markdown; `content/_data/menu.json` — the
+  sidebar menu (ordered list, one nesting level). These two are the only
+  things an editor touches
 - `files/` — all site media (single copy; also the oracle's media via symlink)
 - `themes/` — the whole theme: one stylesheet + the logo banner (header.png);
   `misc/` — favicon
@@ -52,14 +54,16 @@ it is a one-time / on-reimport tool (see below).
 **2.0 is an intent-level redesign** (user decision 2026-10-17): the old
 look in modern, simpler primitives — not a pixel clone. The old table
 chrome, 9-slice corner PNGs, seam borders and 0.5px raster offsets are
-gone; deliberate differences: no menu bullets/indent, active menu item is
-bold (the old active state was black-on-black, invisible), menu links
-ununderlined, footer credit is real text (was baked into an image), the
-layout stacks below 640px (the old site was a fixed 600px, unusable on
-phones). The pixel-perfect version of 2.0 lives on at tag v2.0.
+gone; deliberate differences: footer credit is real text (was baked into
+an image), the layout stacks below 640px (the old site was a fixed 600px,
+unusable on phones). The menu was pulled back to the archive's look on
+2026-10-26 (t020) and is now data-driven (content/_data/menu.json).
+The pixel-perfect version of 2.0 lives on at tag v2.0.
 
 `validate.py` is the gate: structural (exact text/images/links on all
-179 pages) + a design contract on ONE rendered page (banner image,
+179 pages; the sidebar menu is checked against content/_data/menu.json,
+its own source, not the snapshot — so the owner can change it) + a
+design contract on ONE rendered page (banner image,
 black panel, cream column — the chrome is one template + one
 stylesheet, so one page is provably enough). ~2 seconds. The
 pixel-diff check was RETIRED in 2.1 with the user's sign-off

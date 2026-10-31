@@ -34,6 +34,19 @@ in de map `content/`, met de naam van de pagina:
 - De bestanden `_includes/`, `themes/`, `files/`, `tools/` en de
   bestanden `STATE.md`, `LOG.md`, `KNOWLEDGE.md`, `TASKS.md`.
 
+## Het menu
+
+Het menu staat in één bestand: `content/_data/menu.json`. Elke item heeft:
+
+- `"label"` — de tekst zoals die in het menu staat
+- `"url"` — de link (bijv. `/contact` = https://peterselie.nl/contact)
+- `"children"` — optioneel: submenu-items, zelf weer label + url
+
+De volgorde in het bestand is de volgorde in het menu. Een item met
+children staat open op zijn eigen pagina en op de pagina's van zijn
+children. De controle checkt het menu tegen dit bestand, dus aanpassingen
+in het menu mogen gewoon — de pagina's zelf blijven vast aan het origineel.
+
 ## Nieuwe afbeelding of bestand
 
 Zet het bestand in de map `files/` en verwijst ernaar in de pagina met
