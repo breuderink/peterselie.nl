@@ -1,5 +1,5 @@
 ---
-{"permalink": "/mamakwijt", "layout": "base.html", "title": "Waar is mijn mama? | Poppentheater Peterselie", "h2": "Waar is mijn mama?", "active": null, "expand": false, "mission": null}
+{"permalink": "/mamakwijt", "layout": "base.html", "title": "Waar is mijn mama? | Poppentheater Peterselie", "h2": "Waar is mijn mama?", "mission": null}
 ---
 Helaas, deze voorstelling wordt niet meer gespeeld, omdat alles verkocht is aan een beginnend poppentheater!
 

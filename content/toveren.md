@@ -1,5 +1,5 @@
 ---
-{"permalink": "/toveren", "layout": "base.html", "title": "Ik kan toveren! | Poppentheater Peterselie", "h2": "Ik kan toveren!", "active": null, "expand": false, "mission": null}
+{"permalink": "/toveren", "layout": "base.html", "title": "Ik kan toveren! | Poppentheater Peterselie", "h2": "Ik kan toveren!", "mission": null}
 ---
 ![toveren_internet.jpg](/files/toveren_internet.jpg "toveren_internet.jpg")
  affiche: Boris Reuderink

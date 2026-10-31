@@ -1,5 +1,5 @@
 ---
-{"permalink": "/archiefvoorstellingen", "layout": "base.html", "title": "Archiefvoorstellingen | Poppentheater Peterselie", "h2": "Archiefvoorstellingen", "active": null, "expand": false, "mission": null}
+{"permalink": "/archiefvoorstellingen", "layout": "base.html", "title": "Archiefvoorstellingen | Poppentheater Peterselie", "h2": "Archiefvoorstellingen", "mission": null}
 ---
 **ARCHIEF**
  Hieronder staan een aantal voorstellingen die niet meer geboekt kunnen worden.

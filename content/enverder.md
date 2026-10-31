@@ -1,5 +1,5 @@
 ---
-{"permalink": "/enverder", "layout": "base.html", "title": "En verder... | Poppentheater Peterselie", "h2": "En verder...", "active": "/enverder", "expand": false, "mission": null}
+{"permalink": "/enverder", "layout": "base.html", "title": "En verder... | Poppentheater Peterselie", "h2": "En verder...", "mission": null}
 ---
 ![vingerpoes.jpg](/files/vingerpoes.jpg "vingerpoes.jpg")
 

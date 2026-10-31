@@ -1,5 +1,5 @@
 ---
-{"permalink": "/bouwplaat", "layout": "base.html", "title": "Bouwplaat van de Peterselie-auto | Poppentheater Peterselie", "h2": "Bouwplaat van de Peterselie-auto", "active": null, "expand": false, "mission": null}
+{"permalink": "/bouwplaat", "layout": "base.html", "title": "Bouwplaat van de Peterselie-auto | Poppentheater Peterselie", "h2": "Bouwplaat van de Peterselie-auto", "mission": null}
 ---
 ![bouwplaat-web.jpg](/files/bouwplaat-web.jpg "bouwplaat-web.jpg")
 

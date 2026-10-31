@@ -1,5 +1,5 @@
 ---
-{"permalink": "/mouwslurfolifant", "layout": "base.html", "title": "Olifant met mouwslurf | Poppentheater Peterselie", "h2": "Olifant met mouwslurf", "active": null, "expand": false, "mission": null}
+{"permalink": "/mouwslurfolifant", "layout": "base.html", "title": "Olifant met mouwslurf | Poppentheater Peterselie", "h2": "Olifant met mouwslurf", "mission": null}
 ---
 ![potje.jpg](/files/potje.jpg "potje.jpg")
 

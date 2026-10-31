@@ -1,5 +1,5 @@
 ---
-{"permalink": "/tips", "layout": "base.html", "title": "Tips voor een prettige voorstelling | Poppentheater Peterselie", "h2": "Tips voor een prettige voorstelling", "active": null, "expand": false, "mission": null}
+{"permalink": "/tips", "layout": "base.html", "title": "Tips voor een prettige voorstelling | Poppentheater Peterselie", "h2": "Tips voor een prettige voorstelling", "mission": null}
 ---
 ![prettigevoorstelling.jpg](/files/prettigevoorstelling.jpg "prettigevoorstelling.jpg")
 

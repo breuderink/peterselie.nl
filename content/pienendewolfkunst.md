@@ -1,5 +1,5 @@
 ---
-{"permalink": "/pienendewolfkunst", "layout": "base.html", "title": "Illustraties van Nicolette Wever bij Pien en de Wolf | Poppentheater Peterselie", "h2": "Illustraties van Nicolette Wever bij Pien en de Wolf", "active": null, "expand": false, "mission": null}
+{"permalink": "/pienendewolfkunst", "layout": "base.html", "title": "Illustraties van Nicolette Wever bij Pien en de Wolf | Poppentheater Peterselie", "h2": "Illustraties van Nicolette Wever bij Pien en de Wolf", "mission": null}
 ---
 ![eend.jpeg](/files/eend.jpeg "eend.jpeg")
 

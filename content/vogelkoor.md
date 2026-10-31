@@ -1,5 +1,5 @@
 ---
-{"permalink": "/vogelkoor", "layout": "base.html", "title": "Het grote vogelochtendkoor. | Poppentheater Peterselie", "h2": "Het grote vogelochtendkoor.", "active": null, "expand": false, "mission": null}
+{"permalink": "/vogelkoor", "layout": "base.html", "title": "Het grote vogelochtendkoor. | Poppentheater Peterselie", "h2": "Het grote vogelochtendkoor.", "mission": null}
 ---
 ![Het-Grote-Vogel-ochtendkoor-Lemniscaat-Ragnhild-Scamell-12925139.jpg](/files/Het-Grote-Vogel-ochtendkoor-Lemniscaat-Ragnhild-Scamell-12925139.jpg "Het-Grote-Vogel-ochtendkoor-Lemniscaat-Ragnhild-Scamell-12925139.jpg")
 

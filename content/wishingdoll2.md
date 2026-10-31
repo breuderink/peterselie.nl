@@ -1,5 +1,5 @@
 ---
-{"permalink": "/wishingdoll2", "layout": "base.html", "title": "Power Doll, made of a branch. | Poppentheater Peterselie", "h2": "Power Doll, made of a branch.", "active": null, "expand": false, "mission": null}
+{"permalink": "/wishingdoll2", "layout": "base.html", "title": "Power Doll, made of a branch. | Poppentheater Peterselie", "h2": "Power Doll, made of a branch.", "mission": null}
 ---
 ![takpopbuiten-klein.jpg](/files/takpopbuiten-klein_0.jpg "takpopbuiten-klein.jpg")
 

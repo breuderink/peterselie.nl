@@ -1,5 +1,5 @@
 ---
-{"permalink": "/doornroosje", "layout": "base.html", "title": "Doornroosje | Poppentheater Peterselie", "h2": "Doornroosje", "active": null, "expand": false, "mission": null}
+{"permalink": "/doornroosje", "layout": "base.html", "title": "Doornroosje | Poppentheater Peterselie", "h2": "Doornroosje", "mission": null}
 ---
 ![Affiche Doornroosje 6+ web.png](</files/Affiche Doornroosje 6+ web.png> "Affiche Doornroosje 6+ web.png")
 

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/ridder", "layout": "base.html", "title": "Speelgoedvoorstelling Ridders en Zo | Poppentheater Peterselie", "h2": "Speelgoedvoorstelling Ridders en Zo", "active": null, "expand": false, "mission": null}
+{"permalink": "/ridder", "layout": "base.html", "title": "Speelgoedvoorstelling Ridders en Zo | Poppentheater Peterselie", "h2": "Speelgoedvoorstelling Ridders en Zo", "mission": null}
 ---
 ![ridder.jpg](/files/ridder.jpg "ridder.jpg")
 

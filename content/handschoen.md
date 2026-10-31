@@ -1,5 +1,5 @@
 ---
-{"permalink": "/handschoen", "layout": "base.html", "title": "Handschoen-poes | Poppentheater Peterselie", "h2": "Handschoen-poes", "active": null, "expand": false, "mission": null}
+{"permalink": "/handschoen", "layout": "base.html", "title": "Handschoen-poes | Poppentheater Peterselie", "h2": "Handschoen-poes", "mission": null}
 ---
 ![handschoenpoesklein.jpg](/files/handschoenpoesklein.jpg "handschoenpoesklein.jpg")
 

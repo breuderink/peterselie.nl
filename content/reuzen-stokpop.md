@@ -1,5 +1,5 @@
 ---
-{"permalink": "/reuzen-stokpop", "layout": "base.html", "title": "Reuzen-stokpop | Poppentheater Peterselie", "h2": "Reuzen-stokpop", "active": null, "expand": false, "mission": null}
+{"permalink": "/reuzen-stokpop", "layout": "base.html", "title": "Reuzen-stokpop | Poppentheater Peterselie", "h2": "Reuzen-stokpop", "mission": null}
 ---
 ![240320141260.jpg](/files/240320141260.jpg "240320141260.jpg")
  Meer dan levensgrote stokpop (om bijvoorbeeld in een optocht mee te lopen, of als reus bij een stokpoppenspel).

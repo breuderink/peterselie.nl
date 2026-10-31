@@ -1,5 +1,5 @@
 ---
-{"permalink": "/zelfpoppenmaken", "layout": "base.html", "title": "Zelf poppen maken en bespelen | Poppentheater Peterselie", "h2": "Zelf poppen maken en bespelen", "active": null, "expand": false, "mission": null}
+{"permalink": "/zelfpoppenmaken", "layout": "base.html", "title": "Zelf poppen maken en bespelen | Poppentheater Peterselie", "h2": "Zelf poppen maken en bespelen", "mission": null}
 ---
 ![kleinefoto.jpg](/files/kleinefoto.jpg "kleinefoto.jpg")
 

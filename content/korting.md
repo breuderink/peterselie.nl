@@ -1,5 +1,5 @@
 ---
-{"permalink": "/korting", "layout": "base.html", "title": "korting voor kleine groepjes | Poppentheater Peterselie", "h2": "korting voor kleine groepjes", "active": null, "expand": false, "mission": null}
+{"permalink": "/korting", "layout": "base.html", "title": "korting voor kleine groepjes | Poppentheater Peterselie", "h2": "korting voor kleine groepjes", "mission": null}
 ---
 Voorwaarden voor korting zijn:
 

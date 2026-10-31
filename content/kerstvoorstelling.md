@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kerstvoorstelling", "layout": "base.html", "title": "Van de ster en de stal | Poppentheater Peterselie", "h2": "Van de ster en de stal", "active": null, "expand": false, "mission": null}
+{"permalink": "/kerstvoorstelling", "layout": "base.html", "title": "Van de ster en de stal | Poppentheater Peterselie", "h2": "Van de ster en de stal", "mission": null}
 ---
 ![kerstinternet_oud.jpg](/files/kerstinternet_oud.jpg "kerstinternet_oud.jpg")
 

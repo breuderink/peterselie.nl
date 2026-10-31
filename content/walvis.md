@@ -1,5 +1,5 @@
 ---
-{"permalink": "/walvis", "layout": "base.html", "title": "Pien en de Walvis | Poppentheater Peterselie", "h2": "Pien en de Walvis", "active": null, "expand": false, "mission": null}
+{"permalink": "/walvis", "layout": "base.html", "title": "Pien en de Walvis | Poppentheater Peterselie", "h2": "Pien en de Walvis", "mission": null}
 ---
 ![Walvisaffiche3-web.jpg](/files/Walvisaffiche3-web.jpg "Walvisaffiche3-web.jpg")
 

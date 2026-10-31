@@ -1,5 +1,5 @@
 ---
-{"permalink": "/persfotos", "layout": "base.html", "title": "persfoto&#039;s van Poppentheater Peterselie | Poppentheater Peterselie", "h2": "persfoto&#039;s van Poppentheater Peterselie", "active": null, "expand": false, "mission": null}
+{"permalink": "/persfotos", "layout": "base.html", "title": "persfoto&#039;s van Poppentheater Peterselie | Poppentheater Peterselie", "h2": "persfoto&#039;s van Poppentheater Peterselie", "mission": null}
 ---
 ![ridder zonder moed Roz.jpg](</files/ridder zonder moed Roz.jpg> "ridder zonder moed Roz.jpg")
 

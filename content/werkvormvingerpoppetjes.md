@@ -1,5 +1,5 @@
 ---
-{"permalink": "/werkvormvingerpoppetjes", "layout": "base.html", "title": "werkvorm vingerpoppetjes | Poppentheater Peterselie", "h2": "werkvorm vingerpoppetjes", "active": null, "expand": false, "mission": null}
+{"permalink": "/werkvormvingerpoppetjes", "layout": "base.html", "title": "werkvorm vingerpoppetjes | Poppentheater Peterselie", "h2": "werkvorm vingerpoppetjes", "mission": null}
 ---
 ![vingerpoppetjes.JPG](/files/vingerpoppetjes.JPG "vingerpoppetjes.JPG")
 

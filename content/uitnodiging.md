@@ -1,5 +1,5 @@
 ---
-{"permalink": "/uitnodiging", "layout": "base.html", "title": "Uitnodiging voor een poppen-verjaarsfeestje | Poppentheater Peterselie", "h2": "Uitnodiging voor een poppen-verjaarsfeestje", "active": null, "expand": false, "mission": null}
+{"permalink": "/uitnodiging", "layout": "base.html", "title": "Uitnodiging voor een poppen-verjaarsfeestje | Poppentheater Peterselie", "h2": "Uitnodiging voor een poppen-verjaarsfeestje", "mission": null}
 ---
 ![Poppenkastuitnodiging4_web.jpg](/files/Poppenkastuitnodiging4_web.jpg "Poppenkastuitnodiging4_web.jpg")
 

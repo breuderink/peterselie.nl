@@ -1,5 +1,5 @@
 ---
-{"permalink": "/pienendewolf", "layout": "base.html", "title": "Pien en de Wolf | Poppentheater Peterselie", "h2": "Pien en de Wolf", "active": null, "expand": false, "mission": null}
+{"permalink": "/pienendewolf", "layout": "base.html", "title": "Pien en de Wolf | Poppentheater Peterselie", "h2": "Pien en de Wolf", "mission": null}
 ---
 ![pienendewolfinternet.jpg](/files/pienendewolfinternet.jpg "pienendewolfinternet.jpg")
 

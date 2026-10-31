@@ -1,5 +1,5 @@
 ---
-{"permalink": "/paashaasjes", "layout": "base.html", "title": "Paashaas-vingerpopje | Poppentheater Peterselie", "h2": "Paashaas-vingerpopje", "active": null, "expand": false, "mission": null}
+{"permalink": "/paashaasjes", "layout": "base.html", "title": "Paashaas-vingerpopje | Poppentheater Peterselie", "h2": "Paashaas-vingerpopje", "mission": null}
 ---
 ![Paashaasjes-vingerpoppen.jpg](/files/Paashaasjes-vingerpoppen.jpg "Paashaasjes-vingerpoppen.jpg")
 

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/poespoeswaarzitje", "layout": "base.html", "title": "Poespoes, waar zit je? (Archief) | Poppentheater Peterselie", "h2": "Poespoes, waar zit je? (Archief)", "active": null, "expand": false, "mission": null}
+{"permalink": "/poespoeswaarzitje", "layout": "base.html", "title": "Poespoes, waar zit je? (Archief) | Poppentheater Peterselie", "h2": "Poespoes, waar zit je? (Archief)", "mission": null}
 ---
 ![poespoes2.jpg](/files/poespoes2.jpg "poespoes2.jpg")
 

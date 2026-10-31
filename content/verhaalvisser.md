@@ -1,5 +1,5 @@
 ---
-{"permalink": "/verhaalvisser", "layout": "base.html", "title": " &quot;Van de Visser en zijn Hebberige Vrouw&quot; | Poppentheater Peterselie", "h2": " &quot;Van de Visser en zijn Hebberige Vrouw&quot;", "active": null, "expand": false, "mission": null}
+{"permalink": "/verhaalvisser", "layout": "base.html", "title": " &quot;Van de Visser en zijn Hebberige Vrouw&quot; | Poppentheater Peterselie", "h2": " &quot;Van de Visser en zijn Hebberige Vrouw&quot;", "mission": null}
 ---
 "Van de Visser en zijn Hebberige Vrouw" is gepubliceerd in "De Geest van Overijssel. Een Spannende Verhalentocht". Dit boek kwam tot stand in het kader van het Jaar van het Immaterieel Erfgoed, naar aanleiding van de wedstrijd "Geef je gemeente een eigen volksverhaal!" van het Nederlands Centrum voor Volkscultuur en Immaterieel Erfgoed en de Provincie Overijssel. Het verhaal is gebaseerd op "Van de Visser en zijn Vrouw" van Grimm. Klik op onderstaande teksten om te vergroten.
 

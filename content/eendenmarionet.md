@@ -1,5 +1,5 @@
 ---
-{"permalink": "/eendenmarionet", "layout": "base.html", "title": "Eenden-marionet | Poppentheater Peterselie", "h2": "Eenden-marionet", "active": null, "expand": false, "mission": null}
+{"permalink": "/eendenmarionet", "layout": "base.html", "title": "Eenden-marionet | Poppentheater Peterselie", "h2": "Eenden-marionet", "mission": null}
 ---
 ![bommesmarionet.jpg](/files/bommesmarionet_0.jpg "bommesmarionet.jpg")
 

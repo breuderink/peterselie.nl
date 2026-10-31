@@ -1,5 +1,5 @@
 ---
-{"permalink": "/indianen", "layout": "base.html", "title": "&quot;Wij zijn Indianen, we gaan op berenjacht.....&quot; | Poppentheater Peterselie", "h2": "&quot;Wij zijn Indianen, we gaan op berenjacht.....&quot;", "active": null, "expand": false, "mission": null}
+{"permalink": "/indianen", "layout": "base.html", "title": "&quot;Wij zijn Indianen, we gaan op berenjacht.....&quot; | Poppentheater Peterselie", "h2": "&quot;Wij zijn Indianen, we gaan op berenjacht.....&quot;", "mission": null}
 ---
 Helaas, deze voorstelling kan niet meer worden geboekt.
 

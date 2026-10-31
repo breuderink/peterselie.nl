@@ -1,5 +1,5 @@
 ---
-{"permalink": "/dame", "layout": "base.html", "title": "Een levensgrote marionet | Poppentheater Peterselie", "h2": "Een levensgrote marionet", "active": null, "expand": false, "mission": null}
+{"permalink": "/dame", "layout": "base.html", "title": "Een levensgrote marionet | Poppentheater Peterselie", "h2": "Een levensgrote marionet", "mission": null}
 ---
 ![Dame 1-webbreed.jpg](</files/Dame 1-webbreed_0.jpg> "Dame 1-webbreed.jpg")
 

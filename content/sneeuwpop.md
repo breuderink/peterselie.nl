@@ -1,5 +1,5 @@
 ---
-{"permalink": "/sneeuwpop", "layout": "base.html", "title": "Sneeuwpop sokpop | Poppentheater Peterselie", "h2": "Sneeuwpop sokpop", "active": null, "expand": false, "mission": null}
+{"permalink": "/sneeuwpop", "layout": "base.html", "title": "Sneeuwpop sokpop | Poppentheater Peterselie", "h2": "Sneeuwpop sokpop", "mission": null}
 ---
 ![sneeuwpop.jpg](/files/sneeuwpop.jpg "sneeuwpop.jpg")
 

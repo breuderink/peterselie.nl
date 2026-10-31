@@ -1,5 +1,5 @@
 ---
-{"permalink": "/boerderij", "layout": "base.html", "title": "De boerderij heeft een dagje vrij | Poppentheater Peterselie", "h2": "De boerderij heeft een dagje vrij", "active": null, "expand": false, "mission": null}
+{"permalink": "/boerderij", "layout": "base.html", "title": "De boerderij heeft een dagje vrij | Poppentheater Peterselie", "h2": "De boerderij heeft een dagje vrij", "mission": null}
 ---
 ![boerderijklein.jpg](/files/boerderijklein_0.jpg "boerderijklein.jpg")
 

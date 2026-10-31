@@ -1,5 +1,5 @@
 ---
-{"permalink": "/toegepastpoppenspel", "layout": "base.html", "title": "Workshop Toegepast Poppenspel  | Poppentheater Peterselie", "h2": "Workshop Toegepast Poppenspel ", "active": "/toegepastpoppenspel", "expand": true, "mission": null}
+{"permalink": "/toegepastpoppenspel", "layout": "base.html", "title": "Workshop Toegepast Poppenspel  | Poppentheater Peterselie", "h2": "Workshop Toegepast Poppenspel ", "mission": null}
 ---
 ![fles7.jpeg](/files/fles7.jpeg "fles7.jpeg")
 

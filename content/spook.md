@@ -1,5 +1,5 @@
 ---
-{"permalink": "/spook", "layout": "base.html", "title": "Ik ben niet bang voor een spook! | Poppentheater Peterselie", "h2": "Ik ben niet bang voor een spook!", "active": null, "expand": false, "mission": null}
+{"permalink": "/spook", "layout": "base.html", "title": "Ik ben niet bang voor een spook! | Poppentheater Peterselie", "h2": "Ik ben niet bang voor een spook!", "mission": null}
 ---
 ![spookje-poppentheaterpeterselie.jpg](/files/spookje-poppentheaterpeterselie.jpg "spookje-poppentheaterpeterselie.jpg")
  De (onversierde) spookpop van Peterselie...

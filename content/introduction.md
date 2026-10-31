@@ -1,5 +1,5 @@
 ---
-{"permalink": "/introduction", "layout": "base.html", "title": "Introduction | Poppentheater Peterselie", "h2": "Introduction", "active": "/introduction", "expand": false, "mission": null}
+{"permalink": "/introduction", "layout": "base.html", "title": "Introduction | Poppentheater Peterselie", "h2": "Introduction", "mission": null}
 ---
 ![CRW_5977.jpg](/files/CRW_5977.jpg "CRW_5977.jpg")
  Foto: Saskia de Jong

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/zwartepietboterham", "layout": "base.html", "title": "Zwarte Piet-boterham | Poppentheater Peterselie", "h2": "Zwarte Piet-boterham", "active": null, "expand": false, "mission": null}
+{"permalink": "/zwartepietboterham", "layout": "base.html", "title": "Zwarte Piet-boterham | Poppentheater Peterselie", "h2": "Zwarte Piet-boterham", "mission": null}
 ---
 ![zwartepiet-boterham:poppentheater-peterselie.jpg](/files/zwartepiet-boterham:poppentheater-peterselie.jpg "zwartepiet-boterham:poppentheater-peterselie.jpg")
 

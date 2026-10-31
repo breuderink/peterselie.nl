@@ -1,5 +1,5 @@
 ---
-{"permalink": "/watmenschrijft", "layout": "base.html", "title": "Wat men schrijft en  zegt over Poppentheater Peterselie | Poppentheater Peterselie", "h2": "Wat men schrijft en  zegt over Poppentheater Peterselie", "active": null, "expand": false, "mission": null}
+{"permalink": "/watmenschrijft", "layout": "base.html", "title": "Wat men schrijft en  zegt over Poppentheater Peterselie | Poppentheater Peterselie", "h2": "Wat men schrijft en  zegt over Poppentheater Peterselie", "mission": null}
 ---
 Klik op de afbeelding voor een grotere versie.
 

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/links", "layout": "base.html", "title": "Poppen-links | Poppentheater Peterselie", "h2": "Poppen-links", "active": null, "expand": false, "mission": null}
+{"permalink": "/links", "layout": "base.html", "title": "Poppen-links | Poppentheater Peterselie", "h2": "Poppen-links", "mission": null}
 ---
 ![links.jpg](/files/links.jpg "links.jpg")
  Poppentheater Peterselie in de voorstelling: "Nog een keertje!"

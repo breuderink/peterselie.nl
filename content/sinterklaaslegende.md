@@ -1,5 +1,5 @@
 ---
-{"permalink": "/sinterklaaslegende", "layout": "base.html", "title": "Sinterklaas | Poppentheater Peterselie", "h2": "Sinterklaas", "active": null, "expand": false, "mission": null}
+{"permalink": "/sinterklaaslegende", "layout": "base.html", "title": "Sinterklaas | Poppentheater Peterselie", "h2": "Sinterklaas", "mission": null}
 ---
 "De beuze slager" is wel de meest geschikte Sinterklaaslegende om echt in de Sint-stemming te komen.
 ![200px-Sinter-claes-saint-nicolas-dam800.jpg](/files/200px-Sinter-claes-saint-nicolas-dam800_0.jpg "200px-Sinter-claes-saint-nicolas-dam800.jpg")

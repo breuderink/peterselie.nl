@@ -1,5 +1,5 @@
 ---
-{"permalink": "/flessenpop", "layout": "base.html", "title": "flessenpop | Poppentheater Peterselie", "h2": "flessenpop", "active": null, "expand": false, "mission": null}
+{"permalink": "/flessenpop", "layout": "base.html", "title": "flessenpop | Poppentheater Peterselie", "h2": "flessenpop", "mission": null}
 ---
 ![allepoppenuil.JPG](/files/allepoppenuil_1.JPG "allepoppenuil.JPG")
 

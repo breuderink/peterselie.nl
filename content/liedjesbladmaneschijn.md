@@ -1,5 +1,5 @@
 ---
-{"permalink": "/liedjesbladmaneschijn", "layout": "base.html", "title": "Liedjesblad &quot;In de maneschijn&quot; | Poppentheater Peterselie", "h2": "Liedjesblad &quot;In de maneschijn&quot;", "active": null, "expand": false, "mission": null}
+{"permalink": "/liedjesbladmaneschijn", "layout": "base.html", "title": "Liedjesblad &quot;In de maneschijn&quot; | Poppentheater Peterselie", "h2": "Liedjesblad &quot;In de maneschijn&quot;", "mission": null}
 ---
 ![langleven.gif](/files/langleven.gif "langleven.gif")<br><br>
 **In de maneschijn**

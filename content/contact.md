@@ -1,5 +1,5 @@
 ---
-{"permalink": "/contact", "layout": "base.html", "title": "Contact | Poppentheater Peterselie", "h2": "Contact", "active": "/contact", "expand": false, "mission": null}
+{"permalink": "/contact", "layout": "base.html", "title": "Contact | Poppentheater Peterselie", "h2": "Contact", "mission": null}
 ---
 ![logo.gif](/files/logo.gif "logo.gif")
 

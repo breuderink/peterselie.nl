@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kiekeboe", "layout": "base.html", "title": "Kiekeboepop maken (pop-up) | Poppentheater Peterselie", "h2": "Kiekeboepop maken (pop-up)", "active": null, "expand": false, "mission": null}
+{"permalink": "/kiekeboe", "layout": "base.html", "title": "Kiekeboepop maken (pop-up) | Poppentheater Peterselie", "h2": "Kiekeboepop maken (pop-up)", "mission": null}
 ---
 Een kiekeboe-popje is handig in de klas (bijvoorbeeld als klassenvriendje bij het kringgesprek), bij de dokter (om een kind even af te leiden), in het bejaardenhuis (bijvoorbeeld de hond op de foto hieronder als aaiobject), om een verhaal mee te vertellen enz. enz.
 

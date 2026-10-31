@@ -1,5 +1,5 @@
 ---
-{"permalink": "/erwt", "layout": "base.html", "title": "Meedoe-voorstelling De Prinses op de erwt | Poppentheater Peterselie", "h2": "Meedoe-voorstelling De Prinses op de erwt", "active": null, "expand": false, "mission": null}
+{"permalink": "/erwt", "layout": "base.html", "title": "Meedoe-voorstelling De Prinses op de erwt | Poppentheater Peterselie", "h2": "Meedoe-voorstelling De Prinses op de erwt", "mission": null}
 ---
 ![AffichePrinsesopdeErwt_web.png](/files/AffichePrinsesopdeErwt_web.png "AffichePrinsesopdeErwt_web.png")
 

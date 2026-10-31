@@ -1,5 +1,5 @@
 ---
-{"permalink": "/cursussen_workshops", "layout": "base.html", "title": "Cursussen / Workshops | Poppentheater Peterselie", "h2": "Cursussen / Workshops", "active": "/cursussen_workshops", "expand": true, "mission": null}
+{"permalink": "/cursussen_workshops", "layout": "base.html", "title": "Cursussen / Workshops | Poppentheater Peterselie", "h2": "Cursussen / Workshops", "mission": null}
 ---
 ![workshop1:poppentheater-peterselie.jpg](/files/workshop1:poppentheater-peterselie.jpg "workshop1:poppentheater-peterselie.jpg")
  Workshop Kinderopvang Groningen
