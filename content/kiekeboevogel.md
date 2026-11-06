@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kiekeboevogel", "layout": "base.html", "title": "kiekeboevogel | Poppentheater Peterselie", "h2": "kiekeboevogel", "mission": null}
+{"permalink": "/kiekeboevogel/", "layout": "base.html", "title": "kiekeboevogel | Poppentheater Peterselie", "h2": "kiekeboevogel", "mission": null}
 ---
 ![kiekeboevogel5_poppentheater-peterselie.JPG](/files/kiekeboevogel5_poppentheater-peterselie.JPG "kiekeboevogel5_poppentheater-peterselie.JPG")
 

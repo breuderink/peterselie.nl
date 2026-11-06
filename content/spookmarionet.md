@@ -1,5 +1,5 @@
 ---
-{"permalink": "/spookmarionet", "layout": "base.html", "title": "spook-marionet | Poppentheater Peterselie", "h2": "spook-marionet", "mission": null}
+{"permalink": "/spookmarionet/", "layout": "base.html", "title": "spook-marionet | Poppentheater Peterselie", "h2": "spook-marionet", "mission": null}
 ---
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/qou7qpSK3fc" frameborder="0" allowfullscreen></iframe></p>
 

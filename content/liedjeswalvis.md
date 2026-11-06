@@ -1,5 +1,5 @@
 ---
-{"permalink": "/liedjeswalvis", "layout": "base.html", "title": "Liedjes uit de voorstelling Pien en de walvis | Poppentheater Peterselie", "h2": "Liedjes uit de voorstelling Pien en de walvis", "mission": null}
+{"permalink": "/liedjeswalvis/", "layout": "base.html", "title": "Liedjes uit de voorstelling Pien en de walvis | Poppentheater Peterselie", "h2": "Liedjes uit de voorstelling Pien en de walvis", "mission": null}
 ---
 Poesje Mauw,
  kom eens gauw.

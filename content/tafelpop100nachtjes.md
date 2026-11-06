@@ -1,5 +1,5 @@
 ---
-{"permalink": "/tafelpop100nachtjes", "layout": "base.html", "title": "Tafelpop Dorus uit &quot;Nog 100 nachtjes slapen&quot; | Poppentheater Peterselie", "h2": "Tafelpop Dorus uit &quot;Nog 100 nachtjes slapen&quot;", "mission": null}
+{"permalink": "/tafelpop100nachtjes/", "layout": "base.html", "title": "Tafelpop Dorus uit &quot;Nog 100 nachtjes slapen&quot; | Poppentheater Peterselie", "h2": "Tafelpop Dorus uit &quot;Nog 100 nachtjes slapen&quot;", "mission": null}
 ---
 ![100nachtjes0.jpg](/files/100nachtjes0.jpg "100nachtjes0.jpg")
 

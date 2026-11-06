@@ -1,5 +1,5 @@
 ---
-{"permalink": "/beertjemeedoe", "layout": "base.html", "title": "Meedoe-voorstelling &quot;Nog een keertje!&quot; | Poppentheater Peterselie", "h2": "Meedoe-voorstelling &quot;Nog een keertje!&quot;", "mission": null}
+{"permalink": "/beertjemeedoe/", "layout": "base.html", "title": "Meedoe-voorstelling &quot;Nog een keertje!&quot; | Poppentheater Peterselie", "h2": "Meedoe-voorstelling &quot;Nog een keertje!&quot;", "mission": null}
 ---
 De voorstelling [Nog een keertje](/nogeenkeertje) kan ook gespeeld worden als meedoe-voorstelling.
  Er worden door de kinderen dan eerst vogeltjes geknutseld, die later meedoen in de voorstelling.

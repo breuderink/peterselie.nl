@@ -42,7 +42,9 @@ def port_page(src: Path, out_dir: Path) -> dict:
 
     slug = "index" if src.name == "index.html" else src.name
     meta = {
-        "permalink": "/index.html" if slug == "index" else f"/{slug}",
+        # /slug/ directory form: GitHub Pages cannot serve extensionless
+        # pages as HTML (DEPLOY.md); old /slug URLs redirect to /slug/.
+        "permalink": "/index.html" if slug == "index" else f"/{slug}/",
         "layout": "base.html",
         "title": m_title.group(1),
         "h2": m_h2.group(1),

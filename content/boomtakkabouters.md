@@ -1,5 +1,5 @@
 ---
-{"permalink": "/boomtakkabouters", "layout": "base.html", "title": "Boomtak-kaboutertjes (met bijpassend versje) | Poppentheater Peterselie", "h2": "Boomtak-kaboutertjes (met bijpassend versje)", "mission": null}
+{"permalink": "/boomtakkabouters/", "layout": "base.html", "title": "Boomtak-kaboutertjes (met bijpassend versje) | Poppentheater Peterselie", "h2": "Boomtak-kaboutertjes (met bijpassend versje)", "mission": null}
 ---
 ![kersttakkenkabouters_web.jpg](/files/kersttakkenkabouters_web.jpg "kersttakkenkabouters_web.jpg")
 

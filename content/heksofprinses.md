@@ -1,5 +1,5 @@
 ---
-{"permalink": "/heksofprinses", "layout": "base.html", "title": "Heks of prinses (archief) | Poppentheater Peterselie", "h2": "Heks of prinses (archief)", "mission": null}
+{"permalink": "/heksofprinses/", "layout": "base.html", "title": "Heks of prinses (archief) | Poppentheater Peterselie", "h2": "Heks of prinses (archief)", "mission": null}
 ---
 ![heksofprinces1.jpg](/files/heksofprinces1.jpg "heksofprinces1.jpg")
 

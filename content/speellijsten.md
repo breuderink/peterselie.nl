@@ -1,5 +1,5 @@
 ---
-{"permalink": "/speellijsten", "layout": "base.html", "title": "Speellijsten | Poppentheater Peterselie", "h2": "Speellijsten", "mission": null}
+{"permalink": "/speellijsten/", "layout": "base.html", "title": "Speellijsten | Poppentheater Peterselie", "h2": "Speellijsten", "mission": null}
 ---
 Kijk voor referenties, krantenknipsels e.d. ook bij [wat men schrijft](/watmenschrijft) over de optredens van Poppentheater Peterselie.
 

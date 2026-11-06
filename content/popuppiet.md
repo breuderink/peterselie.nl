@@ -1,5 +1,5 @@
 ---
-{"permalink": "/popuppiet", "layout": "base.html", "title": "Pop-up Piet  | Poppentheater Peterselie", "h2": "Pop-up Piet ", "mission": null}
+{"permalink": "/popuppiet/", "layout": "base.html", "title": "Pop-up Piet  | Poppentheater Peterselie", "h2": "Pop-up Piet ", "mission": null}
 ---
 Piet kan ook een andere kleur gezicht hebben!
 

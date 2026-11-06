@@ -1,5 +1,5 @@
 ---
-{"permalink": "/zellufdoen", "layout": "base.html", "title": "Zelluf doen | Poppentheater Peterselie", "h2": "Zelluf doen", "mission": null}
+{"permalink": "/zellufdoen/", "layout": "base.html", "title": "Zelluf doen | Poppentheater Peterselie", "h2": "Zelluf doen", "mission": null}
 ---
 ![zellufdoen1.jpg](/files/zellufdoen1.jpg "zellufdoen1.jpg")
  Ontwerp affiche: Boris Reuderink

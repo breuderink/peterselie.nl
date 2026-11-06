@@ -1,5 +1,5 @@
 ---
-{"permalink": "/feestjes", "layout": "base.html", "title": "Feestjes! | Poppentheater Peterselie", "h2": "Feestjes!", "mission": null}
+{"permalink": "/feestjes/", "layout": "base.html", "title": "Feestjes! | Poppentheater Peterselie", "h2": "Feestjes!", "mission": null}
 ---
 Peterselie speelt graag op feestjes in Drenthe, of dat nu verjaarsfeestjes zijn of bruiloften of zomaar een partijtje!
 

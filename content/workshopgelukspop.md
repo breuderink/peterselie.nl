@@ -1,5 +1,5 @@
 ---
-{"permalink": "/workshopgelukspop", "layout": "base.html", "title": "Workshop Gelukspoppen maken | Poppentheater Peterselie", "h2": "Workshop Gelukspoppen maken", "mission": null}
+{"permalink": "/workshopgelukspop/", "layout": "base.html", "title": "Workshop Gelukspoppen maken | Poppentheater Peterselie", "h2": "Workshop Gelukspoppen maken", "mission": null}
 ---
 Gelukspoppen zijn er in allerlei soorten, voor allerlei groepen.
 

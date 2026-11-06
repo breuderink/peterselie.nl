@@ -1,5 +1,5 @@
 ---
-{"permalink": "/poppenfabriek", "layout": "base.html", "title": "De Poppenfabriek | Poppentheater Peterselie", "h2": "De Poppenfabriek", "mission": null}
+{"permalink": "/poppenfabriek/", "layout": "base.html", "title": "De Poppenfabriek | Poppentheater Peterselie", "h2": "De Poppenfabriek", "mission": null}
 ---
 ![Poppenfabriek_web.jpg](/files/Poppenfabriek_web.jpg "Poppenfabriek_web.jpg")
 

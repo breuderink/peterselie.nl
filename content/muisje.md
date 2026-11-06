@@ -1,5 +1,5 @@
 ---
-{"permalink": "/muisje", "layout": "base.html", "title": "Tafelpoppenkastje met spelletje | Poppentheater Peterselie", "h2": "Tafelpoppenkastje met spelletje", "mission": null}
+{"permalink": "/muisje/", "layout": "base.html", "title": "Tafelpoppenkastje met spelletje | Poppentheater Peterselie", "h2": "Tafelpoppenkastje met spelletje", "mission": null}
 ---
 ![250720141490klein.jpg](/files/250720141490klein.jpg "250720141490klein.jpg")
 

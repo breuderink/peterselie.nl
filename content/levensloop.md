@@ -1,5 +1,5 @@
 ---
-{"permalink": "/levensloop", "layout": "base.html", "title": "levensloop | Poppentheater Peterselie", "h2": "levensloop", "mission": null}
+{"permalink": "/levensloop/", "layout": "base.html", "title": "levensloop | Poppentheater Peterselie", "h2": "levensloop", "mission": null}
 ---
 Feitjes uit mijn leven, voor zover deze misschien iets  te maken hebben met mijn keuze om een poppenspeler (die veel muziek maakt tijdens de voorstellingen) te worden. Een soortement CV dus.
  Documenten kunnen worden vergroot door erop te klikken.

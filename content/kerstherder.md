@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kerstherder", "layout": "base.html", "title": "Tafelpop Kerstherder | Poppentheater Peterselie", "h2": "Tafelpop Kerstherder", "mission": null}
+{"permalink": "/kerstherder/", "layout": "base.html", "title": "Tafelpop Kerstherder | Poppentheater Peterselie", "h2": "Tafelpop Kerstherder", "mission": null}
 ---
 ![kerstherder.JPG](/files/kerstherder.JPG "kerstherder.JPG")
 

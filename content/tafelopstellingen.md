@@ -1,5 +1,5 @@
 ---
-{"permalink": "/tafelopstellingen", "layout": "base.html", "title": "Coachingspoppen voor o.a. tafelopstellingen | Poppentheater Peterselie", "h2": "Coachingspoppen voor o.a. tafelopstellingen", "mission": null}
+{"permalink": "/tafelopstellingen/", "layout": "base.html", "title": "Coachingspoppen voor o.a. tafelopstellingen | Poppentheater Peterselie", "h2": "Coachingspoppen voor o.a. tafelopstellingen", "mission": null}
 ---
 Eenvoudig te maken basispop, die door de client in zeer korte tijd kan worden gepersonificeerd.
 

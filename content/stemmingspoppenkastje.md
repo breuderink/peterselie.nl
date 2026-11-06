@@ -1,5 +1,5 @@
 ---
-{"permalink": "/stemmingspoppenkastje", "layout": "base.html", "title": "Stemmingspoppenkastje | Poppentheater Peterselie", "h2": "Stemmingspoppenkastje", "mission": null}
+{"permalink": "/stemmingspoppenkastje/", "layout": "base.html", "title": "Stemmingspoppenkastje | Poppentheater Peterselie", "h2": "Stemmingspoppenkastje", "mission": null}
 ---
 ![stemmingspoppenkastje4b_Poppentheater-Peterselie.JPG](/files/stemmingspoppenkastje4b_Poppentheater-Peterselie.JPG "stemmingspoppenkastje4b_Poppentheater-Peterselie.JPG")
 

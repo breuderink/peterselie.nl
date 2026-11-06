@@ -1,5 +1,5 @@
 ---
-{"permalink": "/rattenvangster", "layout": "base.html", "title": "De rattenvangster  | Poppentheater Peterselie", "h2": "De rattenvangster ", "mission": null}
+{"permalink": "/rattenvangster/", "layout": "base.html", "title": "De rattenvangster  | Poppentheater Peterselie", "h2": "De rattenvangster ", "mission": null}
 ---
 ![Ratten-web.jpg](/files/Ratten-web.jpg "Ratten-web.jpg")
  Klik [hier](/afficheratten) voor een affiche.

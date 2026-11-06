@@ -1,5 +1,5 @@
 ---
-{"permalink": "/intro", "layout": "base.html", "title": "Poppentheater Peterselie | Poppentheater Peterselie", "h2": "Poppentheater Peterselie", "mission": "Poppentheater Peterselie reist door het hele land met intieme interactieve vertelvoorstellingen met poppen, voor kinderen vanaf 2 jaar. Verder zijn er workshops op het gebied van poppenspel, en geeft Poppentheater Peterselie meespeelvoorstellingen."}
+{"permalink": "/intro/", "layout": "base.html", "title": "Poppentheater Peterselie | Poppentheater Peterselie", "h2": "Poppentheater Peterselie", "mission": "Poppentheater Peterselie reist door het hele land met intieme interactieve vertelvoorstellingen met poppen, voor kinderen vanaf 2 jaar. Verder zijn er workshops op het gebied van poppenspel, en geeft Poppentheater Peterselie meespeelvoorstellingen."}
 ---
 ![CRW_5977.jpg](/files/CRW_5977_0.jpg "CRW_5977.jpg")
  Marjanne Peters van Poppentheater Peterselie met de reiger uit het poppenspel: "Alle eendjes....."

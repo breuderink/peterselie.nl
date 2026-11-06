@@ -1,5 +1,5 @@
 ---
-{"permalink": "/bordmasker", "layout": "base.html", "title": "masker van papieren bord | Poppentheater Peterselie", "h2": "masker van papieren bord", "mission": null}
+{"permalink": "/bordmasker/", "layout": "base.html", "title": "masker van papieren bord | Poppentheater Peterselie", "h2": "masker van papieren bord", "mission": null}
 ---
 ![maskers_poppentheater-peterselie.jpg](/files/maskers_poppentheater-peterselie.jpg "maskers_poppentheater-peterselie.jpg")
 

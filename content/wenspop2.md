@@ -1,5 +1,5 @@
 ---
-{"permalink": "/wenspop2", "layout": "base.html", "title": "Krachtpop van tak | Poppentheater Peterselie", "h2": "Krachtpop van tak", "mission": null}
+{"permalink": "/wenspop2/", "layout": "base.html", "title": "Krachtpop van tak | Poppentheater Peterselie", "h2": "Krachtpop van tak", "mission": null}
 ---
 ![takpopbuiten-klein.jpg](/files/takpopbuiten-klein.jpg "takpopbuiten-klein.jpg")
 

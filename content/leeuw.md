@@ -1,5 +1,5 @@
 ---
-{"permalink": "/leeuw", "layout": "base.html", "title": "leeuw | Poppentheater Peterselie", "h2": "leeuw", "mission": null}
+{"permalink": "/leeuw/", "layout": "base.html", "title": "leeuw | Poppentheater Peterselie", "h2": "leeuw", "mission": null}
 ---
 ![stokpoppenKoningLeeuw1web.jpg](/files/stokpoppenKoningLeeuw1web.jpg "stokpoppenKoningLeeuw1web.jpg")
 

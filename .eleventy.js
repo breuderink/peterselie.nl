@@ -12,8 +12,11 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy({ "files": "files" });
   eleventyConfig.addPassthroughCopy({ "themes": "themes" });
   eleventyConfig.addPassthroughCopy({ "misc": "misc" });
-  // Live Drupal URLs are extensionless (/contact, /tekoop); parity requires the same.
-  eleventyConfig.configureErrorReporting({ allowMissingExtensions: true });
+  // Pages emit /slug/ directories (build/slug/index.html): GitHub Pages
+  // infers Content-Type from the file extension and cannot serve an
+  // extensionless page as HTML. Old extensionless URLs (/contact) keep
+  // resolving via Pages' 301 redirect to /contact/ (verify first deploy,
+  // DEPLOY.md).
   // Live URLs contain raw spaces; emit link hrefs verbatim (no %20).
   eleventyConfig.amendLibrary("md", (md) => {
     md.normalizeLink = (link) => link;

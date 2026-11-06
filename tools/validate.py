@@ -60,15 +60,16 @@ def expected_menu(url: str) -> tuple[str, list[str]]:
     return " ".join(labels), sorted(links)
 
 
+def build_path(name: str) -> Path:
+    """Build file for an archive filename.
+
+    Pages emit /slug/ directories (GitHub Pages cannot serve extensionless
+    files as HTML); .html files (index.html, 404.html) stay flat."""
+    return BUILD / name if name.endswith(".html") else BUILD / name / "index.html"
+
+
 def serve(directory: Path, port: int) -> None:
     class Handler(http.server.SimpleHTTPRequestHandler):
-        # Extensionless Drupal paths must be served as HTML, or the browser
-        # treats them as downloads.
-        def guess_type(self, path):  # noqa: A003
-            if Path(path).suffix == "" and Path(path).is_file():
-                return "text/html"
-            return super().guess_type(path)
-
         def log_message(self, *a):  # silence
             pass
 
@@ -137,18 +138,20 @@ def main() -> int:
 
     menu_fail = [u for item in MENU
                  for u in [item["url"]] + [c["url"] for c in item.get("children", [])]
-                 if not (BUILD / u.lstrip("/")).is_file()]
+                 if not build_path(u.lstrip("/")).is_file()]
 
     # 1. structural — file-based, no browser needed
     for name in pages:
         a_html = (ARCHIVE / name).read_text(encoding="utf-8")
-        b_html = (BUILD / name).read_text(encoding="utf-8")
+        b_html = build_path(name).read_text(encoding="utf-8")
         a = extract(re.sub(r'<td class="sidebar" id="sidebar-left">.*?(?=<td class="main-content")', "", a_html, flags=re.S))
         aside = re.search(r"<aside id=\"sidebar-left\".*?</aside>", b_html, flags=re.S)
         b = extract(re.sub(r"<aside id=\"sidebar-left\".*?</aside>", "", b_html, flags=re.S))
         diffs = [k for k, (x, y) in {"text": (a[0], b[0]), "images": (a[1], b[1]), "links": (a[2], b[2])}.items() if x != y]
         if aside:
-            m_text, m_links = expected_menu(overrides.get("/" + name, "/" + name))
+            # Page URL: /slug/ for directory pages, /index.html for the front page.
+            url = "/" + name + ("" if name.endswith(".html") else "/")
+            m_text, m_links = expected_menu(overrides.get(url, url))
             if extract(aside.group(0))[0] != m_text or extract(aside.group(0))[2] != m_links:
                 diffs.append("menu")
         if diffs:

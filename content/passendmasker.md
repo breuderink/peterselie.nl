@@ -1,5 +1,5 @@
 ---
-{"permalink": "/passendmasker", "layout": "base.html", "title": "passend masker  | Poppentheater Peterselie", "h2": "passend masker ", "mission": null}
+{"permalink": "/passendmasker/", "layout": "base.html", "title": "passend masker  | Poppentheater Peterselie", "h2": "passend masker ", "mission": null}
 ---
 ![24022013729.jpg](/files/24022013729.jpg "24022013729.jpg")
  Een masker dat precies op een gezicht past.

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/wenspop1", "layout": "base.html", "title": " Zorgenpopje van wol. | Poppentheater Peterselie", "h2": " Zorgenpopje van wol.", "mission": null}
+{"permalink": "/wenspop1/", "layout": "base.html", "title": " Zorgenpopje van wol. | Poppentheater Peterselie", "h2": " Zorgenpopje van wol.", "mission": null}
 ---
 ![wenspop1-8-klein.jpg](/files/wenspop1-8-klein.jpg "wenspop1-8-klein.jpg")
  Vertel aan deze "worry doll" je zorgen en leg hem daarna onder je kussen. Je externaliseert hiermee je problemen en ligt er niet meer wakker van.

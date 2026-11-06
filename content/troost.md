@@ -1,5 +1,5 @@
 ---
-{"permalink": "/troost", "layout": "base.html", "title": "Baby-Troostpop | Poppentheater Peterselie", "h2": "Baby-Troostpop", "mission": null}
+{"permalink": "/troost/", "layout": "base.html", "title": "Baby-Troostpop | Poppentheater Peterselie", "h2": "Baby-Troostpop", "mission": null}
 ---
 ![Screenshot 2022-11-17 at 12.57.59 copy.png](</files/Screenshot 2022-11-17 at 12.57.59 copy.png> "Screenshot 2022-11-17 at 12.57.59 copy.png")
 

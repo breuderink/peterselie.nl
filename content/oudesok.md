@@ -1,5 +1,5 @@
 ---
-{"permalink": "/oudesok", "layout": "base.html", "title": "Pop van oude sok | Poppentheater Peterselie", "h2": "Pop van oude sok", "mission": null}
+{"permalink": "/oudesok/", "layout": "base.html", "title": "Pop van oude sok | Poppentheater Peterselie", "h2": "Pop van oude sok", "mission": null}
 ---
 ![sokpop7.jpeg](/files/sokpop7.jpeg "sokpop7.jpeg")
 

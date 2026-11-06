@@ -1,5 +1,5 @@
 ---
-{"permalink": "/hebberigevrouw", "layout": "base.html", "title": "Van de Visser en zijn Hebberige Vrouw | Poppentheater Peterselie", "h2": "Van de Visser en zijn Hebberige Vrouw", "mission": null}
+{"permalink": "/hebberigevrouw/", "layout": "base.html", "title": "Van de Visser en zijn Hebberige Vrouw | Poppentheater Peterselie", "h2": "Van de Visser en zijn Hebberige Vrouw", "mission": null}
 ---
 ![visser-web2.jpg](/files/visser-web2.jpg "visser-web2.jpg")
 

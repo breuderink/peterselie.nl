@@ -1,5 +1,5 @@
 ---
-{"permalink": "/nogeenkeertje", "layout": "base.html", "title": "Nog een keertje | Poppentheater Peterselie", "h2": "Nog een keertje", "mission": null}
+{"permalink": "/nogeenkeertje/", "layout": "base.html", "title": "Nog een keertje | Poppentheater Peterselie", "h2": "Nog een keertje", "mission": null}
 ---
 ![Berenaffiche_web.jpg](/files/Berenaffiche_web.jpg "Berenaffiche_web.jpg")
 

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/ballet-stokpop", "layout": "base.html", "title": "Ballerina-stokpoppen | Poppentheater Peterselie", "h2": "Ballerina-stokpoppen", "mission": null}
+{"permalink": "/ballet-stokpop/", "layout": "base.html", "title": "Ballerina-stokpoppen | Poppentheater Peterselie", "h2": "Ballerina-stokpoppen", "mission": null}
 ---
 ![120220141171.jpg](/files/120220141171.jpg "120220141171.jpg")
 

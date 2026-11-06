@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kerstliedjes", "layout": "base.html", "title": "Kerstliedjes | Poppentheater Peterselie", "h2": "Kerstliedjes", "mission": null}
+{"permalink": "/kerstliedjes/", "layout": "base.html", "title": "Kerstliedjes | Poppentheater Peterselie", "h2": "Kerstliedjes", "mission": null}
 ---
 **Liedjesblad "Van de ster en de stal"**
 

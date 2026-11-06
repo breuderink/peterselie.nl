@@ -1,5 +1,5 @@
 ---
-{"permalink": "/meespeelvoorstellingen", "layout": "base.html", "title": "Meedoe-voorstellingen met vooraf zelf je pop maken | Poppentheater Peterselie", "h2": "Meedoe-voorstellingen met vooraf zelf je pop maken", "mission": null}
+{"permalink": "/meespeelvoorstellingen/", "layout": "base.html", "title": "Meedoe-voorstellingen met vooraf zelf je pop maken | Poppentheater Peterselie", "h2": "Meedoe-voorstellingen met vooraf zelf je pop maken", "mission": null}
 ---
 &#x2028;![Kerstopmaat3:poppentheater-peterselie.jpg](/files/Kerstopmaat3:poppentheater-peterselie_0.jpg "Kerstopmaat3:poppentheater-peterselie.jpg")
  Het kerstverhaal met Poppentheater Peterselie, St. Opmaat in Bedum (foto: Klaas de Haan)

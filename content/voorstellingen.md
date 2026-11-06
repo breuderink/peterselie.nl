@@ -1,5 +1,5 @@
 ---
-{"permalink": "/voorstellingen", "layout": "base.html", "title": "Voorstellingen | Poppentheater Peterselie", "h2": "Voorstellingen", "mission": null}
+{"permalink": "/voorstellingen/", "layout": "base.html", "title": "Voorstellingen | Poppentheater Peterselie", "h2": "Voorstellingen", "mission": null}
 ---
 ![alleeendjes3b-Poppentheater-Peterselie.jpg](/files/alleeendjes3b-Poppentheater-Peterselie.jpg "alleeendjes3b-Poppentheater-Peterselie.jpg")
  Poppentheater Peterselie tijdens "Alle eendjes......"

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kerstmeedoevoorstelling", "layout": "base.html", "title": "meedoe-voorstelling Het Kerstverhaal | Poppentheater Peterselie", "h2": "meedoe-voorstelling Het Kerstverhaal", "mission": null}
+{"permalink": "/kerstmeedoevoorstelling/", "layout": "base.html", "title": "meedoe-voorstelling Het Kerstverhaal | Poppentheater Peterselie", "h2": "meedoe-voorstelling Het Kerstverhaal", "mission": null}
 ---
 ![DSC_0014 _web.jpg](</files/DSC_0014 _web.jpg> "DSC_0014 _web.jpg")
  Het kerstverhaal, St. Opmaat, Bedum (foto: Klaas de Haan)

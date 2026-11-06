@@ -1,5 +1,5 @@
 ---
-{"permalink": "/muis", "layout": "base.html", "title": "Kleutervoorstelling Muis zoekt huis | Poppentheater Peterselie", "h2": "Kleutervoorstelling Muis zoekt huis", "mission": null}
+{"permalink": "/muis/", "layout": "base.html", "title": "Kleutervoorstelling Muis zoekt huis | Poppentheater Peterselie", "h2": "Kleutervoorstelling Muis zoekt huis", "mission": null}
 ---
 ![muis_internet.jpg](/files/muis_internet.jpg "muis_internet.jpg")
  affiche: Boris Reuderink

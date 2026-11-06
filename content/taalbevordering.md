@@ -1,5 +1,5 @@
 ---
-{"permalink": "/taalbevordering", "layout": "base.html", "title": "taalbevordering | Poppentheater Peterselie", "h2": "taalbevordering", "mission": null}
+{"permalink": "/taalbevordering/", "layout": "base.html", "title": "taalbevordering | Poppentheater Peterselie", "h2": "taalbevordering", "mission": null}
 ---
 ![potje3.jpg](/files/potje3.jpg "potje3.jpg")
 

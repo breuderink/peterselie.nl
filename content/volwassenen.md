@@ -1,5 +1,5 @@
 ---
-{"permalink": "/volwassenen", "layout": "base.html", "title": "Voorstellingen voor volwassenen | Poppentheater Peterselie", "h2": "Voorstellingen voor volwassenen", "mission": null}
+{"permalink": "/volwassenen/", "layout": "base.html", "title": "Voorstellingen voor volwassenen | Poppentheater Peterselie", "h2": "Voorstellingen voor volwassenen", "mission": null}
 ---
 ![100 jaar-web_edited-1.jpg](</files/100 jaar-web_edited-1.jpg> "100 jaar-web_edited-1.jpg")
 

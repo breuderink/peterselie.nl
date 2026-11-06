@@ -1,5 +1,5 @@
 ---
-{"permalink": "/wishingdoll1", "layout": "base.html", "title": "Worry Doll  | Poppentheater Peterselie", "h2": "Worry Doll ", "mission": null}
+{"permalink": "/wishingdoll1/", "layout": "base.html", "title": "Worry Doll  | Poppentheater Peterselie", "h2": "Worry Doll ", "mission": null}
 ---
 ![wenspop1-8-klein.jpg](/files/wenspop1-8-klein_0.jpg "wenspop1-8-klein.jpg")
  Tell your troubles to the doll and hide it under your pillow. Because you externalised your troubles you will have an worry-free night.

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/intergenerationelevoorstelling", "layout": "base.html", "title": "Intergenerationele Kerst-voorstelling | Poppentheater Peterselie", "h2": "Intergenerationele Kerst-voorstelling", "mission": null}
+{"permalink": "/intergenerationelevoorstelling/", "layout": "base.html", "title": "Intergenerationele Kerst-voorstelling | Poppentheater Peterselie", "h2": "Intergenerationele Kerst-voorstelling", "mission": null}
 ---
 ![kerstinternet_oud.jpg](/files/kerstinternet_oud_0.jpg "kerstinternet_oud.jpg")
 

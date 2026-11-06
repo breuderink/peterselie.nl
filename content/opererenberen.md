@@ -1,5 +1,5 @@
 ---
-{"permalink": "/opererenberen", "layout": "base.html", "title": "het opereren van beren | Poppentheater Peterselie", "h2": "het opereren van beren", "mission": null}
+{"permalink": "/opererenberen/", "layout": "base.html", "title": "het opereren van beren | Poppentheater Peterselie", "h2": "het opereren van beren", "mission": null}
 ---
 ![P1030500.JPG](/files/P1030500.JPG "P1030500.JPG")
  BESTAANDE KNUFFELS SPEELBAAR MAKEN

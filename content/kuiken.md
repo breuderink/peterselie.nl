@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kuiken", "layout": "base.html", "title": "Pop-up-kuiken | Poppentheater Peterselie", "h2": "Pop-up-kuiken", "mission": null}
+{"permalink": "/kuiken/", "layout": "base.html", "title": "Pop-up-kuiken | Poppentheater Peterselie", "h2": "Pop-up-kuiken", "mission": null}
 ---
 Een kuiken-vingerpopje met een liedje!
 

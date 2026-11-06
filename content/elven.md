@@ -1,5 +1,5 @@
 ---
-{"permalink": "/elven", "layout": "base.html", "title": "Tien kleine elfjes | Poppentheater Peterselie", "h2": "Tien kleine elfjes", "mission": null}
+{"permalink": "/elven/", "layout": "base.html", "title": "Tien kleine elfjes | Poppentheater Peterselie", "h2": "Tien kleine elfjes", "mission": null}
 ---
 ![eljesmettekst_edited-1.jpg](/files/eljesmettekst_edited-1.jpg "eljesmettekst_edited-1.jpg")
 

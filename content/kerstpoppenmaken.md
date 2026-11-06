@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kerstpoppenmaken", "layout": "base.html", "title": "Tafelpoppen maken (kerst) | Poppentheater Peterselie", "h2": "Tafelpoppen maken (kerst)", "mission": null}
+{"permalink": "/kerstpoppenmaken/", "layout": "base.html", "title": "Tafelpoppen maken (kerst) | Poppentheater Peterselie", "h2": "Tafelpoppen maken (kerst)", "mission": null}
 ---
 ![engelen.jpg](/files/engelen.jpg "engelen.jpg")
 

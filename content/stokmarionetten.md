@@ -1,5 +1,5 @@
 ---
-{"permalink": "/stokmarionetten", "layout": "base.html", "title": "Stokmarionetten (tafelpoppen) | Poppentheater Peterselie", "h2": "Stokmarionetten (tafelpoppen)", "mission": null}
+{"permalink": "/stokmarionetten/", "layout": "base.html", "title": "Stokmarionetten (tafelpoppen) | Poppentheater Peterselie", "h2": "Stokmarionetten (tafelpoppen)", "mission": null}
 ---
 ![stokmarionet3-web.jpg](/files/stokmarionet3-web.jpg "stokmarionet3-web.jpg")
 

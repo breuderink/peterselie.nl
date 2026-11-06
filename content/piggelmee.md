@@ -1,5 +1,5 @@
 ---
-{"permalink": "/piggelmee", "layout": "base.html", "title": "Piggelmee | Poppentheater Peterselie", "h2": "Piggelmee", "mission": null}
+{"permalink": "/piggelmee/", "layout": "base.html", "title": "Piggelmee | Poppentheater Peterselie", "h2": "Piggelmee", "mission": null}
 ---
 ![28c89580-6335-012c-b80c-0050569439b1.jpg](/files/28c89580-6335-012c-b80c-0050569439b1.jpg "28c89580-6335-012c-b80c-0050569439b1.jpg")
 

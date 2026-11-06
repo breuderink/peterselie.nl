@@ -1,5 +1,5 @@
 ---
-{"permalink": "/peuterkleutervoorstellingen", "layout": "base.html", "title": "Peuter/Kleutervoorstellingen | Poppentheater Peterselie", "h2": "Peuter/Kleutervoorstellingen", "mission": null}
+{"permalink": "/peuterkleutervoorstellingen/", "layout": "base.html", "title": "Peuter/Kleutervoorstellingen | Poppentheater Peterselie", "h2": "Peuter/Kleutervoorstellingen", "mission": null}
 ---
 **ARCHIEF**
  Hieronder staan voorstellingen die u niet meer kunt boeken, maar het is misschien wel leuk om nog eens wat foto's of een filmpje te bekijken!

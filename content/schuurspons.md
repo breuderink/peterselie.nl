@@ -1,5 +1,5 @@
 ---
-{"permalink": "/schuurspons", "layout": "base.html", "title": "Looppopje van schuurspons | Poppentheater Peterselie", "h2": "Looppopje van schuurspons", "mission": null}
+{"permalink": "/schuurspons/", "layout": "base.html", "title": "Looppopje van schuurspons | Poppentheater Peterselie", "h2": "Looppopje van schuurspons", "mission": null}
 ---
 ![250520141361.jpg](/files/250520141361.jpg "250520141361.jpg")
 

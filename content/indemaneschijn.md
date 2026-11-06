@@ -1,5 +1,5 @@
 ---
-{"permalink": "/indemaneschijn", "layout": "base.html", "title": "In de maneschijn | Poppentheater Peterselie", "h2": "In de maneschijn", "mission": null}
+{"permalink": "/indemaneschijn/", "layout": "base.html", "title": "In de maneschijn | Poppentheater Peterselie", "h2": "In de maneschijn", "mission": null}
 ---
 ![maneschijninternet.jpg](/files/maneschijninternet.jpg "maneschijninternet.jpg")
 

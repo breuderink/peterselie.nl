@@ -1,5 +1,5 @@
 ---
-{"permalink": "/doekmarionet", "layout": "base.html", "title": "doekmarionet | Poppentheater Peterselie", "h2": "doekmarionet", "mission": null}
+{"permalink": "/doekmarionet/", "layout": "base.html", "title": "doekmarionet | Poppentheater Peterselie", "h2": "doekmarionet", "mission": null}
 ---
 ![doekmarionet-poppentheaterpeterselie.jpg](/files/doekmarionet-poppentheaterpeterselie.jpg "doekmarionet-poppentheaterpeterselie.jpg")
 
