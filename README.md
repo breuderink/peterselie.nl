@@ -86,5 +86,9 @@ the diet on the source before building:
 `python3 tools/mediadiet.py .` (it diets `files/` in place, idempotent),
 then `npm run build` and re-validate.
 
-`build/` is deployable as-is (identical URLs and asset paths to the live
-site; pages are extensionless, as on the old site).
+Deploy: push to `main` — the Actions workflow (`.github/workflows/deploy.yml`)
+builds and publishes `build/` to GitHub Pages (one-time: Settings → Pages →
+Source: GitHub Actions; then a custom domain via CNAME). Pages emit `/slug/`
+directories — GitHub Pages cannot serve extensionless pages as HTML; the old
+extensionless URLs keep resolving via Pages' 301 redirect (verify on first
+deploy). See DEPLOY.md.

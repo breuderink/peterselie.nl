@@ -1,74 +1,59 @@
 # Publiceren (deploy)
 
-De map `build/` na `npm run build` (eindigend in `PASS`) is de complete
-website: zelfde urls en bestandsnamen als de huidige site.
+Automatisch: elke push naar `main` bouwt `build/` en publiceert het naar
+GitHub Pages (`.github/workflows/deploy.yml`). Eénmalig in de repo
+instellen: Settings → Pages → Source: **GitHub Actions**. De site staat
+dan op `https://breuderink.github.io/peterselie.nl/`.
 
-## Optie 1: rsync naar de huidige server (Plesk)
+## Url's
 
-```
-rsync -avz --delete build/ <gebruiker>@peterselie.nl:/path/naar/webroot/
-```
-
-- Upload alles uit `build/` (de map zelf niet), bestaande bestanden
-  verwijderen met `--delete`.
-- De server mag statisch leveren; PHP is niet nodig.
-- Let op: paginabestanden zonder extensie krijgen bij veel statische
-  servers (nginx default_type, Apache, S3) `application/octet-stream` —
-  zet daar expliciet `text/html` (zie Optie 2), anders downloadt de
-  browser de pagina.
-- Controleer daarna een paar pagina's én een afbeelding en een
-  downloadlink (bijv. /files/bouwplaat.tif).
-
-## Lokaal testen
-
-`python3 -m http.server` levert paginabestanden zonder extensie op als
-`application/octet-stream` — de browser downloadt dan i.p.v. tonen.
-Gebruik daarom:
+Pagina's worden uitgebracht als mappen: `/visie/` → `visie/index.html`.
+GitHub Pages kent de Content-Type af aan de extensie en kan pagina's
+zonder extensie niet als html serveren (waarom S3/Plesk dat wél kon, met
+trucs). Oude, zonder-extensie url's (`/visie`) blijven werken als Pages
+ze met 301 naar `/visie/` omsturt — **na de eerste deploy controleren**:
 
 ```
-python3 tools/serve_local.py 8000
+curl -sI https://breuderink.github.io/peterselie.nl/visie | head -3
 ```
 
-en ga naar http://localhost:8000.
+verwacht `301` + `Location: .../visie/`. Zonder die redirect is er op
+Pages geen alternatief; dan moeten externe verwijzers gemigreerd worden
+(user call).
 
-## Optie 2: S3 (statische hosting)
+## Lokale build + controle
 
-```
-aws s3 sync build/ s3:<bucket>/ --delete
-```
+`npm run build` = build/ opruimen + eleventy + gate (tools/validate.py);
+eindigt in `PASS`. De gate draait lokaal (playwright/chromium); CI bouwt
+en publiceert alleen.
 
-Let op: onze paginabestanden hebben **geen extensie** (zoals de oude
-site: `/visie`, niet `/visie.html`). S3 kent de Content-Type af aan de
-extensie en zou dan `application/octet-stream` geven — de browser
-downloadt i.p.v. tonen. Los op door voor de pagina's expliciet
-`Content-Type: text/html` te zetten, bijv.:
+Lokaal bekijken: `python3 -m http.server -d build 8000` →
+http://localhost:8000. Een map-styled request (`/visie`) stuurt de
+server om naar `/visie/`, zoals Pages dat doet.
 
-```
-# pagina's = bestanden zonder extensie, behalve index.html en /files/*
-cd build && find . -maxdepth 1 -type f ! -name "*.html" ! -name "*.txt" -print0 |
-  xargs -0 -n1 -I{} aws s3 cp "{}" "s3:<bucket>/{}" --content-type "text/html; charset=utf-8"
-```
+## Na de eerste deploy controleren
 
-(De bestanden in `files/`, `themes/`, `misc/`, `modules/` laten S3
-normaliter op de juiste Content-Type zetten.)
+- [ ] Redirect `/visie` → `/visie/` (curl hierboven).
+- [ ] Een paar pagina's, de menuknoppen, een video, een audio-download
+      (bijv. `/files/...`).
+- [ ] Onbekende url toont de 404-pagina (Pages serveert `404.html`
+      zelf voor onbekende urls).
 
-## 404-pagina (pagina niet gevonden)
+## Omschakelen op het domein (pas ná groene controle)
 
-De build bevat `404.html` (themapagina). De server moet die serveren
-voor onbekende urls:
+1. `CNAME`-bestand met `peterselie.nl` in de repo (project sites mogen
+   een custom domain); DNS van peterselie.nl dan wijzen op GitHub Pages
+   (docs.github.com → Configuring a custom domain for a GitHub Pages
+   site).
+2. E-mail: info@peterselie.nl staat op hetzelfde Plesk-account als de
+   huidige website (gecontroleerd, 2026-10-17). MX-records zijn
+   onafhankelijk van de website; bij een eventueel later verhuizing van
+   het domein (iCloud) wisselen ze apart.
+3. De oude site (Drupal) pas uitschakelen ná de nieuwe.
+4. Na livegang: een paar pagina's, de menuknoppen, een video en een
+   audio-download controleren.
 
-- **S3 (statische hosting)**:
-  `aws s3 website s3:<bucket> --index-document index.html --error-document 404.html`
-- **Plesk/nginx**: `error_page 404 /404.html;` in de vhost (Plesk:
-  Apache & nginx-instellingen → nginx custom configuration).
+## Alternatieven (niet nodig)
 
-## Vóór het omschakelen
-
-- [ ] DNS: laat de domeinwijziging pas toe na een groene controle.
-- [ ] E-mail: info@peterselie.nl staat op hetzelfde Plesk-account als de
-      website (gecontroleerd, 2026-10-17). Gaat de mail later naar iCloud
-      op een domein, dan wisselen de MX-records — onafhankelijk van de
-      website zelf; de mail blijft dan werken zolang het domein er is.
-- [ ] De oude site (Drupal) pas uitschakelen ná de nieuwe site.
-- [ ] Na livegang: een paar pagina's, de menuknoppen, een video en een
-      audio-download controleren.
+rsync naar Plesk of `aws s3 sync` blijven mogelijk; de mappen-url's
+(`index.html` per map) werken daar zonder Content-Type-truc.

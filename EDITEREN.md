@@ -39,7 +39,8 @@ in de map `content/`, met de naam van de pagina:
 Het menu staat in één bestand: `content/_data/menu.json`. Elke item heeft:
 
 - `"label"` — de tekst zoals die in het menu staat
-- `"url"` — de link (bijv. `/contact` = https://peterselie.nl/contact)
+- `"url"` — de link, met slash achteraf (bijv. `/contact/` =
+  https://peterselie.nl/contact)
 - `"children"` — optioneel: submenu-items, zelf weer label + url
 
 De volgorde in het bestand is de volgorde in het menu. Een item met
