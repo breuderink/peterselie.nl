@@ -43,6 +43,7 @@ Build inputs (the rewrite — no archive needed):
 - `_includes/base.html` + `.eleventy.js` — the theme chrome and config
 
 ```bash
+git lfs install # once per machine: files/ media is stored via Git LFS
 npm install     # @11ty/eleventy (dev dependency)
 npm run build   # = eleventy -> tools/validate.py
 ```
