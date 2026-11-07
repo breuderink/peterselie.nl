@@ -3,6 +3,6 @@
     "@11ty/eleventy": "^3.1.6"
   },
   "scripts": {
-    "build": "rm -rf build && eleventy && python3 tools/validate.py"
+    "build": "rm -rf build && eleventy && python3 tools/check.py"
   }
 }

@@ -1,7 +1,7 @@
 # Push to main -> build/ -> GitHub Pages. One-time repo setting:
 # Settings -> Pages -> Source: GitHub Actions. See DEPLOY.md.
-# The gate (tools/validate.py) runs locally before pushing — it needs a
-# playwright chromium; CI only builds and uploads.
+# npm run build = eleventy + tools/check.py (stdlib link/asset gate).
+# The oracle gate (tools/validate.py) is opt-in, for re-import days.
 name: Deploy to GitHub Pages
 
 on:
@@ -29,7 +29,7 @@ jobs:
         with:
           node-version: 22
       - run: npm ci
-      - run: npx eleventy
+      - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build
