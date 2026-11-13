@@ -3,3 +3,12 @@ node_modules/
 build/
 archive/live-2026-10-14b/
 __pycache__/
+.pi/
+# Lab notes: local agent memory, not part of the public repo
+STATE.md
+LOG.md
+LOG-*.md
+KNOWLEDGE.md
+TASKS.md
+PLAN.md
+TIMELINE.md
