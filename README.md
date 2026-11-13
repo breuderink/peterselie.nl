@@ -1,37 +1,37 @@
 # peterselie.nl
 
-Broncode van de website. Eleventy bouwt de site uit de pagina's; elke
-push naar `main` bouwt en publiceert automatisch naar GitHub Pages
-(`.github/workflows/deploy.yml`).
+Source code of the website. Eleventy builds the site from the pages;
+every push to `main` builds and publishes it to GitHub Pages
+automatically (`.github/workflows/deploy.yml`).
 
-## Pagina's bewerken
+## Editing pages
 
-Alleen twee bestanden worden aangepakt:
+Only two files are ever touched:
 
-- `content/*.md` — de pagina's (markdown)
-- `content/_data/menu.json` — het zijbalkmenu (volgorde, labels,
-  één niveau ondermenu's)
+- `content/*.md` — the pages (markdown)
+- `content/_data/menu.json` — the side-bar menu (order, labels, one
+  level of sub-menus)
 
-De handleiding met de markdown-regels van deze site staat in
-[EDITEREN.md](EDITEREN.md).
+The editing guide with this site's markdown rules is in
+[EDITING.md](EDITING.md).
 
 ## Media
 
-Alle media (afbeeldingen, audio, video) staat in `files/`, opgeslagen
-via Git LFS — `git lfs install` een keer per machine. Nieuwe bestanden
-naar `files/` zetten en in de pagina linken als `/files/naam.ext`.
+All media (images, audio, video) lives in `files/`, stored via Git LFS —
+run `git lfs install` once per machine. Put new files in `files/` and
+link them from a page as `/files/name.ext`.
 
-## Lokaal bouwen
+## Building locally
 
 ```bash
 npm install     # @11ty/eleventy (dev dependency)
-npm run build   # build/ opruimen + bouwen + link/asset-check → PASS
+npm run build   # cleans build/, builds, runs the link/asset check -> PASS
 ```
 
-Lokaal bekijken: `python3 -m http.server -d build 8000` →
+View locally: `python3 -m http.server -d build 8000` →
 http://localhost:8000
 
-## Publiceren
+## Publishing
 
-Pushen naar `main` is genoeg. De eenmalige instelling op GitHub en de
-checklist na de eerste deploy staan in [DEPLOY.md](DEPLOY.md).
+Pushing to `main` is enough. The one-time GitHub setup and the
+post-deploy checklist are in [DEPLOY.md](DEPLOY.md).
