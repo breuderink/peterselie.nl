@@ -29,17 +29,18 @@ directory, named after the page:
 
 - The lines at the top of the file, between the `---` (permalink, title,
   h2, ...): they determine the URL and the layout.
-- The files in `_includes/`, `files/resources/`, `tools/` and the files
-  `README.md`, `DEPLOY.md`, `.eleventy.js`.
+- The files in `_layouts/`, `_includes/`, `_data/`, `files/resources/`,
+  `tools/` and the files `_config.yml`, `Gemfile`, `README.md`,
+  `DEPLOY.md`.
 
 ## The menu
 
-The menu lives in one file: `content/_data/menu.json`. Each item has:
+The menu lives in one file: `_data/navigation.yml`. Each item has:
 
-- `"label"` — the text as shown in the menu
-- `"url"` — the link, with a trailing slash (e.g. `/contact/` =
+- `label:` — the text as shown in the menu
+- `url:` — the link, with a trailing slash (e.g. `/contact/` =
   https://peterselie.nl/contact)
-- `"children"` — optional: sub-menu items, each again a label + url
+- `children:` — optional: sub-menu items, each again a label + url
 
 The order in the file is the order in the menu. An item with children
 stays open on its own page and on the pages of its children. The build
@@ -54,7 +55,7 @@ with the url `https://peterselie.nl/files/name-of-the-file`.
 ## After editing: build and check
 
 ```
-npm run build
+bundle exec jekyll build --destination build && python3 tools/check.py
 ```
 
 This cleans `build/`, builds the site, and runs the check that every
