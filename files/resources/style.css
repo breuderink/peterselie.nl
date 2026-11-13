@@ -2,11 +2,11 @@
    The 2.0 goal is the old design's INTENT in modern primitives, not a
    pixel-for-pixel clone (user decision 2026-10-17): the old Drupal-era
    table chrome, 9-slice corner PNGs, seam borders and 0.5px raster
-   offsets are retired; tools/validate.py checks structure exactly and
-   pixels within a closeness budget.
-   Intent kept: 600px cream column on grey, the green hand-drawn logo
-   banner (the only image in the chrome), the black rounded menu panel
-   with cream links, Verdana 10px voice, right-aligned footer credit. */
+   offsets are retired.
+   Intent kept: 600px cream column on grey (rounded bottom corners, as in
+   the old footer.png), the green hand-drawn logo banner (the only image
+   in the chrome), the black rounded menu panel with cream links,
+   Verdana 10px voice, right-aligned footer credit. */
 
 body {
   margin: 10px;
@@ -51,6 +51,8 @@ img {
   margin: 0 auto;
   background: #ffffcc;
   text-align: left;
+  /* old footer.png had 5px grey-cut bottom corners; top edge was flat */
+  border-radius: 0 0 5px 5px;
 }
 
 #header {
@@ -73,6 +75,9 @@ img {
   color: #000;
   text-align: right;
   background: linear-gradient(#ffffcc, #d8d8b4);
+  /* the footer IS the bottom of the yellow box: carry its rounded corners
+     so the gradient doesn't paint past #content's radius */
+  border-radius: 0 0 5px 5px;
 }
 
 /* --- sidebar: black rounded menu panel --- */
