@@ -1,9 +1,9 @@
-output/
-node_modules/
+# Jekyll build output (local; GitHub Pages builds in place)
 build/
-archive/live-2026-10-14b/
 __pycache__/
 .pi/
+# Local-only snapshot of the old live site (oracle, never published)
+archive/live-2026-10-14b/
 # Lab notes: local agent memory, not part of the public repo
 STATE.md
 LOG.md
