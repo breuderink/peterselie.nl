@@ -1,7 +1,7 @@
 ---
 {"permalink": "/roldoek/", "layout": "base", "title": "Roldoek | Poppentheater Peterselie", "h2": "Roldoek", "mission": null}
 ---
-![roldoek web.png](</files/roldoek web.png> "roldoek web.png")
+![roldoek web.png](</peterselie.nl/files/roldoek web.png> "roldoek web.png")
 
 Roldoek
 

@@ -2,10 +2,10 @@
 {"permalink": "/sinterklaaslegende/", "layout": "base", "title": "Sinterklaas | Poppentheater Peterselie", "h2": "Sinterklaas", "mission": null}
 ---
 "De beuze slager" is wel de meest geschikte Sinterklaaslegende om echt in de Sint-stemming te komen.
-![200px-Sinter-claes-saint-nicolas-dam800.jpg](/files/200px-Sinter-claes-saint-nicolas-dam800_0.jpg "200px-Sinter-claes-saint-nicolas-dam800.jpg")
+![200px-Sinter-claes-saint-nicolas-dam800.jpg](/peterselie.nl/files/200px-Sinter-claes-saint-nicolas-dam800_0.jpg "200px-Sinter-claes-saint-nicolas-dam800.jpg")
 
 De muziek van het lied gaat aldus:
-[sinterklaaslegendelied.gif](https://peterselie.nl/files/sinterklaaslegendelied_0.gif "Download: sinterklaaslegendelied.gif (22.96 KB)")
+[sinterklaaslegendelied.gif](/peterselie.nl/files/sinterklaaslegendelied_0.gif "Download: sinterklaaslegendelied.gif (22.96 KB)")
 
 De tekst:
 

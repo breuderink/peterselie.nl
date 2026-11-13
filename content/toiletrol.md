@@ -1,23 +1,23 @@
 ---
 {"permalink": "/toiletrol/", "layout": "base", "title": "Toiletrol-kabouter | Poppentheater Peterselie", "h2": "Toiletrol-kabouter", "mission": null}
 ---
-![DSC05254.JPG](/files/DSC05254.JPG "DSC05254.JPG")
+![DSC05254.JPG](/peterselie.nl/files/DSC05254.JPG "DSC05254.JPG")
 
-![01072013867.jpg](/files/01072013867.jpg "01072013867.jpg")
+![01072013867.jpg](/peterselie.nl/files/01072013867.jpg "01072013867.jpg")
  Wat heb je nodig?
  \- rol van karton (zelfgemaakt of een wc-papier-rol enz.)
  \- vilt (in ieder geval ook in gezichtskleur)
  \- schaar
  \- lijm
 
-![01072013868.jpg](/files/01072013868.jpg "01072013868.jpg")
+![01072013868.jpg](/peterselie.nl/files/01072013868.jpg "01072013868.jpg")
  Beplak 1/3 van de rol met vilt in gezichtskleur, de rest in een kleur die je mooi vindt.
 
-![01072013872.jpg](/files/01072013872.jpg "01072013872.jpg")
+![01072013872.jpg](/peterselie.nl/files/01072013872.jpg "01072013872.jpg")
  Maak van stukjes vilt een gezichtje.
  Knip armpjes en handjes en plak die aan de zijkant.
 
-![04072013877.jpg](/files/04072013877.jpg "04072013877.jpg")
+![04072013877.jpg](/peterselie.nl/files/04072013877.jpg "04072013877.jpg")
  Knip stroken haarkleurig vilt aan 1 kant in en plak op de juiste plaats.
  Knip voetjes met een plakstrook en plak die om de onderkant van de rol.
  Maak een mutsje van 2/3 van een  cirkel vilt (gebruik voor de vorm een schoteltje). Plak aan achterkant dicht (of naai het) en plak op pop.

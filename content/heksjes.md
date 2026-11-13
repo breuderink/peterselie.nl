@@ -1,8 +1,8 @@
 ---
 {"permalink": "/heksjes/", "layout": "base", "title": "Tien domme heksjes | Poppentheater Peterselie", "h2": "Tien domme heksjes", "mission": null}
 ---
-![heksjes2web.jpg](/files/heksjes2web.jpg "heksjes2web.jpg")
- Klik [hier](/afficheheksen) voor een affiche.
+![heksjes2web.jpg](/peterselie.nl/files/heksjes2web.jpg "heksjes2web.jpg")
+ Klik [hier](/peterselie.nl/afficheheksen/) voor een affiche.
 
 Deze voorstelling wordt helaas  niet meer gespeeld.
 
@@ -17,14 +17,14 @@ Eerst wordt het gedicht "Tien kleine heksjes" door Peterselie voorgedragen.
 De prijs voor een meedoe-workshop is bij minder dan 20 deelnemers vanaf €275,- excl.
  Bij groepen groter dan 20 personen komt de prijs voor extra materiaal erbij.
 
-![IMG_0101.JPG](/files/IMG_0101.JPG "IMG_0101.JPG")
+![IMG_0101.JPG](/peterselie.nl/files/IMG_0101.JPG "IMG_0101.JPG")
  Buitenschoolse activiteit, Kampen
 
-![IMG_0103.JPG](/files/IMG_0103.JPG "IMG_0103.JPG")
+![IMG_0103.JPG](/peterselie.nl/files/IMG_0103.JPG "IMG_0103.JPG")
 
-![IMG_0105.JPG](/files/IMG_0105.JPG "IMG_0105.JPG")
+![IMG_0105.JPG](/peterselie.nl/files/IMG_0105.JPG "IMG_0105.JPG")
 
-![heksenworkshop:poppentheater-peterselie.JPG](/files/heksenworkshop:poppentheater-peterselie.JPG "heksenworkshop:poppentheater-peterselie.JPG")Introductiedag 3e jaars studenten ROC Emmeloord
+![heksenworkshop:poppentheater-peterselie.JPG](/peterselie.nl/files/heksenworkshop:poppentheater-peterselie.JPG "heksenworkshop:poppentheater-peterselie.JPG")Introductiedag 3e jaars studenten ROC Emmeloord
 
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/Z0nNHxDpCag" frameborder="0" allowfullscreen></iframe><br />
 Meespelen met eigen pop. Buitenschoolse activiteit Brunnepe.</p>

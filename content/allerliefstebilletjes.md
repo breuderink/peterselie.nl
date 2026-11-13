@@ -1,7 +1,7 @@
 ---
 {"permalink": "/allerliefstebilletjes/", "layout": "base", "title": "Allerliefste billetjes | Poppentheater Peterselie", "h2": "Allerliefste billetjes", "mission": null}
 ---
-![allerliefstebilletjesaffiche.jpg](/files/allerliefstebilletjesaffiche.jpg "allerliefstebilletjesaffiche.jpg")
+![allerliefstebilletjesaffiche.jpg](/peterselie.nl/files/allerliefstebilletjesaffiche.jpg "allerliefstebilletjesaffiche.jpg")
  Ontwerp affiche: Boris Reuderink
 
 Deze voorstelling wordt niet meer gespeeld.
@@ -12,9 +12,9 @@ Op een dag staat er plotseling een potje in het oerwoud. Van wie zou dat potje z
 
 Aan het eind geven de kinderen de olifant een "slurfje"; de olifant kan dan eventueel iets uitdelen wat door u aangeschaft is, bijv. bananensnoepjes of echte bananen.
 
-![poppentheater6giraffe.jpg](/files/poppentheater6giraffe.jpg "poppentheater6giraffe.jpg")
+![poppentheater6giraffe.jpg](/peterselie.nl/files/poppentheater6giraffe.jpg "poppentheater6giraffe.jpg")
 
-![poppentheaterpeterselie22potje.jpg](/files/poppentheaterpeterselie22potje.jpg "poppentheaterpeterselie22potje.jpg")
- Voor patroon van deze olifant klik [hier](/mouwslurfolifant).
+![poppentheaterpeterselie22potje.jpg](/peterselie.nl/files/poppentheaterpeterselie22potje.jpg "poppentheaterpeterselie22potje.jpg")
+ Voor patroon van deze olifant klik [hier](/peterselie.nl/mouwslurfolifant/).
 
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/WfDUOM7QbZs" frameborder="0" allowfullscreen></iframe></p>

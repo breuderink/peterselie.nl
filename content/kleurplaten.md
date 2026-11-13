@@ -3,10 +3,10 @@
 ---
 Klik op de kleurplaat voor een afdrukversie.
 
-[![wolfkleurplaat.jpg](/files/wolfkleurplaat.jpg "wolfkleurplaat.jpg")](/files/wolfkleurplaatgroot.jpg)<br>Pien en de Wolf
+[![wolfkleurplaat.jpg](/peterselie.nl/files/wolfkleurplaat.jpg "wolfkleurplaat.jpg")](/peterselie.nl/files/wolfkleurplaatgroot.jpg)<br>Pien en de Wolf
 
-[![leeuwloskleurplaat.jpg](/files/leeuwloskleurplaat.jpg "leeuwloskleurplaat.jpg")](/files/leeuwloskleurplaatgroot.jpg)<br>Help! De leeuw is los!
+[![leeuwloskleurplaat.jpg](/peterselie.nl/files/leeuwloskleurplaat.jpg "leeuwloskleurplaat.jpg")](/peterselie.nl/files/leeuwloskleurplaatgroot.jpg)<br>Help! De leeuw is los!
 
-[![heksofprinceskleurplaat.jpg](/files/heksofprinceskleurplaat.jpg "heksofprinceskleurplaat.jpg")](/files/heksofprinceskleurplaatgroot.jpg)<br>Heks of prinses?
+[![heksofprinceskleurplaat.jpg](/peterselie.nl/files/heksofprinceskleurplaat.jpg "heksofprinceskleurplaat.jpg")](/peterselie.nl/files/heksofprinceskleurplaatgroot.jpg)<br>Heks of prinses?
 
-[![klalana.jpg](/files/klalana.jpg "klalana.jpg")](/files/klalanagroot.jpg)<br>Klalana, de draak en de rivier
+[![klalana.jpg](/peterselie.nl/files/klalana.jpg "klalana.jpg")](/peterselie.nl/files/klalanagroot.jpg)<br>Klalana, de draak en de rivier

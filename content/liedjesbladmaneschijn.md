@@ -1,7 +1,7 @@
 ---
 {"permalink": "/liedjesbladmaneschijn/", "layout": "base", "title": "Liedjesblad &quot;In de maneschijn&quot; | Poppentheater Peterselie", "h2": "Liedjesblad &quot;In de maneschijn&quot;", "mission": null}
 ---
-![langleven.gif](/files/langleven.gif "langleven.gif")<br><br>
+![langleven.gif](/peterselie.nl/files/langleven.gif "langleven.gif")<br><br>
 **In de maneschijn**
 
 In de maneschijn,
@@ -23,7 +23,7 @@ In de maneschijn,
  en nu draaien we het wieltje nog eens om
  Rom bom!
 
-[Klik hier voor een geluidsfragment](/files/maneschijn.mp3)<br><br>
+[Klik hier voor een geluidsfragment](/peterselie.nl/files/maneschijn.mp3)<br><br>
 **Twee handjes op de tafel**
 
 Twee handjes op de tafel,
@@ -39,4 +39,4 @@ Twee handjes op de tafel,
  Nu moeten alle handjes
  weer vlug op het ruggetje zijn
 
-[Klik hier voor een geluidsfragment](/files/tweehandjes.mp3)
+[Klik hier voor een geluidsfragment](/peterselie.nl/files/tweehandjes.mp3)

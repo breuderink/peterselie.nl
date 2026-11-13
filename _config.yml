@@ -1,9 +1,8 @@
 # GitHub Pages project pages: the site lives at
 # https://breuderink.github.io/peterselie.nl/ — and on peterselie.nl once
 # the CNAME is active. relative_url prefixes menu and asset URLs with
-# baseurl so they resolve on the project URL too (body links in the
-# markdown stay root-relative, so the project URL is a chrome preview,
-# not a full one — see DEPLOY.md).
+# baseurl; body links in the markdown are root-absolute WITH the baseurl
+# so every link resolves on the project URL (see DEPLOY.md).
 url: "https://breuderink.github.io"
 baseurl: "/peterselie.nl"
 repository: "breuderink/peterselie.nl"

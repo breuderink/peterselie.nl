@@ -1,9 +1,9 @@
 ---
 {"permalink": "/speellijsten/", "layout": "base", "title": "Speellijsten | Poppentheater Peterselie", "h2": "Speellijsten", "mission": null}
 ---
-Kijk voor referenties, krantenknipsels e.d. ook bij [wat men schrijft](/watmenschrijft) over de optredens van Poppentheater Peterselie.
+Kijk voor referenties, krantenknipsels e.d. ook bij [wat men schrijft](/peterselie.nl/watmenschrijft/) over de optredens van Poppentheater Peterselie.
 
-![moentje:poppentheater-peterselie.jpg](/files/moentje:poppentheater-peterselie.jpg "moentje:poppentheater-peterselie.jpg")
+![moentje:poppentheater-peterselie.jpg](/peterselie.nl/files/moentje:poppentheater-peterselie.jpg "moentje:poppentheater-peterselie.jpg")
  Moentje uit "Gaatjes in je tong" van (toen nog) Poppentheater de Verhalendoos
 
 **2025**
@@ -252,27 +252,27 @@ mei, psz Kidz First, Bovensmilde, *Nog een keertje!*, (gecanceld wegens corona)
 
 25 dec 18, 11u, Prot. Gem. Grolloo, *Van de Ster en de Stal*, OPENBAAR, familievoorstelling
 
-![klomphond:poppentheater-peterselie.jpg](/files/klomphond:poppentheater-peterselie.jpg "klomphond:poppentheater-peterselie.jpg")
+![klomphond:poppentheater-peterselie.jpg](/peterselie.nl/files/klomphond:poppentheater-peterselie.jpg "klomphond:poppentheater-peterselie.jpg")
  Klapbek-klomphond van Poppentheater Peterselie
 
-[speellijst2017.docx](https://peterselie.nl/files/speellijst2017.docx "Download: speellijst2017.docx (92.3 KB)")
-[speellijst2016.docx](https://peterselie.nl/files/speellijst2016.docx "Download: speellijst2016.docx (102.65 KB)")
-[speellijst2015.docx](https://peterselie.nl/files/speellijst2015.docx "Download: speellijst2015.docx (83.87 KB)")
-[speellijst2014.doc](https://peterselie.nl/files/speellijst2014.doc "Download: speellijst2014.doc (47.5 KB)")
-[speellijst2013.doc](https://peterselie.nl/files/speellijst2013.doc "Download: speellijst2013.doc (30.5 KB)")
-[speellijst2012.doc](https://peterselie.nl/files/speellijst2012.doc "Download: speellijst2012.doc (50 KB)")
-[speellijst2011.doc](https://peterselie.nl/files/speellijst2011.doc "Download: speellijst2011.doc (28 KB)")
-[speellijst2010.doc](https://peterselie.nl/files/speellijst2010.doc "Download: speellijst2010.doc (54 KB)")
-[speellijst2009.doc](https://peterselie.nl/files/speellijst2009.doc "Download: speellijst2009.doc (63.5 KB)")
-[speellijst2008.doc](https://peterselie.nl/files/speellijst2008.doc "Download: speellijst2008.doc (61.5 KB)")
-[speellijst2007.doc](https://peterselie.nl/files/speellijst2007.doc "Download: speellijst2007.doc (68.5 KB)")
-[speellijst2006.doc](https://peterselie.nl/files/speellijst2006.doc "Download: speellijst2006.doc (80.5 KB)")
-[speellijst2005.doc](https://peterselie.nl/files/speellijst2005.doc "Download: speellijst2005.doc (37 KB)")
-[speellijst2004.doc](https://peterselie.nl/files/speellijst2004.doc "Download: speellijst2004.doc (59.5 KB)")
-[speellijst2003.doc](https://peterselie.nl/files/speellijst2003.doc "Download: speellijst2003.doc (36 KB)")
-[speellijst2002.doc](https://peterselie.nl/files/speellijst2002.doc "Download: speellijst2002.doc (36 KB)")
-[speellijst1996tot2001.doc](https://peterselie.nl/files/speellijst1996tot2001.doc "Download: speellijst1996tot2001.doc (61.5 KB)")
+[speellijst2017.docx](/peterselie.nl/files/speellijst2017.docx "Download: speellijst2017.docx (92.3 KB)")
+[speellijst2016.docx](/peterselie.nl/files/speellijst2016.docx "Download: speellijst2016.docx (102.65 KB)")
+[speellijst2015.docx](/peterselie.nl/files/speellijst2015.docx "Download: speellijst2015.docx (83.87 KB)")
+[speellijst2014.doc](/peterselie.nl/files/speellijst2014.doc "Download: speellijst2014.doc (47.5 KB)")
+[speellijst2013.doc](/peterselie.nl/files/speellijst2013.doc "Download: speellijst2013.doc (30.5 KB)")
+[speellijst2012.doc](/peterselie.nl/files/speellijst2012.doc "Download: speellijst2012.doc (50 KB)")
+[speellijst2011.doc](/peterselie.nl/files/speellijst2011.doc "Download: speellijst2011.doc (28 KB)")
+[speellijst2010.doc](/peterselie.nl/files/speellijst2010.doc "Download: speellijst2010.doc (54 KB)")
+[speellijst2009.doc](/peterselie.nl/files/speellijst2009.doc "Download: speellijst2009.doc (63.5 KB)")
+[speellijst2008.doc](/peterselie.nl/files/speellijst2008.doc "Download: speellijst2008.doc (61.5 KB)")
+[speellijst2007.doc](/peterselie.nl/files/speellijst2007.doc "Download: speellijst2007.doc (68.5 KB)")
+[speellijst2006.doc](/peterselie.nl/files/speellijst2006.doc "Download: speellijst2006.doc (80.5 KB)")
+[speellijst2005.doc](/peterselie.nl/files/speellijst2005.doc "Download: speellijst2005.doc (37 KB)")
+[speellijst2004.doc](/peterselie.nl/files/speellijst2004.doc "Download: speellijst2004.doc (59.5 KB)")
+[speellijst2003.doc](/peterselie.nl/files/speellijst2003.doc "Download: speellijst2003.doc (36 KB)")
+[speellijst2002.doc](/peterselie.nl/files/speellijst2002.doc "Download: speellijst2002.doc (36 KB)")
+[speellijst1996tot2001.doc](/peterselie.nl/files/speellijst1996tot2001.doc "Download: speellijst1996tot2001.doc (61.5 KB)")
 
-![vingerrups.jpg](/files/vingerrups.jpg "vingerrups.jpg")
+![vingerrups.jpg](/peterselie.nl/files/vingerrups.jpg "vingerrups.jpg")
 
-![vingervlinder.jpg](/files/vingervlinder.jpg "vingervlinder.jpg")
+![vingervlinder.jpg](/peterselie.nl/files/vingervlinder.jpg "vingervlinder.jpg")

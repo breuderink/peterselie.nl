@@ -1,7 +1,7 @@
 ---
 {"permalink": "/gebreidevingerpop/", "layout": "base", "title": "gebreide vingerpop | Poppentheater Peterselie", "h2": "gebreide vingerpop", "mission": null}
 ---
-![vingerpopgebreid.png](/files/vingerpopgebreid.png "vingerpopgebreid.png")
+![vingerpopgebreid.png](/peterselie.nl/files/vingerpopgebreid.png "vingerpopgebreid.png")
 
 Materiaal:
  Dunne breiwol

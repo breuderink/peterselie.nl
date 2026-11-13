@@ -1,7 +1,7 @@
 ---
 {"permalink": "/opererenberen/", "layout": "base", "title": "het opereren van beren | Poppentheater Peterselie", "h2": "het opereren van beren", "mission": null}
 ---
-![P1030500.JPG](/files/P1030500.JPG "P1030500.JPG")
+![P1030500.JPG](/peterselie.nl/files/P1030500.JPG "P1030500.JPG")
  BESTAANDE KNUFFELS SPEELBAAR MAKEN
  Oftewel: Het opereren van beren, zoals deze workshop in de volksmond wordt genoemd.
  Bij deze workshop van een dagdeel wordt uitgegaan van bestaand speelgoed.
@@ -14,4 +14,4 @@ Daarna gaan de cursisten zelf aan de slag.
 
 Aan het eind worden eenvoudige oefeningen voor het bespelen van de poppen gedaan.
 
-![P1030505.JPG](/files/P1030505.JPG "P1030505.JPG")
+![P1030505.JPG](/peterselie.nl/files/P1030505.JPG "P1030505.JPG")

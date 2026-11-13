@@ -1,7 +1,7 @@
 ---
 {"permalink": "/tovertaart/", "layout": "base", "title": "Gefelici-tovertaart! | Poppentheater Peterselie", "h2": "Gefelici-tovertaart!", "mission": null}
 ---
-![gefelicitovertaart_jpg_web.jpg](/files/gefelicitovertaart_jpg_web_1.jpg "gefelicitovertaart_jpg_web.jpg")
+![gefelicitovertaart_jpg_web.jpg](/peterselie.nl/files/gefelicitovertaart_jpg_web_1.jpg "gefelicitovertaart_jpg_web.jpg")
 
 Helaas, deze voorstelling wordt niet meer door mij gespeeld, maar is verkocht!
 
@@ -16,7 +16,7 @@ Natuurlijk heel geschikt voor verjaardagsfeestjes!
  Leeftijd: 4 t/m 7 jaar (absoluut niet ouder!)
  Maximum aantal kinderen bij een verjaardag: 15, bij een "gewone" voorstelling 45.
  Prijs (zonder theaterlicht en geluidsinstallatie): 150 Euro (alleen voor verjaardagen thuis. Voor alle andere gelegenheden geldt de normale prijs).
- Klik [hier](/affichetovertaart) voor een affiche.
+ Klik [hier](/peterselie.nl/affichetovertaart/) voor een affiche.
  Er kunnen kleurplaten worden uitgedeeld.
 
-![14524591_1203617046377358_8581663673519017349_o.jpg](/files/14524591_1203617046377358_8581663673519017349_o.jpg "14524591_1203617046377358_8581663673519017349_o.jpg")
+![14524591_1203617046377358_8581663673519017349_o.jpg](/peterselie.nl/files/14524591_1203617046377358_8581663673519017349_o.jpg "14524591_1203617046377358_8581663673519017349_o.jpg")

@@ -1,7 +1,7 @@
 ---
 {"permalink": "/knip/", "layout": "base", "title": "Knip-knip-knip! (gaat mijn schaartje) | Poppentheater Peterselie", "h2": "Knip-knip-knip! (gaat mijn schaartje)", "mission": null}
 ---
-![Knipknipknip-affiche_web.jpg](/files/Knipknipknip-affiche_web.jpg "Knipknipknip-affiche_web.jpg")
+![Knipknipknip-affiche_web.jpg](/peterselie.nl/files/Knipknipknip-affiche_web.jpg "Knipknipknip-affiche_web.jpg")
 
 VERKOCHT
 
@@ -12,16 +12,16 @@ Pien verveelt zich en gaat een verjaarsfeestje voor zichzelf organiseren. Dino e
  En zo  wordt het toch nog een leuk feestje.
 
 Het liedje dat tijdens de voorstelling wordt gezongen staat
-[hier](http://www.peterselie.nl/knipliedje).
+[hier](/peterselie.nl/knipliedje).
 
 Leeftijd: geschikt voor peuters en kleuters.
- Voor kleine groepjes is er [korting](/korting).
+ Voor kleine groepjes is er [korting](/peterselie.nl/korting/).
  Duur: afhankelijk van de reacties van de kinderen duurt deze voorstelling 30 tot 40 min.
- Klik [hier](/afficheknip) voor een affiche.
+ Klik [hier](/peterselie.nl/afficheknip/) voor een affiche.
 
-![peterselie 2012 002.JPG](</files/peterselie 2012 002.JPG> "peterselie 2012 002.JPG")
+![peterselie 2012 002.JPG](</peterselie.nl/files/peterselie 2012 002.JPG> "peterselie 2012 002.JPG")
 
-![knip4.jpg](/files/knip4.jpg "knip4.jpg")
+![knip4.jpg](/peterselie.nl/files/knip4.jpg "knip4.jpg")
 
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/6OiRNcD701k" frameborder="0" allowfullscreen></iframe><br />
 Beetje ver weg opgenomen, maar geeft wel een indruk.</p>

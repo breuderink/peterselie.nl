@@ -1,7 +1,7 @@
 ---
 {"permalink": "/boekpoppenspel/", "layout": "base", "title": "Boek: Ik ben een bus vol poppen | Poppentheater Peterselie", "h2": "Boek: Ik ben een bus vol poppen", "mission": null}
 ---
-![cover_web.png](/files/cover_web.png "cover_web.png")
+![cover_web.png](/peterselie.nl/files/cover_web.png "cover_web.png")
 
 Update:
  De eerste druk is bijna uitverkocht. Ik ben in onderhandeling over een tweede druk met een uitgever. Als dat allemaal doorgaat, zal het een gebonden boek worden.
@@ -21,8 +21,8 @@ Het boek kost €24,95, excl. €5,- verzendkosten (porto en verpakking), in Ned
  Ik mail je dan de details over de betaling.
  De factuur wordt per mail verzonden.
 
-![Screenshot 2026-05-09 at 15.44.23.png](</files/Screenshot 2026-05-09 at 15.44.23.png> "Screenshot 2026-05-09 at 15.44.23.png")
+![Screenshot 2026-05-09 at 15.44.23.png](</peterselie.nl/files/Screenshot 2026-05-09 at 15.44.23.png> "Screenshot 2026-05-09 at 15.44.23.png")
  Een voorbeeldje uit het boek, over de toepassing van een troost-babypop bij mensen met een dementie:
-["Werkvorm Troost-babypop"](troost)
+["Werkvorm Troost-babypop"](/peterselie.nl/troost/)
 
-Hoofdstuk 3, over Mythen, kan tijdelijk [hier](mythen) gelezen worden.
+Hoofdstuk 3, over Mythen, kan tijdelijk [hier](/peterselie.nl/mythen/) gelezen worden.

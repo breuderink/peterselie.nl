@@ -3,7 +3,7 @@
 ---
 Piet kan ook een andere kleur gezicht hebben!
 
-![popup3.jpg](/files/popup3.jpg "popup3.jpg")
+![popup3.jpg](/peterselie.nl/files/popup3.jpg "popup3.jpg")
 
 Nodig:
  leeg melkpak
@@ -19,23 +19,23 @@ Nodig:
  pijpenrager voor armen
  lijm/schaar/draad/plakband
 
-![261120131060.jpg](/files/261120131060.jpg "261120131060.jpg")
+![261120131060.jpg](/peterselie.nl/files/261120131060.jpg "261120131060.jpg")
 
 Werkwijze:
  Knip bovenkant van melkpak af (bedenk dat je Pietje er helemaal in moet kunnen verdwijnen!) en beplak met steentjespapier.
  Knip een wc-rol doormidden en beplak 1 helft met gekleurd papier.
  Steek de sate-pen met lijm in de papierprop en bind dicht.
 
-![261120131061.jpg](/files/261120131061.jpg "261120131061.jpg")
+![261120131061.jpg](/peterselie.nl/files/261120131061.jpg "261120131061.jpg")
 
 Vouw het vloeipapier strak om het hoofdje en bind het nekje dicht.
  Wikkel de pijpenrager er omheen en vouw de uiteinden tot handjes.
 
-![261120131062.jpg](/files/261120131062.jpg "261120131062.jpg")
+![261120131062.jpg](/peterselie.nl/files/261120131062.jpg "261120131062.jpg")
 
 Maak een “kanten kleedje” van het rondje wit papier, maak er een knip in tot aan het midden en schuif om het nekje.
 
-![kantenkleedje.jpg](/files/kantenkleedje.jpg "kantenkleedje.jpg")
+![kantenkleedje.jpg](/peterselie.nl/files/kantenkleedje.jpg "kantenkleedje.jpg")
  Wijze van papier vouwen voor "kanten kleedje".
 
 Pet: Maak van het rondje een zakje en bindt dicht. Sla plat en plak op het hoofdje. Veertje erop. Roloogjes op juiste plek.

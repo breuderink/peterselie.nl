@@ -1,7 +1,7 @@
 ---
 {"permalink": "/links/", "layout": "base", "title": "Poppen-links | Poppentheater Peterselie", "h2": "Poppen-links", "mission": null}
 ---
-![links.jpg](/files/links.jpg "links.jpg")
+![links.jpg](/peterselie.nl/files/links.jpg "links.jpg")
  Poppentheater Peterselie in de voorstelling: "Nog een keertje!"
 
 [Margo en Mario Wouterse (Poppentheater Hupsakee)](http://www.poppentheaterhupsakee.nl)
@@ -26,4 +26,4 @@
 
 [poppentheater.startpagina.be](http://poppentheater.startpagina.be)
 
-[Meer links](http://www.peterselie.nl/links2)
+[Meer links](/peterselie.nl/links2)

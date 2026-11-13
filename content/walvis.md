@@ -1,7 +1,7 @@
 ---
 {"permalink": "/walvis/", "layout": "base", "title": "Pien en de Walvis | Poppentheater Peterselie", "h2": "Pien en de Walvis", "mission": null}
 ---
-![Walvisaffiche3-web.jpg](/files/Walvisaffiche3-web.jpg "Walvisaffiche3-web.jpg")
+![Walvisaffiche3-web.jpg](/peterselie.nl/files/Walvisaffiche3-web.jpg "Walvisaffiche3-web.jpg")
 
 Helaas, deze voorstelling is verkocht aan een andere poppenspeler.
 
@@ -12,8 +12,8 @@ Pien woont met haar vader in een huisje vlak bij het strand. Ze voelt zich vaak 
  Vader heeft nu wel door, dat Pien hem vaak mist en probeert vaker thuis te zijn. Dan gaan ze picknicken op het strand en kijken of ze walvissen zien.
 
 Interactieve vertelvoorstelling met poppen voor de Voorleesdagen 2017, losjes gebaseerd op het bekroonde boek Kleine Walvis, van Benji Davies.
- Klik [hier](/affichewalvis) voor een affiche.
- Klik [hier](/liedjeswalvis) voor de liedjes.
+ Klik [hier](/peterselie.nl/affichewalvis/) voor een affiche.
+ Klik [hier](/peterselie.nl/liedjeswalvis/) voor de liedjes.
 
 Prijs: €325 excl. 6% BTW en reiskosten
  Volgende voorstellingen (zelfde dag, zelfde plek) €175 excl.
@@ -26,15 +26,15 @@ Prijs: €325 excl. 6% BTW en reiskosten
  Opbouwtijd: 1,5 uur
  Afbreektijd: 45 min
 
-![Walvisweb3.jpg](/files/Walvisweb3.jpg "Walvisweb3.jpg")
+![Walvisweb3.jpg](/peterselie.nl/files/Walvisweb3.jpg "Walvisweb3.jpg")
 
-![walvisweb4.jpg](/files/walvisweb4.jpg "walvisweb4.jpg")
+![walvisweb4.jpg](/peterselie.nl/files/walvisweb4.jpg "walvisweb4.jpg")
 
-![Walvisweb1.jpg](/files/Walvisweb1.jpg "Walvisweb1.jpg")
+![Walvisweb1.jpg](/peterselie.nl/files/Walvisweb1.jpg "Walvisweb1.jpg")
 
-![Walvisweb2.jpg](/files/Walvisweb2.jpg "Walvisweb2.jpg")
+![Walvisweb2.jpg](/peterselie.nl/files/Walvisweb2.jpg "Walvisweb2.jpg")
 
-![schelpweb.jpg](/files/schelpweb.jpg "schelpweb.jpg")
+![schelpweb.jpg](/peterselie.nl/files/schelpweb.jpg "schelpweb.jpg")
  ....Hoor je de zee wel ruisen in de schelp?....
 
-![WalvisLintweb.jpg](/files/WalvisLintweb.jpg "WalvisLintweb.jpg")
+![WalvisLintweb.jpg](/peterselie.nl/files/WalvisLintweb.jpg "WalvisLintweb.jpg")

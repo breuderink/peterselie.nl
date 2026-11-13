@@ -3,16 +3,16 @@
 ---
 De Visser vanaf schets.
 
-![Visser1.jpg](/files/Visser1.jpg "Visser1.jpg")
+![Visser1.jpg](/peterselie.nl/files/Visser1.jpg "Visser1.jpg")
 
-![Visser2.jpg](/files/Visser2.jpg "Visser2.jpg")
+![Visser2.jpg](/peterselie.nl/files/Visser2.jpg "Visser2.jpg")
 
-![visser3.jpg](/files/visser3.jpg "visser3.jpg")
+![visser3.jpg](/peterselie.nl/files/visser3.jpg "visser3.jpg")
 
-![Visser4.jpg](/files/Visser4.jpg "Visser4.jpg")
+![Visser4.jpg](/peterselie.nl/files/Visser4.jpg "Visser4.jpg")
 
-![gevelhuisindemaak.jpg](/files/gevelhuisindemaak.jpg "gevelhuisindemaak.jpg")
+![gevelhuisindemaak.jpg](/peterselie.nl/files/gevelhuisindemaak.jpg "gevelhuisindemaak.jpg")
 
-![gevelhuisvrouwtje4.jpg](/files/gevelhuisvrouwtje4.jpg "gevelhuisvrouwtje4.jpg")
+![gevelhuisvrouwtje4.jpg](/peterselie.nl/files/gevelhuisvrouwtje4.jpg "gevelhuisvrouwtje4.jpg")
 
-![huis5b.jpg](/files/huis5b.jpg "huis5b.jpg")
+![huis5b.jpg](/peterselie.nl/files/huis5b.jpg "huis5b.jpg")

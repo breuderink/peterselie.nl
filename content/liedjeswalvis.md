@@ -12,7 +12,7 @@ Poesje Mauw,
 In de schelp daar ruist de zee
  en wij zingen allemaal mee.
  Muziek hiervan:
-[Schelpenlied.m4a](https://peterselie.nl/files/Schelpenlied.m4a "Download: Schelpenlied.m4a (504.72 KB)")
+[Schelpenlied.m4a](/peterselie.nl/files/Schelpenlied.m4a "Download: Schelpenlied.m4a (504.72 KB)")
 
 Walvis, walvis
  in het water.

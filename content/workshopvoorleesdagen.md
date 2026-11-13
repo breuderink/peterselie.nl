@@ -1,7 +1,7 @@
 ---
 {"permalink": "/workshopvoorleesdagen/", "layout": "base", "title": "Workshop Voorleesdagen 2026 Kleine Aap | Poppentheater Peterselie", "h2": "Workshop Voorleesdagen 2026 Kleine Aap", "mission": null}
 ---
-![voorstelling Kleine Aap web.png](</files/voorstelling Kleine Aap web.png> "voorstelling Kleine Aap web.png")
+![voorstelling Kleine Aap web.png](</peterselie.nl/files/voorstelling Kleine Aap web.png> "voorstelling Kleine Aap web.png")
 
 Workshop POPPENSPEL GEBRUIKEN BIJ EEN PRENTENBOEK
 
@@ -14,6 +14,6 @@ Vaak wordt gedacht dat het maken van poppen en het spelen ermee te moeilijk is.
 
 Hieronder staat het printblad dat gebruikt kan worden om alle figuurtjes uit het boek af te drukken en daarna uit te knippen (en te voorzien va een standaardje). Op A4-formaat afgedrukt is het geschikt voor een klein voorleesgroepje. Wil je het wat groter aanpakken, druk het dan op A3 af.
 
-[Kleine Aap printblad.pdf](<https://peterselie.nl/files/Kleine Aap printblad.pdf> "Download: Kleine Aap printblad.pdf (5.59 MB)")
+[Kleine Aap printblad.pdf](</peterselie.nl/files/Kleine Aap printblad.pdf> "Download: Kleine Aap printblad.pdf (5.59 MB)")
 
-Voor andere voorbeelden van zeer eenvoudig poppenspel, zie [Prent + Pop = Taal (Voorlezen met eenvoudige poppen)](/prentpoptaal)
+Voor andere voorbeelden van zeer eenvoudig poppenspel, zie [Prent + Pop = Taal (Voorlezen met eenvoudige poppen)](/peterselie.nl/prentpoptaal/)

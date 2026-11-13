@@ -1,7 +1,7 @@
 ---
 {"permalink": "/erwt/", "layout": "base", "title": "Meedoe-voorstelling De Prinses op de erwt | Poppentheater Peterselie", "h2": "Meedoe-voorstelling De Prinses op de erwt", "mission": null}
 ---
-![AffichePrinsesopdeErwt_web.png](/files/AffichePrinsesopdeErwt_web.png "AffichePrinsesopdeErwt_web.png")
+![AffichePrinsesopdeErwt_web.png](/peterselie.nl/files/AffichePrinsesopdeErwt_web.png "AffichePrinsesopdeErwt_web.png")
 
 Het bekende sprookje "De Prinses op de Erwt" van Andersen wordt  verteld met behulp van een aantal door Peterselie meegebrachte poppen en attributen.
  Daarna maken alle kinderen een pop, waarmee ze later mee kunnen spelen in het verhaal.
@@ -16,11 +16,11 @@ Er moeten een aantal vrijwilligers aanwezig zijn om bij het knutselen te helpen.
 
 Er kan ook een #meespeelvoorstelling zonder het zelf maken van poppen geboekt worden, dus een #vertelvoorstelling met poppen. De prijs is dan €225,- exclusief.
 
-![IMG_2898_edited-1.jpg](/files/IMG_2898_edited-1.jpg "IMG_2898_edited-1.jpg")
+![IMG_2898_edited-1.jpg](/peterselie.nl/files/IMG_2898_edited-1.jpg "IMG_2898_edited-1.jpg")
 
-![IMG_3361.JPG](/files/IMG_3361.JPG "IMG_3361.JPG")
+![IMG_3361.JPG](/peterselie.nl/files/IMG_3361.JPG "IMG_3361.JPG")
 
-![IMG_3516.JPG](/files/IMG_3516.JPG "IMG_3516.JPG")
+![IMG_3516.JPG](/peterselie.nl/files/IMG_3516.JPG "IMG_3516.JPG")
 
 Poppen door kinderen gemaakt: Prinsessen en Ridders
-![IMG_3511.jpg](/files/IMG_3511.jpg "IMG_3511.jpg")
+![IMG_3511.jpg](/peterselie.nl/files/IMG_3511.jpg "IMG_3511.jpg")
