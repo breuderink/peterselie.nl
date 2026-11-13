@@ -12,3 +12,6 @@ KNOWLEDGE.md
 TASKS.md
 PLAN.md
 TIMELINE.md
+
+# bundler artifact of local verification builds (container-specific)
+Gemfile.lock
