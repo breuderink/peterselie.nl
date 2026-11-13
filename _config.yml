@@ -10,11 +10,19 @@ repository: "breuderink/peterselie.nl"
 
 # The ported content was authored for markdown-it (GFM, breaks: true):
 # one newline in the file = one line on the page. Kramdown equivalents:
-# input GFM, hard_wrap (single newline renders as <br>).
+# input GFM, hard_wrap (single newline renders as <br>). Kramdown's smart
+# typography is on by default and would rewrite the text (" -> curly,
+# -- -> en dash, ... -> ellipsis); the old renderer emitted ASCII verbatim,
+# so map quotes and typographic symbols back to ASCII (identity).
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: true
+  smart_quotes: [39, 39, 34, 34] # lsquo rsquo ldquo rdquo = ' ' " "
+  typographic_symbols:
+    hellip: '...'
+    mdash: '---'
+    ndash: '--'
 
 # Allowed on GitHub Pages (no custom build step). Enables legacy Drupal
 # URL mapping: add `redirect_from: ["/node/12", "/old-alias"]` to a page's
