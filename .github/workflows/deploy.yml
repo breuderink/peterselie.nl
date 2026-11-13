@@ -1,7 +1,6 @@
 # Push to main -> build/ -> GitHub Pages. One-time repo setting:
 # Settings -> Pages -> Source: GitHub Actions. See DEPLOY.md.
 # npm run build = eleventy + tools/check.py (stdlib link/asset gate).
-# The oracle gate (tools/validate.py) is opt-in, for re-import days.
 name: Deploy to GitHub Pages
 
 on:

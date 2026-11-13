@@ -6,10 +6,6 @@ internal href/src in every built page resolves in build/ — a file, or a
 directory's index.html (canonical page form is /slug/). Stdlib only, so
 it runs locally and in CI with no dependencies.
 
-The oracle gate (tools/validate.py) — exact structural comparison against
-the old site's snapshot — is opt-in: run it on re-import days, not on
-every build.
-
 Usage: python3 tools/check.py [BUILD_DIR]
 """
 import re
@@ -20,9 +16,8 @@ ROOT = Path(__file__).resolve().parent.parent
 BUILD = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "build"
 REF = re.compile(r'(?:href|src)="([^"]+)"')
 
-# Dead on the old site too (checked against the oracle snapshot): fixing or
-# removing them is a content call for the owner (TASKS t027). Drop an entry
-# once the reference is fixed or the page pruned.
+# Dead on the old site too: fixing or removing them is a content call for
+# the owner. Drop an entry once the reference is fixed or the page pruned.
 KNOWN_DEAD = {
     "/heleboelpoppen",
     "/waarismama",

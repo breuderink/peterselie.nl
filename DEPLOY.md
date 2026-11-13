@@ -23,9 +23,8 @@ Pages geen alternatief; dan moeten externe verwijzers gemigreerd worden
 
 ## Lokale build + controle
 
-`npm run build` = build/ opruimen + eleventy + gate (tools/validate.py);
-eindigt in `PASS`. De gate draait lokaal (playwright/chromium); CI bouwt
-en publiceert alleen.
+`npm run build` = build/ opruimen + eleventy + gate (tools/check.py);
+eindigt in `PASS`. CI bouwt en publiceert alleen.
 
 Lokaal bekijken: `python3 -m http.server -d build 8000` →
 http://localhost:8000. Een map-styled request (`/visie`) stuurt de
