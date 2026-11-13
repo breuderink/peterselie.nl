@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Build gate: structure, not judgment.
 
-Checks the build is servable: index.html and 404.html exist and every
-internal href/src in every built page resolves in build/ — a file, or a
-directory's index.html (canonical page form is /slug/). Stdlib only, so
-it runs locally and in CI with no dependencies.
+Checks the Jekyll build is servable: index.html and 404.html exist and
+every internal href/src in every built page resolves. Page links
+(resolve under build/) are a file or a directory's index.html — the
+canonical form is /slug/. /files/ media is resolved against the SOURCE
+tree, not build/: LFS media is excluded from the build (.jekyll-ignore)
+and served from the repo checkout on GitHub Pages. Menu and asset URLs
+carry the baseurl prefix (relative_url); strip it before resolving.
+Stdlib only, so it runs locally with no dependencies.
 
 Usage: python3 tools/check.py [BUILD_DIR]
 """
@@ -14,6 +18,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BUILD = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "build"
+# Must match baseurl in _config.yml (the repo name, for project pages).
+BASEURL = "/peterselie.nl"
 REF = re.compile(r'(?:href|src)="([^"]+)"')
 
 # Dead on the old site too: fixing or removing them is a content call for
@@ -38,9 +44,12 @@ def main() -> int:
             if not u.startswith("/") or u.startswith("//"):
                 continue  # external, mailto:, or #anchor-only
             path = u.split("#")[0]
+            if path.startswith(BASEURL + "/"):
+                path = path[len(BASEURL):]
             if path in KNOWN_DEAD:
                 continue
-            target = BUILD / path.lstrip("/")
+            base = ROOT if path.startswith("/files/") else BUILD
+            target = base / path.lstrip("/")
             if not (target.is_file() or (target / "index.html").is_file()):
                 fails.append(f"{p.relative_to(BUILD)}: unresolvable {u!r}")
     for f in fails:
