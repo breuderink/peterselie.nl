@@ -31,8 +31,8 @@ in de map `content/`, met de naam van de pagina:
 
 - De regels bovenin het bestand, tussen de `---` (permalink, title,
   h2, ...): die bepalen de url en de opmaak.
-- De bestanden `_includes/`, `themes/`, `files/`, `tools/` en de
-  bestanden `STATE.md`, `LOG.md`, `KNOWLEDGE.md`, `TASKS.md`.
+- De bestanden `_includes/`, `files/resources/`, `tools/` en de
+  bestanden `README.md`, `DEPLOY.md`, `.eleventy.js`.
 
 ## Het menu
 

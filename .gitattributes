@@ -14,3 +14,6 @@ files/* filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.doc filter=lfs diff=lfs merge=lfs -text
 *.docx filter=lfs diff=lfs merge=lfs -text
+# site chrome (stylesheet, banner, favicon) is tiny: plain blobs, no LFS —
+# last pattern wins, so this must stay the final line
+files/resources/* filter=unset diff=unset merge=unset

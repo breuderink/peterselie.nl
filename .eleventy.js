@@ -1,14 +1,12 @@
 module.exports = (eleventyConfig) => {
-  // Build inputs are first-class: files/ (media, Git LFS), themes/ (one
-  // stylesheet + banner), misc/ (favicon).
+  // Build inputs are first-class: content/ (pages) and files/ — media
+  // (Git LFS) plus files/resources/ (stylesheet, banner, favicon).
   // Menu (content/_data/menu.json): an item with children stays open on its
   // own page and on its children's pages — the old site's expand behaviour,
   // now derived from the URL instead of per-page frontmatter.
   eleventyConfig.addFilter("inMenu", (item, url) =>
     item.url === url || (item.children || []).some((c) => c.url === url));
   eleventyConfig.addPassthroughCopy({ "files": "files" });
-  eleventyConfig.addPassthroughCopy({ "themes": "themes" });
-  eleventyConfig.addPassthroughCopy({ "misc": "misc" });
   // Pages emit /slug/ directories (build/slug/index.html): GitHub Pages
   // infers Content-Type from the file extension and cannot serve an
   // extensionless page as HTML. Old extensionless URLs (/contact) keep
