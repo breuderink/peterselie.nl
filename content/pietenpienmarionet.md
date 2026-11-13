@@ -1,5 +1,5 @@
 ---
-{"permalink": "/pietenpienmarionet/", "layout": "base.html", "title": "piet en pien marionet | Poppentheater Peterselie", "h2": "piet en pien marionet", "mission": null}
+{"permalink": "/pietenpienmarionet/", "layout": "base", "title": "piet en pien marionet | Poppentheater Peterselie", "h2": "piet en pien marionet", "mission": null}
 ---
 ![pietenpien1-poppentheaterpeterselie.JPG](/files/pietenpien1-poppentheaterpeterselie.JPG "pietenpien1-poppentheaterpeterselie.JPG")
 

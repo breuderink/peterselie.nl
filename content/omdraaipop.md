@@ -1,5 +1,5 @@
 ---
-{"permalink": "/omdraaipop/", "layout": "base.html", "title": "Omdraaipop | Poppentheater Peterselie", "h2": "Omdraaipop", "mission": null}
+{"permalink": "/omdraaipop/", "layout": "base", "title": "Omdraaipop | Poppentheater Peterselie", "h2": "Omdraaipop", "mission": null}
 ---
 ![omkeerpopje4.jpg](/files/omkeerpopje4.jpg "omkeerpopje4.jpg")
  Dit popje heeft een vrolijke en een minder vrolijke kant en kan dus emoties duidelijk maken.

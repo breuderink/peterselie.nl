@@ -1,5 +1,5 @@
 ---
-{"permalink": "/allerliefstebilletjes/", "layout": "base.html", "title": "Allerliefste billetjes | Poppentheater Peterselie", "h2": "Allerliefste billetjes", "mission": null}
+{"permalink": "/allerliefstebilletjes/", "layout": "base", "title": "Allerliefste billetjes | Poppentheater Peterselie", "h2": "Allerliefste billetjes", "mission": null}
 ---
 ![allerliefstebilletjesaffiche.jpg](/files/allerliefstebilletjesaffiche.jpg "allerliefstebilletjesaffiche.jpg")
  Ontwerp affiche: Boris Reuderink

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/workshops/", "layout": "base.html", "title": "Workshops na een voorstelling | Poppentheater Peterselie", "h2": "Workshops na een voorstelling", "mission": null}
+{"permalink": "/workshops/", "layout": "base", "title": "Workshops na een voorstelling | Poppentheater Peterselie", "h2": "Workshops na een voorstelling", "mission": null}
 ---
 Na een voorstelling kan een workshop worden gegeven met erbij passende figuren.
  Prijs is afhankelijk van de voorbereiding en de materiaalkosten en de grootte van de groep.

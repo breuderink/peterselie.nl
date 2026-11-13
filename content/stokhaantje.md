@@ -1,5 +1,5 @@
 ---
-{"permalink": "/stokhaantje/", "layout": "base.html", "title": "Haan-stokpop of Paas-plantensteker | Poppentheater Peterselie", "h2": "Haan-stokpop of Paas-plantensteker", "mission": null}
+{"permalink": "/stokhaantje/", "layout": "base", "title": "Haan-stokpop of Paas-plantensteker | Poppentheater Peterselie", "h2": "Haan-stokpop of Paas-plantensteker", "mission": null}
 ---
 ![190320141242.jpg](/files/190320141242_0.jpg "190320141242.jpg")
 

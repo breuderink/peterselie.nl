@@ -1,5 +1,5 @@
 ---
-{"permalink": "/neuspop/", "layout": "base.html", "title": "neuspop | Poppentheater Peterselie", "h2": "neuspop", "mission": null}
+{"permalink": "/neuspop/", "layout": "base", "title": "neuspop | Poppentheater Peterselie", "h2": "neuspop", "mission": null}
 ---
 ![DSC04335.JPG](/files/DSC04335.JPG "DSC04335.JPG")
  Deze neuspoppen zijn van triplex, dus wat duurzamer dan karton.

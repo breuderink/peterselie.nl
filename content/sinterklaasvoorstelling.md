@@ -1,5 +1,5 @@
 ---
-{"permalink": "/sinterklaasvoorstelling/", "layout": "base.html", "title": "Sinterklaasvoorstelling Wiedewiet! | Poppentheater Peterselie", "h2": "Sinterklaasvoorstelling Wiedewiet!", "mission": null}
+{"permalink": "/sinterklaasvoorstelling/", "layout": "base", "title": "Sinterklaasvoorstelling Wiedewiet! | Poppentheater Peterselie", "h2": "Sinterklaasvoorstelling Wiedewiet!", "mission": null}
 ---
 ![wiedewietinternet2.jpg](/files/wiedewietinternet2.jpg "wiedewietinternet2.jpg")
 

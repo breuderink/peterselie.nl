@@ -1,5 +1,5 @@
 ---
-{"permalink": "/vingerpopkoker/", "layout": "base.html", "title": "Vingerpopje van kartonnen koker | Poppentheater Peterselie", "h2": "Vingerpopje van kartonnen koker", "mission": null}
+{"permalink": "/vingerpopkoker/", "layout": "base", "title": "Vingerpopje van kartonnen koker | Poppentheater Peterselie", "h2": "Vingerpopje van kartonnen koker", "mission": null}
 ---
 ![vingerpopkoker4_poppentheater-peterselie.JPG](/files/vingerpopkoker4_poppentheater-peterselie.JPG "vingerpopkoker4_poppentheater-peterselie.JPG")
  Wat heb je nodig?

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/visje/", "layout": "base.html", "title": "Visje, visje, in het water........ | Poppentheater Peterselie", "h2": "Visje, visje, in het water........", "mission": null}
+{"permalink": "/visje/", "layout": "base", "title": "Visje, visje, in het water........ | Poppentheater Peterselie", "h2": "Visje, visje, in het water........", "mission": null}
 ---
 ![SchimVisje.png](/files/SchimVisje.png "SchimVisje.png")
 

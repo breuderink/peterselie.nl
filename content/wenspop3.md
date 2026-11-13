@@ -1,5 +1,5 @@
 ---
-{"permalink": "/wenspop3/", "layout": "base.html", "title": "Wikkelpopje van krantenpapier. | Poppentheater Peterselie", "h2": "Wikkelpopje van krantenpapier.", "mission": null}
+{"permalink": "/wenspop3/", "layout": "base", "title": "Wikkelpopje van krantenpapier. | Poppentheater Peterselie", "h2": "Wikkelpopje van krantenpapier.", "mission": null}
 ---
 Zoals al eens eerder gezegd: het ritmisch wikkelen maakt de meesten van ons meditatief en daardoor zouden we gemakkelijker onze intenties op de pop kunnen projecteren, wat natuurlijk de bedoeling is bij een Wenspop!
 

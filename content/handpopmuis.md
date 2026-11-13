@@ -1,5 +1,5 @@
 ---
-{"permalink": "/handpopmuis/", "layout": "base.html", "title": "Handpop Muis voor kinderhand | Poppentheater Peterselie", "h2": "Handpop Muis voor kinderhand", "mission": null}
+{"permalink": "/handpopmuis/", "layout": "base", "title": "Handpop Muis voor kinderhand | Poppentheater Peterselie", "h2": "Handpop Muis voor kinderhand", "mission": null}
 ---
 ![Muishandpop.jpg](/files/Muishandpop.jpg "Muishandpop.jpg")
 

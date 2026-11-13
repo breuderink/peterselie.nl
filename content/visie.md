@@ -1,5 +1,5 @@
 ---
-{"permalink": "/visie/", "layout": "base.html", "title": "Visie | Poppentheater Peterselie", "h2": "Visie", "mission": null}
+{"permalink": "/visie/", "layout": "base", "title": "Visie | Poppentheater Peterselie", "h2": "Visie", "mission": null}
 ---
 ![visie.jpg](/files/visie.jpg "visie.jpg")
  Foto: Saskia de Jong

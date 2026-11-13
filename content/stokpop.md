@@ -1,5 +1,5 @@
 ---
-{"permalink": "/stokpop/", "layout": "base.html", "title": "stokpop Paus | Poppentheater Peterselie", "h2": "stokpop Paus", "mission": null}
+{"permalink": "/stokpop/", "layout": "base", "title": "stokpop Paus | Poppentheater Peterselie", "h2": "stokpop Paus", "mission": null}
 ---
 ![Paus10:poppentheater-peterselie.JPG](/files/Paus10:poppentheater-peterselie.JPG "Paus10:poppentheater-peterselie.JPG")
 

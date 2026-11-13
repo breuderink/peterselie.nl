@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kerstengel/", "layout": "base.html", "title": "kerstengel | Poppentheater Peterselie", "h2": "kerstengel", "mission": null}
+{"permalink": "/kerstengel/", "layout": "base", "title": "kerstengel | Poppentheater Peterselie", "h2": "kerstengel", "mission": null}
 ---
 ![kerstengel4_poppentheater-peterselie.jpg](/files/kerstengel4_poppentheater-peterselie.jpg "kerstengel4_poppentheater-peterselie.jpg")
 

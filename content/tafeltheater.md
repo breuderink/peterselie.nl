@@ -1,5 +1,5 @@
 ---
-{"permalink": "/tafeltheater/", "layout": "base.html", "title": "kartonnen tafelpoppetjes voor  &quot;Mama kwijt&quot; | Poppentheater Peterselie", "h2": "kartonnen tafelpoppetjes voor  &quot;Mama kwijt&quot;", "mission": null}
+{"permalink": "/tafeltheater/", "layout": "base", "title": "kartonnen tafelpoppetjes voor  &quot;Mama kwijt&quot; | Poppentheater Peterselie", "h2": "kartonnen tafelpoppetjes voor  &quot;Mama kwijt&quot;", "mission": null}
 ---
 ![papierenuiltjes.jpg](/files/papierenuiltjes.jpg "papierenuiltjes.jpg")
  Ontwerp: Marjanne Peters (Poppentheater Peterselie)

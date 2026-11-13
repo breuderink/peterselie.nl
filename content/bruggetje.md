@@ -1,5 +1,5 @@
 ---
-{"permalink": "/bruggetje/", "layout": "base.html", "title": "Onder een houten bruggetje | Poppentheater Peterselie", "h2": "Onder een houten bruggetje", "mission": null}
+{"permalink": "/bruggetje/", "layout": "base", "title": "Onder een houten bruggetje | Poppentheater Peterselie", "h2": "Onder een houten bruggetje", "mission": null}
 ---
 ![Bruggetje-affiche2-web.jpg](/files/Bruggetje-affiche2-web.jpg "Bruggetje-affiche2-web.jpg")
 

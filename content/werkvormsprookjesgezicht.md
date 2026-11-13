@@ -1,5 +1,5 @@
 ---
-{"permalink": "/werkvormsprookjesgezicht/", "layout": "base.html", "title": "Werkvorm sprookjesgezichten | Poppentheater Peterselie", "h2": "Werkvorm sprookjesgezichten", "mission": null}
+{"permalink": "/werkvormsprookjesgezicht/", "layout": "base", "title": "Werkvorm sprookjesgezichten | Poppentheater Peterselie", "h2": "Werkvorm sprookjesgezichten", "mission": null}
 ---
 ![DSC04913.JPG](/files/DSC04913.JPG "DSC04913.JPG")
 

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/gebreidevingerpop/", "layout": "base.html", "title": "gebreide vingerpop | Poppentheater Peterselie", "h2": "gebreide vingerpop", "mission": null}
+{"permalink": "/gebreidevingerpop/", "layout": "base", "title": "gebreide vingerpop | Poppentheater Peterselie", "h2": "gebreide vingerpop", "mission": null}
 ---
 ![vingerpopgebreid.png](/files/vingerpopgebreid.png "vingerpopgebreid.png")
 

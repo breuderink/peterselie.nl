@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kinderknutsel/", "layout": "base.html", "title": "Kinderknutsels | Poppentheater Peterselie", "h2": "Kinderknutsels", "mission": null}
+{"permalink": "/kinderknutsel/", "layout": "base", "title": "Kinderknutsels | Poppentheater Peterselie", "h2": "Kinderknutsels", "mission": null}
 ---
 ![rattenvanger5:poppentheater-peterselie.jpg](/files/rattenvanger5:poppentheater-peterselie.jpg "rattenvanger5:poppentheater-peterselie.jpg")
 

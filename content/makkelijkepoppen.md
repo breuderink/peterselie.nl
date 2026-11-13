@@ -1,5 +1,5 @@
 ---
-{"permalink": "/makkelijkepoppen/", "layout": "base.html", "title": "Cursus gemakkelijk te maken poppen | Poppentheater Peterselie", "h2": "Cursus gemakkelijk te maken poppen", "mission": null}
+{"permalink": "/makkelijkepoppen/", "layout": "base", "title": "Cursus gemakkelijk te maken poppen | Poppentheater Peterselie", "h2": "Cursus gemakkelijk te maken poppen", "mission": null}
 ---
 ![cursussen5.jpg](/files/cursussen5.jpg "cursussen5.jpg")
  foto: Roc Den Helder

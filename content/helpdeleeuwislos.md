@@ -1,5 +1,5 @@
 ---
-{"permalink": "/helpdeleeuwislos/", "layout": "base.html", "title": "Help! De leeuw is los | Poppentheater Peterselie", "h2": "Help! De leeuw is los", "mission": null}
+{"permalink": "/helpdeleeuwislos/", "layout": "base", "title": "Help! De leeuw is los | Poppentheater Peterselie", "h2": "Help! De leeuw is los", "mission": null}
 ---
 ![leeuwlosinternet.jpg](/files/leeuwlosinternet.jpg "leeuwlosinternet.jpg")
  Jammer, maar dit is een voorstelling, die aan een andere poppenspeler is verkocht.

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kleurplaten/", "layout": "base.html", "title": "Kleurplaten | Poppentheater Peterselie", "h2": "Kleurplaten", "mission": null}
+{"permalink": "/kleurplaten/", "layout": "base", "title": "Kleurplaten | Poppentheater Peterselie", "h2": "Kleurplaten", "mission": null}
 ---
 Klik op de kleurplaat voor een afdrukversie.
 

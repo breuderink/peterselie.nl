@@ -1,5 +1,5 @@
 ---
-{"permalink": "/peuterfeestje/", "layout": "base.html", "title": "Louter Kabouter | Poppentheater Peterselie", "h2": "Louter Kabouter", "mission": null}
+{"permalink": "/peuterfeestje/", "layout": "base", "title": "Louter Kabouter | Poppentheater Peterselie", "h2": "Louter Kabouter", "mission": null}
 ---
 ![louterkabouter2-web.jpg](/files/louterkabouter2-web_0.jpg "louterkabouter2-web.jpg")
 

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/raadsel/", "layout": "base.html", "title": "Raadsel | Poppentheater Peterselie", "h2": "Raadsel", "mission": null}
+{"permalink": "/raadsel/", "layout": "base", "title": "Raadsel | Poppentheater Peterselie", "h2": "Raadsel", "mission": null}
 ---
 ![mixkaart.jpg](/files/mixkaart.jpg "mixkaart.jpg")
 

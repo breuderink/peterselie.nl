@@ -1,5 +1,5 @@
 ---
-{"permalink": "/liedjesmuis/", "layout": "base.html", "title": "Liedjes Muis zoekt huis | Poppentheater Peterselie", "h2": "Liedjes Muis zoekt huis", "mission": null}
+{"permalink": "/liedjesmuis/", "layout": "base", "title": "Liedjes Muis zoekt huis | Poppentheater Peterselie", "h2": "Liedjes Muis zoekt huis", "mission": null}
 ---
 Loopliedje: (Wijs: Altijd is Kortjakje ziek)
 

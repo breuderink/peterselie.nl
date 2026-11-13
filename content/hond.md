@@ -1,5 +1,5 @@
 ---
-{"permalink": "/hond/", "layout": "base.html", "title": "Pop-up Hond (in rieten mand) | Poppentheater Peterselie", "h2": "Pop-up Hond (in rieten mand)", "mission": null}
+{"permalink": "/hond/", "layout": "base", "title": "Pop-up Hond (in rieten mand) | Poppentheater Peterselie", "h2": "Pop-up Hond (in rieten mand)", "mission": null}
 ---
 ![hond3-web.jpg](/files/hond3-web.jpg "hond3-web.jpg")
 

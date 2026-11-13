@@ -1,5 +1,5 @@
 ---
-{"permalink": "/wiezaldatbetalen/", "layout": "base.html", "title": "Wie zal dat betalen? | Poppentheater Peterselie", "h2": "Wie zal dat betalen?", "mission": null}
+{"permalink": "/wiezaldatbetalen/", "layout": "base", "title": "Wie zal dat betalen? | Poppentheater Peterselie", "h2": "Wie zal dat betalen?", "mission": null}
 ---
 ![enwiebetalen.jpg](/files/enwiebetalen.jpg "enwiebetalen.jpg")
 

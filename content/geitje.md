@@ -1,5 +1,5 @@
 ---
-{"permalink": "/geitje/", "layout": "base.html", "title": "De boerderij heeft er een geitje bij! | Poppentheater Peterselie", "h2": "De boerderij heeft er een geitje bij!", "mission": null}
+{"permalink": "/geitje/", "layout": "base", "title": "De boerderij heeft er een geitje bij! | Poppentheater Peterselie", "h2": "De boerderij heeft er een geitje bij!", "mission": null}
 ---
 ![geitaffiche web.jpg](</files/geitaffiche web.jpg> "geitaffiche web.jpg")
 

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/alleeendjes/", "layout": "base.html", "title": "&quot;Alle eendjes...&quot; | Poppentheater Peterselie", "h2": "&quot;Alle eendjes...&quot;", "mission": null}
+{"permalink": "/alleeendjes/", "layout": "base", "title": "&quot;Alle eendjes...&quot; | Poppentheater Peterselie", "h2": "&quot;Alle eendjes...&quot;", "mission": null}
 ---
 ![Alleeendjesnieuw2_web.jpg](/files/Alleeendjesnieuw2_web.jpg "Alleeendjesnieuw2_web.jpg")
 

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/vertelkabouter/", "layout": "base.html", "title": "Gebreide vertelkabouter | Poppentheater Peterselie", "h2": "Gebreide vertelkabouter", "mission": null}
+{"permalink": "/vertelkabouter/", "layout": "base", "title": "Gebreide vertelkabouter | Poppentheater Peterselie", "h2": "Gebreide vertelkabouter", "mission": null}
 ---
 ![190320141236.jpg](/files/190320141236.jpg "190320141236.jpg")
 

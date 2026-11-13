@@ -1,5 +1,5 @@
 ---
-{"permalink": "/rat/", "layout": "base.html", "title": "Sokpop Rat | Poppentheater Peterselie", "h2": "Sokpop Rat", "mission": null}
+{"permalink": "/rat/", "layout": "base", "title": "Sokpop Rat | Poppentheater Peterselie", "h2": "Sokpop Rat", "mission": null}
 ---
 ![Rat_poppentheater-peterselie.jpg](/files/Rat_poppentheater-peterselie.jpg "Rat_poppentheater-peterselie.jpg")
 

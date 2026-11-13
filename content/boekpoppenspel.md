@@ -1,5 +1,5 @@
 ---
-{"permalink": "/boekpoppenspel/", "layout": "base.html", "title": "Boek: Ik ben een bus vol poppen | Poppentheater Peterselie", "h2": "Boek: Ik ben een bus vol poppen", "mission": null}
+{"permalink": "/boekpoppenspel/", "layout": "base", "title": "Boek: Ik ben een bus vol poppen | Poppentheater Peterselie", "h2": "Boek: Ik ben een bus vol poppen", "mission": null}
 ---
 ![cover_web.png](/files/cover_web.png "cover_web.png")
 

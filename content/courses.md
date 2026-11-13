@@ -1,5 +1,5 @@
 ---
-{"permalink": "/courses/", "layout": "base.html", "title": "Courses / Workshops | Poppentheater Peterselie", "h2": "Courses / Workshops", "mission": null}
+{"permalink": "/courses/", "layout": "base", "title": "Courses / Workshops | Poppentheater Peterselie", "h2": "Courses / Workshops", "mission": null}
 ---
 "Peterselie" Puppet Theatre offers workshops and courses on aspects of the puppet theatre with emphasis on daring to play with the puppets made.
  If desired a 2-4 hour workshop can be set up or a course with in-depth treatment of the subjects.

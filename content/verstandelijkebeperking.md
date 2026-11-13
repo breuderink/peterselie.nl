@@ -1,5 +1,5 @@
 ---
-{"permalink": "/verstandelijkebeperking/", "layout": "base.html", "title": "Voorstellingen voor mensen met een beperking | Poppentheater Peterselie", "h2": "Voorstellingen voor mensen met een beperking", "mission": null}
+{"permalink": "/verstandelijkebeperking/", "layout": "base", "title": "Voorstellingen voor mensen met een beperking | Poppentheater Peterselie", "h2": "Voorstellingen voor mensen met een beperking", "mission": null}
 ---
 ![kerstopmaat2-poppentheater-peterselie.jpg](/files/kerstopmaat2-poppentheater-peterselie.jpg "kerstopmaat2-poppentheater-peterselie.jpg")
  Meedoevoorstelling van Poppentheater Peterselie bij Opmaat, Bedum

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/tovertaart/", "layout": "base.html", "title": "Gefelici-tovertaart! | Poppentheater Peterselie", "h2": "Gefelici-tovertaart!", "mission": null}
+{"permalink": "/tovertaart/", "layout": "base", "title": "Gefelici-tovertaart! | Poppentheater Peterselie", "h2": "Gefelici-tovertaart!", "mission": null}
 ---
 ![gefelicitovertaart_jpg_web.jpg](/files/gefelicitovertaart_jpg_web_1.jpg "gefelicitovertaart_jpg_web.jpg")
 

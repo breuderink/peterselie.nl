@@ -1,5 +1,5 @@
 ---
-{"permalink": "/knipplaatVisser/", "layout": "base.html", "title": "Papierentheater-knipplaat &quot;De Visser en zijn Hebberige Vrouw&quot; | Poppentheater Peterselie", "h2": "Papierentheater-knipplaat &quot;De Visser en zijn Hebberige Vrouw&quot;", "mission": null}
+{"permalink": "/knipplaatVisser/", "layout": "base", "title": "Papierentheater-knipplaat &quot;De Visser en zijn Hebberige Vrouw&quot; | Poppentheater Peterselie", "h2": "Papierentheater-knipplaat &quot;De Visser en zijn Hebberige Vrouw&quot;", "mission": null}
 ---
 Alle rechten van deze ontwerpen berusten bij Poppentheater Peterselie.
  Voor eigen gebruik mogen de pdf's worden geprint, maar voor professioneel gebruik is toestemming nodig!

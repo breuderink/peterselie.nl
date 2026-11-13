@@ -1,5 +1,5 @@
 ---
-{"permalink": "/tafelpopmuis/", "layout": "base.html", "title": "TAFELPOP MUIS | Poppentheater Peterselie", "h2": "TAFELPOP MUIS", "mission": null}
+{"permalink": "/tafelpopmuis/", "layout": "base", "title": "TAFELPOP MUIS | Poppentheater Peterselie", "h2": "TAFELPOP MUIS", "mission": null}
 ---
 ![tafelpopmuis12.JPG](/files/tafelpopmuis12.JPG "tafelpopmuis12.JPG")
  Hoe maken we Muis?

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/makingvisser/", "layout": "base.html", "title": "&quot;The making of&quot; Van de Visser en zijn Hebberige Vrouw | Poppentheater Peterselie", "h2": "&quot;The making of&quot; Van de Visser en zijn Hebberige Vrouw", "mission": null}
+{"permalink": "/makingvisser/", "layout": "base", "title": "&quot;The making of&quot; Van de Visser en zijn Hebberige Vrouw | Poppentheater Peterselie", "h2": "&quot;The making of&quot; Van de Visser en zijn Hebberige Vrouw", "mission": null}
 ---
 De Visser vanaf schets.
 

@@ -1,5 +1,5 @@
 ---
-{"permalink": "/klalana/", "layout": "base.html", "title": "Klalana, de draak en de rivier (archief) | Poppentheater Peterselie", "h2": "Klalana, de draak en de rivier (archief)", "mission": null}
+{"permalink": "/klalana/", "layout": "base", "title": "Klalana, de draak en de rivier (archief) | Poppentheater Peterselie", "h2": "Klalana, de draak en de rivier (archief)", "mission": null}
 ---
 ![klalana1.jpg](/files/klalana1.jpg "klalana1.jpg")
 

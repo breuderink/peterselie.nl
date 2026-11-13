@@ -1,5 +1,5 @@
 ---
-{"permalink": "/techniek/", "layout": "base.html", "title": "Technische gegevens | Poppentheater Peterselie", "h2": "Technische gegevens", "mission": null}
+{"permalink": "/techniek/", "layout": "base", "title": "Technische gegevens | Poppentheater Peterselie", "h2": "Technische gegevens", "mission": null}
 ---
 ![led_par_set_1.1.jpg](/files/led_par_set_1.1.jpg "led_par_set_1.1.jpg")
 

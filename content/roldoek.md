@@ -1,5 +1,5 @@
 ---
-{"permalink": "/roldoek/", "layout": "base.html", "title": "Roldoek | Poppentheater Peterselie", "h2": "Roldoek", "mission": null}
+{"permalink": "/roldoek/", "layout": "base", "title": "Roldoek | Poppentheater Peterselie", "h2": "Roldoek", "mission": null}
 ---
 ![roldoek web.png](</files/roldoek web.png> "roldoek web.png")
 

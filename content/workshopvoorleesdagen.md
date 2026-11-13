@@ -1,5 +1,5 @@
 ---
-{"permalink": "/workshopvoorleesdagen/", "layout": "base.html", "title": "Workshop Voorleesdagen 2026 Kleine Aap | Poppentheater Peterselie", "h2": "Workshop Voorleesdagen 2026 Kleine Aap", "mission": null}
+{"permalink": "/workshopvoorleesdagen/", "layout": "base", "title": "Workshop Voorleesdagen 2026 Kleine Aap | Poppentheater Peterselie", "h2": "Workshop Voorleesdagen 2026 Kleine Aap", "mission": null}
 ---
 ![voorstelling Kleine Aap web.png](</files/voorstelling Kleine Aap web.png> "voorstelling Kleine Aap web.png")
 

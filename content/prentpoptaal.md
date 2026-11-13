@@ -1,5 +1,5 @@
 ---
-{"permalink": "/prentpoptaal/", "layout": "base.html", "title": "Prent en Pop is taal | Poppentheater Peterselie", "h2": "Prent en Pop is taal", "mission": null}
+{"permalink": "/prentpoptaal/", "layout": "base", "title": "Prent en Pop is taal | Poppentheater Peterselie", "h2": "Prent en Pop is taal", "mission": null}
 ---
 ![prentpoptaal.jpg](/files/prentpoptaal.jpg "prentpoptaal.jpg")
 

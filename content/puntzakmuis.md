@@ -1,5 +1,5 @@
 ---
-{"permalink": "/puntzakmuis/", "layout": "base.html", "title": "muizenpop van puntzakje | Poppentheater Peterselie", "h2": "muizenpop van puntzakje", "mission": null}
+{"permalink": "/puntzakmuis/", "layout": "base", "title": "muizenpop van puntzakje | Poppentheater Peterselie", "h2": "muizenpop van puntzakje", "mission": null}
 ---
 ![puntzakmuis3_poppentheater-peterselie.JPG](/files/puntzakmuis3_poppentheater-peterselie.JPG "puntzakmuis3_poppentheater-peterselie.JPG")
 

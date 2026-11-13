@@ -1,5 +1,5 @@
 ---
-{"permalink": "/tafelpoppen/", "layout": "base.html", "title": "Tafelpoppen  | Poppentheater Peterselie", "h2": "Tafelpoppen ", "mission": null}
+{"permalink": "/tafelpoppen/", "layout": "base", "title": "Tafelpoppen  | Poppentheater Peterselie", "h2": "Tafelpoppen ", "mission": null}
 ---
 ![tafelpop1.png](/files/tafelpop1.png "tafelpop1.png")
 

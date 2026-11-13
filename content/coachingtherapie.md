@@ -1,5 +1,5 @@
 ---
-{"permalink": "/coachingtherapie/", "layout": "base.html", "title": "Poppenspel in educatie en therapie/coaching | Poppentheater Peterselie", "h2": "Poppenspel in educatie en therapie/coaching", "mission": null}
+{"permalink": "/coachingtherapie/", "layout": "base", "title": "Poppenspel in educatie en therapie/coaching | Poppentheater Peterselie", "h2": "Poppenspel in educatie en therapie/coaching", "mission": null}
 ---
 Deze workshop richt zich op mensen die werken binnen onderwijs, zorg, therapie en coaching.
 

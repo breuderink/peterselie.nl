@@ -1,5 +1,5 @@
 ---
-{"permalink": "/spillebeen/", "layout": "base.html", "title": "Kabouter Spillebeen | Poppentheater Peterselie", "h2": "Kabouter Spillebeen", "mission": null}
+{"permalink": "/spillebeen/", "layout": "base", "title": "Kabouter Spillebeen | Poppentheater Peterselie", "h2": "Kabouter Spillebeen", "mission": null}
 ---
 ![kaboutereindresultaatweb_edited-1.jpg](/files/kaboutereindresultaatweb_edited-1.jpg "kaboutereindresultaatweb_edited-1.jpg")
 

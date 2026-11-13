@@ -1,5 +1,5 @@
 ---
-{"permalink": "/wishingdoll3/", "layout": "base.html", "title": "Wrapped doll with newsprint skeleton | Poppentheater Peterselie", "h2": "Wrapped doll with newsprint skeleton", "mission": null}
+{"permalink": "/wishingdoll3/", "layout": "base", "title": "Wrapped doll with newsprint skeleton | Poppentheater Peterselie", "h2": "Wrapped doll with newsprint skeleton", "mission": null}
 ---
 As already said before : the rhythmic  aspect of wrapping brings most of us into a meditative state and in that state we are able to project our intentions into the doll more easily, which of course we want to achieve for our Wishing Doll.
 ![krantenpop6-web2.jpg](/files/krantenpop6-web2_0.jpg "krantenpop6-web2.jpg")

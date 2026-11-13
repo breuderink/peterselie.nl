@@ -1,5 +1,5 @@
 ---
-{"permalink": "/hulppietpiet/", "layout": "base.html", "title": "Hulppiet Piet (archief) | Poppentheater Peterselie", "h2": "Hulppiet Piet (archief)", "mission": null}
+{"permalink": "/hulppietpiet/", "layout": "base", "title": "Hulppiet Piet (archief) | Poppentheater Peterselie", "h2": "Hulppiet Piet (archief)", "mission": null}
 ---
 ![sinterklaasinternet.jpg](/files/sinterklaasinternet.jpg "sinterklaasinternet.jpg")
 

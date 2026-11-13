@@ -1,5 +1,5 @@
 ---
-{"permalink": "/schrijven/", "layout": "base.html", "title": "Schrijven | Poppentheater Peterselie", "h2": "Schrijven", "mission": null}
+{"permalink": "/schrijven/", "layout": "base", "title": "Schrijven | Poppentheater Peterselie", "h2": "Schrijven", "mission": null}
 ---
 ![schrijven:poppentheaterpeterselie.JPG](/files/schrijven:poppentheaterpeterselie.JPG "schrijven:poppentheaterpeterselie.JPG")
 

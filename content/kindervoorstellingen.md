@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kindervoorstellingen/", "layout": "base.html", "title": "Kindervoorstellingen | Poppentheater Peterselie", "h2": "Kindervoorstellingen", "mission": null}
+{"permalink": "/kindervoorstellingen/", "layout": "base", "title": "Kindervoorstellingen | Poppentheater Peterselie", "h2": "Kindervoorstellingen", "mission": null}
 ---
 Peterselie speelt alleen nog meedoe-voorstellingen.
  Voor meer info hierover, zie [meedoe-voorstellingen](http://www.peterselie.nl/meespeelvoorstellingen).

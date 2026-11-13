@@ -1,5 +1,5 @@
 ---
-{"permalink": "/komjebuitenspelen/", "layout": "base.html", "title": "Kom je buiten spelen? | Poppentheater Peterselie", "h2": "Kom je buiten spelen?", "mission": null}
+{"permalink": "/komjebuitenspelen/", "layout": "base", "title": "Kom je buiten spelen? | Poppentheater Peterselie", "h2": "Kom je buiten spelen?", "mission": null}
 ---
 ![kangoeroe-internet.jpg](/files/kangoeroe-internet.jpg "kangoeroe-internet.jpg")
  affiche: Boris Reuderink

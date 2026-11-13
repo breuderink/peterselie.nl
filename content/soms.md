@@ -1,5 +1,5 @@
 ---
-{"permalink": "/soms/", "layout": "base.html", "title": "Ton Peters: Soms | Poppentheater Peterselie", "h2": "Ton Peters: Soms", "mission": null}
+{"permalink": "/soms/", "layout": "base", "title": "Ton Peters: Soms | Poppentheater Peterselie", "h2": "Ton Peters: Soms", "mission": null}
 ---
 ![Screen Shot 2020-01-17 at 19.45.28 copy.jpg](</files/Screen Shot 2020-01-17 at 19.45.28 copy.jpg> "Screen Shot 2020-01-17 at 19.45.28 copy.jpg")
  Broer Ton (27 april 1955 - 9 januari 2020)

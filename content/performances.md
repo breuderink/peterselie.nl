@@ -1,5 +1,5 @@
 ---
-{"permalink": "/performances/", "layout": "base.html", "title": "Performances | Poppentheater Peterselie", "h2": "Performances", "mission": null}
+{"permalink": "/performances/", "layout": "base", "title": "Performances | Poppentheater Peterselie", "h2": "Performances", "mission": null}
 ---
 ![fotoenglish.jpg](/files/fotoenglish.jpg "fotoenglish.jpg")
 

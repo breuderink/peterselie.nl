@@ -1,5 +1,5 @@
 ---
-{"permalink": "/toiletrol/", "layout": "base.html", "title": "Toiletrol-kabouter | Poppentheater Peterselie", "h2": "Toiletrol-kabouter", "mission": null}
+{"permalink": "/toiletrol/", "layout": "base", "title": "Toiletrol-kabouter | Poppentheater Peterselie", "h2": "Toiletrol-kabouter", "mission": null}
 ---
 ![DSC05254.JPG](/files/DSC05254.JPG "DSC05254.JPG")
 

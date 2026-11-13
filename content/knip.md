@@ -1,5 +1,5 @@
 ---
-{"permalink": "/knip/", "layout": "base.html", "title": "Knip-knip-knip! (gaat mijn schaartje) | Poppentheater Peterselie", "h2": "Knip-knip-knip! (gaat mijn schaartje)", "mission": null}
+{"permalink": "/knip/", "layout": "base", "title": "Knip-knip-knip! (gaat mijn schaartje) | Poppentheater Peterselie", "h2": "Knip-knip-knip! (gaat mijn schaartje)", "mission": null}
 ---
 ![Knipknipknip-affiche_web.jpg](/files/Knipknipknip-affiche_web.jpg "Knipknipknip-affiche_web.jpg")
 

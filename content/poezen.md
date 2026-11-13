@@ -1,5 +1,5 @@
 ---
-{"permalink": "/poezen/", "layout": "base.html", "title": "Een dame en tien poezen | Poppentheater Peterselie", "h2": "Een dame en tien poezen", "mission": null}
+{"permalink": "/poezen/", "layout": "base", "title": "Een dame en tien poezen | Poppentheater Peterselie", "h2": "Een dame en tien poezen", "mission": null}
 ---
 ![10poezen_internet.jpg](/files/10poezen_internet.jpg "10poezen_internet.jpg")
 

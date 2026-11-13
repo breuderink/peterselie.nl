@@ -1,5 +1,5 @@
 ---
-{"permalink": "/bosjepeterselie/", "layout": "base.html", "title": "Bosje bloemen of bosje peterselie? | Poppentheater Peterselie", "h2": "Bosje bloemen of bosje peterselie?", "mission": null}
+{"permalink": "/bosjepeterselie/", "layout": "base", "title": "Bosje bloemen of bosje peterselie? | Poppentheater Peterselie", "h2": "Bosje bloemen of bosje peterselie?", "mission": null}
 ---
 ![bosjepeterselieinternet.jpg](/files/bosjepeterselieinternet.jpg "bosjepeterselieinternet.jpg")
  Affiche van de actie "bosje peterselie".

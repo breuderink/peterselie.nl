@@ -1,5 +1,5 @@
 ---
-{"permalink": "/voorstellingmaken/", "layout": "base.html", "title": "Een voorstelling in 1 dag! | Poppentheater Peterselie", "h2": "Een voorstelling in 1 dag!", "mission": null}
+{"permalink": "/voorstellingmaken/", "layout": "base", "title": "Een voorstelling in 1 dag! | Poppentheater Peterselie", "h2": "Een voorstelling in 1 dag!", "mission": null}
 ---
 ![Sneeuwkoningin2.jpg](/files/Sneeuwkoningin2.jpg "Sneeuwkoningin2.jpg")
 

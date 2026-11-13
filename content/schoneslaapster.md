@@ -1,5 +1,5 @@
 ---
-{"permalink": "/schoneslaapster/", "layout": "base.html", "title": "De schone slaapster (of een gevalletje Stockholmsyndroom avant la lettre) | Poppentheater Peterselie", "h2": "De schone slaapster (of een gevalletje Stockholmsyndroom avant la lettre)", "mission": null}
+{"permalink": "/schoneslaapster/", "layout": "base", "title": "De schone slaapster (of een gevalletje Stockholmsyndroom avant la lettre) | Poppentheater Peterselie", "h2": "De schone slaapster (of een gevalletje Stockholmsyndroom avant la lettre)", "mission": null}
 ---
 ![koning en koningin + heks werkcopy copy-web.jpeg](</files/koning en koningin + heks werkcopy copy-web.jpeg> "koning en koningin + heks werkcopy copy-web.jpeg")
 

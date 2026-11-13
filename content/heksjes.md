@@ -1,5 +1,5 @@
 ---
-{"permalink": "/heksjes/", "layout": "base.html", "title": "Tien domme heksjes | Poppentheater Peterselie", "h2": "Tien domme heksjes", "mission": null}
+{"permalink": "/heksjes/", "layout": "base", "title": "Tien domme heksjes | Poppentheater Peterselie", "h2": "Tien domme heksjes", "mission": null}
 ---
 ![heksjes2web.jpg](/files/heksjes2web.jpg "heksjes2web.jpg")
  Klik [hier](/afficheheksen) voor een affiche.

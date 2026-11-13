@@ -1,5 +1,5 @@
 ---
-{"permalink": "/looppopje/", "layout": "base.html", "title": "Beertje (looppopje) | Poppentheater Peterselie", "h2": "Beertje (looppopje)", "mission": null}
+{"permalink": "/looppopje/", "layout": "base", "title": "Beertje (looppopje) | Poppentheater Peterselie", "h2": "Beertje (looppopje)", "mission": null}
 ---
 ![loopbeertje1_poppentheater-peterselie.jpg](/files/loopbeertje1_poppentheater-peterselie.jpg "loopbeertje1_poppentheater-peterselie.jpg")
 

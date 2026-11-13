@@ -1,5 +1,5 @@
 ---
-{"permalink": "/gruf/", "layout": "base.html", "title": "Het maken van de Gruf | Poppentheater Peterselie", "h2": "Het maken van de Gruf", "mission": null}
+{"permalink": "/gruf/", "layout": "base", "title": "Het maken van de Gruf | Poppentheater Peterselie", "h2": "Het maken van de Gruf", "mission": null}
 ---
 ![gruf12metbenenentenengecropt.jpg](/files/gruf12metbenenentenengecropt.jpg "gruf12metbenenentenengecropt.jpg")
 

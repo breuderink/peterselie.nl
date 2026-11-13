@@ -1,5 +1,5 @@
 ---
-{"permalink": "/historie/", "layout": "base.html", "title": "Poppentheater de Verhalendoos | Poppentheater Peterselie", "h2": "Poppentheater de Verhalendoos", "mission": null}
+{"permalink": "/historie/", "layout": "base", "title": "Poppentheater de Verhalendoos | Poppentheater Peterselie", "h2": "Poppentheater de Verhalendoos", "mission": null}
 ---
 ![verhalendooslogo.jpg](/files/verhalendooslogo.jpg "verhalendooslogo.jpg")
 
