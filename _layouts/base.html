@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ title }}</title>
+<title>{{ page.title }}</title>
 <meta name="description" content="Poppentheater Peterselie verzorgt vrolijk poppentheater in het hele land voor kinderen vanaf twee jaar.">
 <meta name="keywords" content="poppentheater, poppenspel, workshop, puppetry, puppeteer, poppenspeler, theater, peuter theater, meespeeltheater, verstandelijk gehandicapten"/>
 <link rel="icon" href="{{ '/files/resources/favicon.ico' | relative_url }}" type="image/x-icon">
@@ -21,8 +21,8 @@
     </aside>
 
     <main id="content-left" class="main-content">
-      <h2 class="content-title">{{ h2 }}</h2>
-      {% if mission %}<div id="mission">{{ mission }}</div>{% endif %}
+      <h2 class="content-title">{{ page.h2 }}</h2>
+      {% if page.mission %}<div id="mission">{{ page.mission }}</div>{% endif %}
       <article class="node">
         <div class="content">{{ content }}</div>
       </article>
