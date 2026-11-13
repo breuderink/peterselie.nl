@@ -20,7 +20,7 @@ The editing guide with this site's markdown rules is in
 All media (images, audio, video) lives in `files/` as plain git blobs
 (no LFS — GitHub Pages serves the checkout, and it does not smudge
 LFS). Put new files in `files/` and link them from a page as
-`/peterselie.nl/files/name.ext`.
+`/files/name.ext`.
 
 ## Building locally
 
@@ -31,7 +31,7 @@ python3 tools/check.py   # link/asset check over all pages -> PASS
 ```
 
 View locally: `python3 -m http.server -d build 8000` →
-http://localhost:8000/peterselie.nl/
+http://localhost:8000/
 
 ## Publishing
 

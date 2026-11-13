@@ -1,10 +1,15 @@
 # Deploying
 
 GitHub Pages builds this repo with Jekyll on every push to `main` —
-"Deploy from a branch", no custom build step. One-time repo setting:
-Settings → Pages → Source: **Deploy from a branch**, branch `main`,
-directory **/ (root)**. (If Pages was previously set to "GitHub
-Actions", switch it back.)
+"Deploy from a branch", no custom build step. The repo is a **user
+site**: its name is `breuderink.github.io`, so the site serves at the
+domain root on peterselie.nl once the CNAME is active — required, because
+the legacy Drupal URLs (`/slug/`, `/files/...`) must resolve at the
+root. (A project page keeps its `/project-name` path even under a
+CNAME, so it cannot do this.) One-time repo setting: Settings → Pages
+→ Source: **Deploy from a branch**, branch `main`, directory **/
+(root)**. (If Pages was previously set to "GitHub Actions", switch it
+back.)
 
 ## What the build does
 
@@ -13,7 +18,7 @@ Actions", switch it back.)
 - `_data/navigation.yml` → sidebar menu, rendered by `_includes/nav.html`
   (active state and sub-menu expansion derived from the URL).
 - `files/resources/*` (stylesheet, banner, favicon) → copied into the
-  output; referenced with `relative_url`, so they carry the baseurl.
+  output; referenced with `relative_url` (root-absolute, no baseurl).
 - `files/*` (media, plain git blobs — no LFS) → **excluded from the
   build** via `.jekyll-ignore`: copying ~334 MB would time out
   GitHub's build. Pages serves those files from the repo checkout
@@ -32,16 +37,13 @@ Pages are emitted as directories: `/visie/` → `visie/index.html`.
 GitHub Pages infers the Content-Type from the file extension and cannot
 serve extensionless pages as HTML.
 
-Menu and asset URLs carry the baseurl (`/peterselie.nl/...`), so they
-resolve on both the project URL and the custom domain. Body links in
-the markdown pages stay root-relative (`/files/...`, `/visie/`) — that
-matches the custom domain (the end state), so on the
-`breuderink.github.io` project URL the chrome and menu work but body
-links 404 until the CNAME is active. The local build is faithful to the
-custom domain:
+All URLs are root-absolute: menu and asset links via `relative_url`
+(no baseurl), body links as authored in the markdown (`/files/...`,
+`/visie/`). They resolve at the domain root — the local build is
+faithful to the deployed site:
 
 ```
-python3 -m http.server -d build 8000   # -> http://localhost:8000/peterselie.nl/
+python3 -m http.server -d build 8000   # -> http://localhost:8000/
 ```
 
 Old extensionless URLs (`/visie`) keep working only if Pages 301s them
@@ -56,8 +58,8 @@ Expect `301` + `Location: .../visie/`.
 
 ## First-deploy checklist
 
-1. Open the project URL — chrome, banner, menu (with sub-menu), one
-   page.
+1. Open https://breuderink.github.io/ (the user-site URL) — chrome,
+   banner, menu (with sub-menu), one page.
 2. Open one `/files/...` image and check it renders (media are plain
    git blobs, no LFS — if a few lines of `version https://...` text
    show instead, something smudge-processed the checkout).

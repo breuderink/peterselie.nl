@@ -4,7 +4,7 @@
   pages (the old site's expand behaviour, derived from the URL, not
   per-page front matter). Active state: current page AND its parent
   carry the marker — the parent gets `expanded`, the exact match gets
-  `active`. URLs go through relative_url so they carry the baseurl.
+  `active`. URLs go through relative_url (root-absolute, no baseurl).
   Depth: top level + one level of children (add another nested loop for
   more levels).
 {%- endcomment -%}

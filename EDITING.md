@@ -50,9 +50,8 @@ so changing the menu is fine.
 ## Adding an image or file
 
 Put the file in the `files/` directory and refer to it from the page
-with the root-absolute path `/peterselie.nl/files/name-of-the-file`
-(the baseurl prefix is what makes it resolve on the project page; it
-also works once the CNAME is active).
+with the root-absolute path `/files/name-of-the-file` (the site
+serves at the domain root, so no baseurl prefix).
 
 ## After editing: build and check
 
