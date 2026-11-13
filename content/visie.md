@@ -1,7 +1,7 @@
 ---
 {"permalink": "/visie/", "layout": "base", "title": "Visie | Poppentheater Peterselie", "h2": "Visie", "mission": null}
 ---
-![visie.jpg](/peterselie.nl/files/visie.jpg "visie.jpg")
+![visie.jpg](/files/visie.jpg "visie.jpg")
  Foto: Saskia de Jong
 
 Heel belangrijk bij de voorstellingen van Peterselie is de "ontmoeting" met het publiek.
@@ -13,9 +13,9 @@ De vorm, de inhoud en de sfeer van een kindervoorstelling moet goed aansluiten b
 
 Meezingen, muziek maken en meebewegen zijn in vrijwel iedere voorstelling terug te vinden, en natuurlijk zijn de voorstellingen van Peterselie ook mooi om naar te kijken.
 
-Door deze elementen ontstaat een concentratie die enorm belangrijk is voor de ontwikkeling. Dit kan nog versterkt worden als de aanwezige begeleiders en ouders ook meeleven met het verhaal. Om het uiterste uit een voorstelling te halen staan er elders op deze site [tips](/peterselie.nl/voorstellingtips).
+Door deze elementen ontstaat een concentratie die enorm belangrijk is voor de ontwikkeling. Dit kan nog versterkt worden als de aanwezige begeleiders en ouders ook meeleven met het verhaal. Om het uiterste uit een voorstelling te halen staan er elders op deze site [tips](/voorstellingtips).
 
-Wie luistert naar de 6-jarige Peterselie ([orgel.mp3](/peterselie.nl/files/orgel.mp3 "Download: orgel.mp3 (831.45 KB)"))
+Wie luistert naar de 6-jarige Peterselie ([orgel.mp3](/files/orgel.mp3 "Download: orgel.mp3 (831.45 KB)"))
  voelt wel aan dat het taalgebruik verzorgd is en er niet wordt gevloekt.
 
-Klik hier: [interview.m4a.zip](/peterselie.nl/files/interview.m4a.zip "Download: interview.m4a.zip (51.31 MB)") voor een interview op Radio IJsselmond voor het programma Cultuurvreters.
+Klik hier: [interview.m4a.zip](/files/interview.m4a.zip "Download: interview.m4a.zip (51.31 MB)") voor een interview op Radio IJsselmond voor het programma Cultuurvreters.

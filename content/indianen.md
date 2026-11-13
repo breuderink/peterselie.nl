@@ -8,7 +8,7 @@ Verhalenverteller Marjanne Peters van Poppentheater Peterselie vertelt eerst  he
  Tot slot wordt het verhaal uitgespeeld, liefst in een lege ruimte, waarbij de maskers en hoofdtooien worden gebruikt.
  Met extra begeleiding zeer geschikt voor mensen met een beperking.
 
-![indianen2:poppentheater-peterselie.JPG](/peterselie.nl/files/indianen2:poppentheater-peterselie.JPG "indianen2:poppentheater-peterselie.JPG")
+![indianen2:poppentheater-peterselie.JPG](/files/indianen2:poppentheater-peterselie.JPG "indianen2:poppentheater-peterselie.JPG")
  Een indiaan bij de meedoevoorstelling (Revalidatiecentrum Beatrixoord)
 
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/7hhr_SrIahc" frameborder="0" allowfullscreen></iframe><br />

@@ -1,7 +1,7 @@
 ---
 {"permalink": "/tips/", "layout": "base", "title": "Tips voor een prettige voorstelling | Poppentheater Peterselie", "h2": "Tips voor een prettige voorstelling", "mission": null}
 ---
-![prettigevoorstelling.jpg](/peterselie.nl/files/prettigevoorstelling.jpg "prettigevoorstelling.jpg")
+![prettigevoorstelling.jpg](/files/prettigevoorstelling.jpg "prettigevoorstelling.jpg")
 
 Een paar tips om er voor te zorgen dat voor uw kind, voor uzelf, maar ook voor anderen de voorstelling zo leuk mogelijk is!
 

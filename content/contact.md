@@ -1,7 +1,7 @@
 ---
 {"permalink": "/contact/", "layout": "base", "title": "Contact | Poppentheater Peterselie", "h2": "Contact", "mission": null}
 ---
-![logo.gif](/peterselie.nl/files/logo.gif "logo.gif")
+![logo.gif](/files/logo.gif "logo.gif")
 
 Van Ostadestraat 68
  9403 BE Assen

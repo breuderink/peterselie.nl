@@ -1,9 +1,9 @@
 ---
 {"permalink": "/spook/", "layout": "base", "title": "Ik ben niet bang voor een spook! | Poppentheater Peterselie", "h2": "Ik ben niet bang voor een spook!", "mission": null}
 ---
-![spookje-poppentheaterpeterselie.jpg](/peterselie.nl/files/spookje-poppentheaterpeterselie.jpg "spookje-poppentheaterpeterselie.jpg")
+![spookje-poppentheaterpeterselie.jpg](/files/spookje-poppentheaterpeterselie.jpg "spookje-poppentheaterpeterselie.jpg")
  De (onversierde) spookpop van Peterselie...
-![Foto-B8XQQPDU.jpg](/peterselie.nl/files/Foto-B8XQQPDU.jpg "Foto-B8XQQPDU.jpg")
+![Foto-B8XQQPDU.jpg](/files/Foto-B8XQQPDU.jpg "Foto-B8XQQPDU.jpg")
  ....en het versierde spook van een bezoeker!
 
 Helaas, deze voorstelling wordt niet meer gespeeld.
@@ -27,6 +27,6 @@ Geschikt voor kinderen van 6 tot 9 jaar (groep 3 en 4).
 
 Ook leuk voor verjaarspartijtje, speciaal als het jarige kind bang is in het donker. Angstige kinderen blijken na deze meedoe-voorstelling veel meer te durven. Prijs in overleg.
 
-![Foto-L68GMG84.jpg](/peterselie.nl/files/Foto-L68GMG84.jpg "Foto-L68GMG84.jpg")
+![Foto-L68GMG84.jpg](/files/Foto-L68GMG84.jpg "Foto-L68GMG84.jpg")
 
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/sJ4OJse9zUc" frameborder="0" allowfullscreen></iframe></p>

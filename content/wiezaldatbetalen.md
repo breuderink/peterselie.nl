@@ -1,7 +1,7 @@
 ---
 {"permalink": "/wiezaldatbetalen/", "layout": "base", "title": "Wie zal dat betalen? | Poppentheater Peterselie", "h2": "Wie zal dat betalen?", "mission": null}
 ---
-![enwiebetalen.jpg](/peterselie.nl/files/enwiebetalen.jpg "enwiebetalen.jpg")
+![enwiebetalen.jpg](/files/enwiebetalen.jpg "enwiebetalen.jpg")
 
 SAMENWERKEN MET ANDERE ORGANISATIES
  Als het theater 1 voorstelling bij u komt geven, zijn de reiskosten relatief hoog. Als u een andere instelling bij u in de buurt ook weet te interesseren, kunt u die delen. Nog goedkoper wordt het, als de voorstelling op één plek kan blijven staan, omdat de prijs van een tweede keer spelen aanzienlijk lager is.
@@ -10,7 +10,7 @@ TAALSTIMULERING
  De meeste voorstellingen van Peterselie gelden als taalbevorderend. Gemeentes hebben hier vaak een subsidiepotje voor.
 
 KORTING
- Voor kleine groepjes zijn er kortingen op de voorstellingen van Poppentheater Peterselie te bedingen, kijk bij [korting](/peterselie.nl/korting/).
+ Voor kleine groepjes zijn er kortingen op de voorstellingen van Poppentheater Peterselie te bedingen, kijk bij [korting](/korting/).
  Ook valt er soms een deal te maken als er een goede video-registratie wordt gemaakt van de voorstelling.
 
 RUILEN?

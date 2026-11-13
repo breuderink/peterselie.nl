@@ -19,7 +19,7 @@ Voor de peutervoorstelling vallen er een paar liedjes af, nl. "Maria, die zoude"
  Kerstklokje, klingelingeling
  Kerstklokje, kling
 
-muziek: [01 Klokje peuters.m4a](</peterselie.nl/files/01 Klokje peuters.m4a> "Download: 01 Klokje peuters.m4a (1.93 MB)")
+muziek: [01 Klokje peuters.m4a](</files/01 Klokje peuters.m4a> "Download: 01 Klokje peuters.m4a (1.93 MB)")
 
 **Maria die zoude naar Betlehem gaan**
  Maria die zoude naar Betlehem gaan
@@ -32,7 +32,7 @@ Het hageld’ en sneeuwde en ’t was er zo koud
  Sint Jozef tot Maria sprak:
  Maria wat zullen wij maken?
 
-[Maria die zoude naar Bethlehem gaan (1) - 1st + harp MO.mp3](</peterselie.nl/files/Maria die zoude naar Bethlehem gaan (1) - 1st + harp MO.mp3> "Download: Maria die zoude naar Bethlehem gaan (1) - 1st + harp MO.mp3 (675.08 KB)")
+[Maria die zoude naar Bethlehem gaan (1) - 1st + harp MO.mp3](</files/Maria die zoude naar Bethlehem gaan (1) - 1st + harp MO.mp3> "Download: Maria die zoude naar Bethlehem gaan (1) - 1st + harp MO.mp3 (675.08 KB)")
 
 **Stil nu, stil nu**
  Stil nu, stil nu,
@@ -44,7 +44,7 @@ Het hageld’ en sneeuwde en ’t was er zo koud
  Stil nu, stil nu,
  maak nu geen gerucht
 
-muziek: [Stil nu.m4a](</peterselie.nl/files/Stil nu.m4a> "Download: Stil nu.m4a (1.29 MB)")
+muziek: [Stil nu.m4a](</files/Stil nu.m4a> "Download: Stil nu.m4a (1.29 MB)")
 
 **Er is een kindeke geboren op aard**
  Er is een kindeke geboren op aard
@@ -57,7 +57,7 @@ Er is een kindeke geboren in 't strooi
  't Lag in een kribbe bedekt met wat hooi
  't Lag in een kribbe bedekt met wat hooi
 
-muziek: [Er is een kindeke.m4a](</peterselie.nl/files/Er is een kindeke.m4a> "Download: Er is een kindeke.m4a (2.09 MB)")
+muziek: [Er is een kindeke.m4a](</files/Er is een kindeke.m4a> "Download: Er is een kindeke.m4a (2.09 MB)")
 
 **Engelkens door 't luchtruim zwevend**
  Engelkens door 't luchtruim zwevend
@@ -67,7 +67,7 @@ muziek: [Er is een kindeke.m4a](</peterselie.nl/files/Er is een kindeke.m4a> "Do
  Glo-o-o-o-ria, in exelcis Deo
  Glo-o-o-o-ria, in exelcis Deo
 
-muziek: [Engelkens.m4a.zip](/peterselie.nl/files/Engelkens.m4a.zip "Download: Engelkens.m4a.zip (2.01 MB)")
+muziek: [Engelkens.m4a.zip](/files/Engelkens.m4a.zip "Download: Engelkens.m4a.zip (2.01 MB)")
 
 **De herdertjes lagen bij nachte**
  De herdertjes lagen bij nachte
@@ -79,7 +79,7 @@ muziek: [Engelkens.m4a.zip](/peterselie.nl/files/Engelkens.m4a.zip "Download: En
  De herders naar Bethlehem gingen
  En vonden het kindje daar
 
-muziek: [De herdertjes.m4a.zip](</peterselie.nl/files/De herdertjes.m4a.zip> "Download: De herdertjes.m4a.zip (2.2 MB)")
+muziek: [De herdertjes.m4a.zip](</files/De herdertjes.m4a.zip> "Download: De herdertjes.m4a.zip (2.2 MB)")
 
 **Nu sijt wellekome**
  Wijzen uit het Oosten
@@ -90,7 +90,7 @@ muziek: [De herdertjes.m4a.zip](</peterselie.nl/files/De herdertjes.m4a.zip> "Do
  Ter ere van het kindje dat alle ding behoudt
  Kyrieleis
 
-muziek: [Wijzen uit het Oosten.m4a.zip](</peterselie.nl/files/Wijzen uit het Oosten.m4a.zip> "Download: Wijzen uit het Oosten.m4a.zip (2.78 MB)")
+muziek: [Wijzen uit het Oosten.m4a.zip](</files/Wijzen uit het Oosten.m4a.zip> "Download: Wijzen uit het Oosten.m4a.zip (2.78 MB)")
 
 **Hoe leit dit kindeke**
  Hoe leit dit kindeke hier in de kou
@@ -100,7 +100,7 @@ muziek: [Wijzen uit het Oosten.m4a.zip](</peterselie.nl/files/Wijzen uit het Oos
  Ei, zwijgt toch stil, sus sus
  en krijt niet meer
 
-muziek: [Hoe leidt dit kindeke.m4a](</peterselie.nl/files/Hoe leidt dit kindeke.m4a> "Download: Hoe leidt dit kindeke.m4a (2.05 MB)")
+muziek: [Hoe leidt dit kindeke.m4a](</files/Hoe leidt dit kindeke.m4a> "Download: Hoe leidt dit kindeke.m4a (2.05 MB)")
 
 **Stille nacht**
  Stille nacht, heilige nacht
@@ -110,7 +110,7 @@ muziek: [Hoe leidt dit kindeke.m4a](</peterselie.nl/files/Hoe leidt dit kindeke.
  Hij der schepselen Heer
  Hij der schepselen Heer
 
-muziek: [Stille nacht.m4a.zip](</peterselie.nl/files/Stille nacht.m4a.zip> "Download: Stille nacht.m4a.zip (2.03 MB)")
+muziek: [Stille nacht.m4a.zip](</files/Stille nacht.m4a.zip> "Download: Stille nacht.m4a.zip (2.03 MB)")
 
 **O dennenboom**
  O, dennenboom, o dennenboom,
@@ -122,7 +122,7 @@ muziek: [Stille nacht.m4a.zip](</peterselie.nl/files/Stille nacht.m4a.zip> "Down
  O, dennenboom, o dennenboom,
  Wat zijn uw takken wonderschoon
 
-muziek: [O dennenboom.m4a](</peterselie.nl/files/O dennenboom.m4a> "Download: O dennenboom.m4a (1.26 MB)")
+muziek: [O dennenboom.m4a](</files/O dennenboom.m4a> "Download: O dennenboom.m4a (1.26 MB)")
 
 Alleen bij de peuterversie:
 
@@ -145,4 +145,4 @@ Dank je wel klein ezeltje
  Bedankt voor al je zorgzaamheid
  Dank je voor je trouw
 
-muziek: [peuterkerst Dank Je Wel Klein Ezeltje.mp3](</peterselie.nl/files/peuterkerst Dank Je Wel Klein Ezeltje.mp3> "Download: peuterkerst Dank Je Wel Klein Ezeltje.mp3 (4 MB)")
+muziek: [peuterkerst Dank Je Wel Klein Ezeltje.mp3](</files/peuterkerst Dank Je Wel Klein Ezeltje.mp3> "Download: peuterkerst Dank Je Wel Klein Ezeltje.mp3 (4 MB)")

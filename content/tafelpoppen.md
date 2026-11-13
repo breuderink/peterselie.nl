@@ -1,7 +1,7 @@
 ---
 {"permalink": "/tafelpoppen/", "layout": "base", "title": "Tafelpoppen  | Poppentheater Peterselie", "h2": "Tafelpoppen ", "mission": null}
 ---
-![tafelpop1.png](/peterselie.nl/files/tafelpop1.png "tafelpop1.png")
+![tafelpop1.png](/files/tafelpop1.png "tafelpop1.png")
 
 WORKSHOP TAFELPOPPEN
  Deze workshop (1,5 tot 2 uur) is geschikt voor allerlei groepen, zoals personeel in de kinderopvang, kindercoaches, studenten PABO en agogische opleidingen, studenten Zorg & Opvang, groepjes ouders die het thuis willen gaan proberen enz.
@@ -16,9 +16,9 @@ VAN PRENTENBOEK TOT TAFELVOORSTELLING
  Aan het eind van de dag kan een voorstelling worden gespeeld voor publiek (kinderopvang/peuterspeelzaal o.i.d.).
  Prijs: vanaf €275,- excl. BTW en reiskosten (incl. werkboek)
 
-![ROC2011EMMELOORD3.jpg](/peterselie.nl/files/ROC2011EMMELOORD3.jpg "ROC2011EMMELOORD3.jpg")
+![ROC2011EMMELOORD3.jpg](/files/ROC2011EMMELOORD3.jpg "ROC2011EMMELOORD3.jpg")
 
-![DSC02121.JPG](/peterselie.nl/files/DSC02121.JPG "DSC02121.JPG")
+![DSC02121.JPG](/files/DSC02121.JPG "DSC02121.JPG")
 
 EEN SPROOKJE VERTELLEN MET TAFELPOPPEN
  De tafelpoppen die we in de workshop gaan maken hebben als basis plastic flessen, bekers en bakjes en als kop een gedeeltelijk opgevulde sok. We werken met sprookjesfiguren en bekende sprookjes als leidraad.
@@ -29,12 +29,12 @@ EEN SPROOKJE VERTELLEN MET TAFELPOPPEN
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/NVxyUekpIIQ" frameborder="0" allowfullscreen></iframe><br />
 Roc Emmeloord 2010</p>
 
-![verteltafeluiltje_1.jpg](/peterselie.nl/files/verteltafeluiltje_1_0.jpg "verteltafeluiltje_1.jpg")
+![verteltafeluiltje_1.jpg](/files/verteltafeluiltje_1_0.jpg "verteltafeluiltje_1.jpg")
  Kartonnen verteltafelfiguren.
 
 KARTONNEN FIGUREN OP DE  VERTELTAFEL
  Zelf binnen een dagdeel een prentenboek op de verteltafel spelen? Dat kan! Met een groepje maakt u alle tafelpoppen en decortjes en krijgt u ook les in het uitspelen van het verhaal. Verder is er een stukje theorie over de verteltafel en de mogelijkheden van poppenspel bij het vertellen.
- Als voorbeeld [hier](/peterselie.nl/tafeltheater/) de patroontjes van de voorstelling "Mama kwijt" (zie foto hierboven).
+ Als voorbeeld [hier](/tafeltheater/) de patroontjes van de voorstelling "Mama kwijt" (zie foto hierboven).
  Prijs €175, excl BTW en reis, incl. werkboek.
 
-Kijk voor andere voorbeelden van tafelpoppen bij: [Kerstpoppen maken](/peterselie.nl/kerstpoppenmaken/) en bij [Tafelpop Muis](/peterselie.nl/tafelpopmuis/)
+Kijk voor andere voorbeelden van tafelpoppen bij: [Kerstpoppen maken](/kerstpoppenmaken/) en bij [Tafelpop Muis](/tafelpopmuis/)

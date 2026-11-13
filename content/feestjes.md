@@ -8,10 +8,10 @@ AANBIEDING!!!!!!
 
 Voor feestjes voor basisschoolkinderen zijn er de meespeel-/meedoe-voorstellingen, waarbij eerst een pop wordt gemaakt en aan het eind van het feestje ieder kind met zijn eigen pop meespeelt in een gedicht of verhaaltje.
 
-["Een dame en 10 poezen"](/peterselie.nl/poezen)
-![10poezen_internet.jpg](/peterselie.nl/files/10poezen_internet_0.jpg "10poezen_internet.jpg")
+["Een dame en 10 poezen"](/poezen)
+![10poezen_internet.jpg](/files/10poezen_internet_0.jpg "10poezen_internet.jpg")
 
 De prijs is €125,-, excl. reiskosten, inclusief materialen, voor een feestje van 10 kinderen. Als er meer kinderen komen, wordt de prijs  (in overleg) hoger en is er meer begeleiding nodig.
 
 Passende uitnodiging maken?
-["Poppenkast-uitnodiging"](/peterselie.nl/uitnodiging)
+["Poppenkast-uitnodiging"](/uitnodiging)

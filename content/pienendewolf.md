@@ -1,7 +1,7 @@
 ---
 {"permalink": "/pienendewolf/", "layout": "base", "title": "Pien en de Wolf | Poppentheater Peterselie", "h2": "Pien en de Wolf", "mission": null}
 ---
-![pienendewolfinternet.jpg](/peterselie.nl/files/pienendewolfinternet.jpg "pienendewolfinternet.jpg")
+![pienendewolfinternet.jpg](/files/pienendewolfinternet.jpg "pienendewolfinternet.jpg")
 
 Helaas, deze voorstelling wordt niet meer gespeeld!
 
@@ -17,26 +17,26 @@ De voorstelling is niet alleen maar leuk en mooi om naar te kijken, maar ook edu
 Thema's: durven, dieren, familie, feminisme
  Sluit aan bij de vakken: Nederlandse Taal, Orientatie op jezelf en de Wereld, Muziek, Drama.
 
-Kijk ook bij [kleurplaten](/peterselie.nl/kleurplaten/) of [download de lesbrief van deze voorstelling](/peterselie.nl/files/LesbriefbijPienendewolfencr.pdf)!
- Bij deze voorstelling wordt gebruik gemaakt van speciaal door [Nicolette Wever](http://www.nicwever.nl/) gemaakte [illustraties](/peterselie.nl/pienendewolfkunst/).
+Kijk ook bij [kleurplaten](/kleurplaten/) of [download de lesbrief van deze voorstelling](/files/LesbriefbijPienendewolfencr.pdf)!
+ Bij deze voorstelling wordt gebruik gemaakt van speciaal door [Nicolette Wever](http://www.nicwever.nl/) gemaakte [illustraties](/pienendewolfkunst/).
 
 speladviezen: Willemijn Gadiot
  ontwerp affiche: Boris Reuderink
- Klik [hier](/peterselie.nl/affichepien/) voor een affiche.
+ Klik [hier](/affichepien/) voor een affiche.
 
-![pien en de wolf 013.jpg](</peterselie.nl/files/pien en de wolf 013.jpg> "pien en de wolf 013.jpg")
+![pien en de wolf 013.jpg](</files/pien en de wolf 013.jpg> "pien en de wolf 013.jpg")
  foto: Willemijn Gadiot
 
-![Pienopa2.jpg](/peterselie.nl/files/Pienopa2.jpg "Pienopa2.jpg")
+![Pienopa2.jpg](/files/Pienopa2.jpg "Pienopa2.jpg")
 
-![eend+poesPien.jpg](/peterselie.nl/files/eend+poesPien.jpg "eend+poesPien.jpg")
+![eend+poesPien.jpg](/files/eend+poesPien.jpg "eend+poesPien.jpg")
 
-![DSC01753.jpg](/peterselie.nl/files/DSC01753.jpg "DSC01753.jpg")
+![DSC01753.jpg](/files/DSC01753.jpg "DSC01753.jpg")
 
-![kleinepiem.jpg](/peterselie.nl/files/kleinepiem.jpg "kleinepiem.jpg")
+![kleinepiem.jpg](/files/kleinepiem.jpg "kleinepiem.jpg")
  De miniatuur-versie van Pien en de wolf, die werd gebruikt om de voorstelling in te spelen. Deze is inmiddels verkocht.
 
-![pien en de wolf 003.jpg](</peterselie.nl/files/pien en de wolf 003.jpg> "pien en de wolf 003.jpg")
+![pien en de wolf 003.jpg](</files/pien en de wolf 003.jpg> "pien en de wolf 003.jpg")
  Voorstelling in het instrumentenmuseum Vosbergen in Eelde (foto: Willemijn Gadiot).
 
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/n6o6Ah_istA" frameborder="0" allowfullscreen></iframe></p>

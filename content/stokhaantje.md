@@ -1,10 +1,10 @@
 ---
 {"permalink": "/stokhaantje/", "layout": "base", "title": "Haan-stokpop of Paas-plantensteker | Poppentheater Peterselie", "h2": "Haan-stokpop of Paas-plantensteker", "mission": null}
 ---
-![190320141242.jpg](/peterselie.nl/files/190320141242_0.jpg "190320141242.jpg")
+![190320141242.jpg](/files/190320141242_0.jpg "190320141242.jpg")
 
 Klik op het patroon voor een vergroting.
-[![PatroonStokhaantje-web.jpg](/peterselie.nl/files/PatroonStokhaantje-web.jpg "PatroonStokhaantje-web.jpg")](/peterselie.nl/files/PatroonStokhaantje.jpg)
+[![PatroonStokhaantje-web.jpg](/files/PatroonStokhaantje-web.jpg "PatroonStokhaantje-web.jpg")](/files/PatroonStokhaantje.jpg)
 
 Nodig: geel (of een andere kippenkleur) karton
  restjes rood, wit, zwart karton

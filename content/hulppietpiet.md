@@ -1,18 +1,18 @@
 ---
 {"permalink": "/hulppietpiet/", "layout": "base", "title": "Hulppiet Piet (archief) | Poppentheater Peterselie", "h2": "Hulppiet Piet (archief)", "mission": null}
 ---
-![sinterklaasinternet.jpg](/peterselie.nl/files/sinterklaasinternet.jpg "sinterklaasinternet.jpg")
+![sinterklaasinternet.jpg](/files/sinterklaasinternet.jpg "sinterklaasinternet.jpg")
 
 Deze voorstelling wordt niet meer gespeeld.
 
 Piet Peterselie gaat Zwarte Piet helpen met het uitdelen van de cadeautjes en mag van Zwarte Piet stiekem mee naar het Wolkenpaleis van de Sint.
 
-![sinterklaas1.jpg](/peterselie.nl/files/sinterklaas1.jpg "sinterklaas1.jpg")
+![sinterklaas1.jpg](/files/sinterklaas1.jpg "sinterklaas1.jpg")
 
-![sinterklaas2.jpg](/peterselie.nl/files/sinterklaas2.jpg "sinterklaas2.jpg")
+![sinterklaas2.jpg](/files/sinterklaas2.jpg "sinterklaas2.jpg")
 
-![sinterklaas3.jpg](/peterselie.nl/files/sinterklaas3.jpg "sinterklaas3.jpg")
+![sinterklaas3.jpg](/files/sinterklaas3.jpg "sinterklaas3.jpg")
 
-Zie ook de 'Hartige boterham Zwarte Piet' op de [kinderpagina](/peterselie.nl/kinderknutsel/).
+Zie ook de 'Hartige boterham Zwarte Piet' op de [kinderpagina](/kinderknutsel/).
 
-Zie voor de Sinterklaaslegende: [Sinterklaaslegende](/peterselie.nl/sinterklaaslegende/)
+Zie voor de Sinterklaaslegende: [Sinterklaaslegende](/sinterklaaslegende/)

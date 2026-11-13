@@ -15,5 +15,5 @@ Voorwaarden voor korting zijn:
 De voorstelling wordt in dit geval zonder theaterlicht gespeeld.
  Mocht achteraf blijken dat niet aan de voorwaarden is voldaan, dan zijn wij helaas genoodzaakt de volle prijs te rekenen.
  En we zijn streng, dat zie je wel:
-![poppenschoolreisje:poppentheater-peterselie.jpg](/peterselie.nl/files/poppenschoolreisje:poppentheater-peterselie.jpg "poppenschoolreisje:poppentheater-peterselie.jpg")
+![poppenschoolreisje:poppentheater-peterselie.jpg](/files/poppenschoolreisje:poppentheater-peterselie.jpg "poppenschoolreisje:poppentheater-peterselie.jpg")
  Foto gemaakt door Trudy Kuijper tijdens "schoolreisje" Nederlandse Vereniging voor het Poppenspel sept. 2007

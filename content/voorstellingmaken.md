@@ -1,7 +1,7 @@
 ---
 {"permalink": "/voorstellingmaken/", "layout": "base", "title": "Een voorstelling in 1 dag! | Poppentheater Peterselie", "h2": "Een voorstelling in 1 dag!", "mission": null}
 ---
-![Sneeuwkoningin2.jpg](/peterselie.nl/files/Sneeuwkoningin2.jpg "Sneeuwkoningin2.jpg")
+![Sneeuwkoningin2.jpg](/files/Sneeuwkoningin2.jpg "Sneeuwkoningin2.jpg")
 
 Binnen 2 dagdelen maakt een groepje mensen een voorstelling, die ook daadwerkelijk opgevoerd gaat worden.
  Alle poppen, attributen en decors worden zelf gemaakt, onder begeleiding van Peterselie.
@@ -9,7 +9,7 @@ Binnen 2 dagdelen maakt een groepje mensen een voorstelling, die ook daadwerkeli
  Het publiek kan bestaan uit kinderen, maar het kan ook familie zijn. Het verhaal moet natuurlijk gekozen worden met het publiek voor ogen. Er kan een eigen verhaal ingebracht worden, maar er kan ook gekozen worden uit de voorraad verhalen die Peterselie speciaal voor deze workshops heeft bewerkt.
 
 Een van de reacties n.a.v. een workshop:
-[![mailtjeklein.png](/peterselie.nl/files/mailtjeklein.png "mailtjeklein.png")](/peterselie.nl/files/mailtje.png)
+[![mailtjeklein.png](/files/mailtjeklein.png "mailtjeklein.png")](/files/mailtje.png)
  Klein op dit kleine plaatje om het bericht te kunnen lezen.
 
 Maximum aantal: 10 mensen
@@ -17,6 +17,6 @@ Maximum aantal: 10 mensen
  De locatie wordt door de client verzorgd.
  Poppentheater Peterselie kan aanwezig zijn bij de uitvoering, als dit binnen de 2 dagdelen valt.
 
-![sneeuwkoningin1.jpg](/peterselie.nl/files/sneeuwkoningin1.jpg "sneeuwkoningin1.jpg")
+![sneeuwkoningin1.jpg](/files/sneeuwkoningin1.jpg "sneeuwkoningin1.jpg")
 
 <p><iframe width="320" height="315" src="https://www.youtube.com/embed/7C7iHgrV_I0" frameborder="0" allowfullscreen></iframe></p>

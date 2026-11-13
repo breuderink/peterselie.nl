@@ -1,7 +1,7 @@
 ---
 {"permalink": "/piggelmee/", "layout": "base", "title": "Piggelmee | Poppentheater Peterselie", "h2": "Piggelmee", "mission": null}
 ---
-![28c89580-6335-012c-b80c-0050569439b1.jpg](/peterselie.nl/files/28c89580-6335-012c-b80c-0050569439b1.jpg "28c89580-6335-012c-b80c-0050569439b1.jpg")
+![28c89580-6335-012c-b80c-0050569439b1.jpg](/files/28c89580-6335-012c-b80c-0050569439b1.jpg "28c89580-6335-012c-b80c-0050569439b1.jpg")
 
 De Tovervis-bewerking 'Van de Visser en zijn Hebberige Vrouw" was voor mij een logische stap, want ik heb Piggelmee mijn leven lang "bij me gedragen".
  Toen ik ongeveer 2 was, las mijn Opa het iedere dag wel een keer aan mij voor bij gebrek aan andere beschikbare boeken. Ik kon dan ook hele stukken onbegrijpelijke tekst ("...nooddruft had hun dat geleerd...") uit mijn hoofd opzeggen als peuter.
@@ -75,4 +75,4 @@ Middenop lag er een briefje,
  Maak wat voort en volg me gauw."
 
 En nu dus de vertelvoorstelling
-["Van de Visser en zijn Hebberige vrouw"](/peterselie.nl/hebberigevrouw/).
+["Van de Visser en zijn Hebberige vrouw"](/hebberigevrouw/).

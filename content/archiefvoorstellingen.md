@@ -7,26 +7,26 @@
 
 Volwassenen:
 
-[De Schone Slaapster](/peterselie.nl/schoneslaapster/)[<br>![De Schone Slaapster](</peterselie.nl/files/koning en koningin + heks werkcopy copy-web.jpeg>)](/peterselie.nl/schoneslaapster/)
+[De Schone Slaapster](/schoneslaapster/)[<br>![De Schone Slaapster](</files/koning en koningin + heks werkcopy copy-web.jpeg>)](/schoneslaapster/)
 
 Kinderen/familie:
 
 <p></p>
 
-[Van de Visser en zijn Hebberige Vrouw](/peterselie.nl/hebberigevrouw/)[<br>![De](/peterselie.nl/files/visser-web2.jpg)](/peterselie.nl/hebberigevrouw/)
+[Van de Visser en zijn Hebberige Vrouw](/hebberigevrouw/)[<br>![De](/files/visser-web2.jpg)](/hebberigevrouw/)
 
-[Ridders en zo](/peterselie.nl/ridder/)[<br>![De](/peterselie.nl/files/ridder.jpg)](/peterselie.nl/ridder/)
+[Ridders en zo](/ridder/)[<br>![De](/files/ridder.jpg)](/ridder/)
 
-[Gefelici-tovertaart!](/peterselie.nl/tovertaart/)[<br>![Gefelici-tovertaart!](/peterselie.nl/files/gefelicitovertaart_jpg_web_1.jpg)](/peterselie.nl/tovertaart/)
+[Gefelici-tovertaart!](/tovertaart/)[<br>![Gefelici-tovertaart!](/files/gefelicitovertaart_jpg_web_1.jpg)](/tovertaart/)
 
-[Help! De leeuw is los!](/peterselie.nl/helpdeleeuwislos/)[<br>![Help de leeuw is los](/peterselie.nl/files/leeuwlosinternet.jpg)](/peterselie.nl/helpdeleeuwislos/)
+[Help! De leeuw is los!](/helpdeleeuwislos/)[<br>![Help de leeuw is los](/files/leeuwlosinternet.jpg)](/helpdeleeuwislos/)
 
-[Klalana, de draak en de rivier](/peterselie.nl/klalana/)[<br>![Klalana, de draak en de rivier](/peterselie.nl/files/klalana1.jpg)](/peterselie.nl/klalana/)
+[Klalana, de draak en de rivier](/klalana/)[<br>![Klalana, de draak en de rivier](/files/klalana1.jpg)](/klalana/)
 
-[Hulppiet Piet](/peterselie.nl/hulppietpiet/)[<br>![Hulppiet Piet](/peterselie.nl/files/sinterklaasinternet.jpg)](/peterselie.nl/hulppietpiet/)
+[Hulppiet Piet](/hulppietpiet/)[<br>![Hulppiet Piet](/files/sinterklaasinternet.jpg)](/hulppietpiet/)
 
-[Heks of prinses?](/peterselie.nl/heksofprinses/)[<br>![Archief](/peterselie.nl/files/heksofprinces1.jpg)](/peterselie.nl/heksofprinses/)
+[Heks of prinses?](/heksofprinses/)[<br>![Archief](/files/heksofprinces1.jpg)](/heksofprinses/)
 
-[Pien en de Wolf](/peterselie.nl/pienendewolf/)[<br>![Pien en de wolf](/peterselie.nl/files/pienendewolfinternet.jpg)](/peterselie.nl/pienendewolf/)
+[Pien en de Wolf](/pienendewolf/)[<br>![Pien en de wolf](/files/pienendewolfinternet.jpg)](/pienendewolf/)
 
-Van een aantal archiefvoorstellingen zijn [kleurplaten](/peterselie.nl/kleurplaten) te downloaden.
+Van een aantal archiefvoorstellingen zijn [kleurplaten](/kleurplaten) te downloaden.

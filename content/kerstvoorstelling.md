@@ -1,7 +1,7 @@
 ---
 {"permalink": "/kerstvoorstelling/", "layout": "base", "title": "Van de ster en de stal | Poppentheater Peterselie", "h2": "Van de ster en de stal", "mission": null}
 ---
-![kerstinternet_oud.jpg](/peterselie.nl/files/kerstinternet_oud.jpg "kerstinternet_oud.jpg")
+![kerstinternet_oud.jpg](/files/kerstinternet_oud.jpg "kerstinternet_oud.jpg")
 
 Met als leidraad bekende kerstliedjes wordt in eenvoudige taal het kerstverhaal verteld, geillustreerd door grote, staande poppen.
 
@@ -12,8 +12,8 @@ Deze Kerstvoorstelling is al gespeeld op zeer diverse plaatsen: in kerken, bij k
  \- De Herders
  \- De Wijzen uit het Oosten
 
-[Klik hier voor de liedjes](/peterselie.nl/kerstliedjes/) die gezongen worden.
- De muziek van het dansje dat Maria en Jozef in de voorstelling doen is gecomponeerd door broer [Ton Peters](/peterselie.nl/soms/).
+[Klik hier voor de liedjes](/kerstliedjes/) die gezongen worden.
+ De muziek van het dansje dat Maria en Jozef in de voorstelling doen is gecomponeerd door broer [Ton Peters](/soms/).
 
 duur: 30 minuten
  opbouwen: 2 uur
@@ -26,17 +26,17 @@ duur: 30 minuten
  indertijd speciaal gemaakt voor mensen met een verstandelijk beperking, maar ook geschikt (aangepast, met aangepaste liedjes) voor peuters of als familievoorstelling.
  prijs: €425,- excl BTW (in de 3 noordelijke provincies is de prijs €375,- ex BTW)
  reiskosten: €0.40/km
- Klik [hier](/peterselie.nl/affichekerst/) voor een affiche.
+ Klik [hier](/affichekerst/) voor een affiche.
 
-![kerstverhaal2.jpg](/peterselie.nl/files/kerstverhaal2.jpg "kerstverhaal2.jpg")
+![kerstverhaal2.jpg](/files/kerstverhaal2.jpg "kerstverhaal2.jpg")
 
-![kerstverhaal3.jpg](/peterselie.nl/files/kerstverhaal3.jpg "kerstverhaal3.jpg")
+![kerstverhaal3.jpg](/files/kerstverhaal3.jpg "kerstverhaal3.jpg")
 
-![kerstverhaal4.jpg](/peterselie.nl/files/kerstverhaal4.jpg "kerstverhaal4.jpg")
+![kerstverhaal4.jpg](/files/kerstverhaal4.jpg "kerstverhaal4.jpg")
 
-![poppentheater4.jpg](/peterselie.nl/files/poppentheater4.jpg "poppentheater4.jpg")
+![poppentheater4.jpg](/files/poppentheater4.jpg "poppentheater4.jpg")
 
-[Zelf dit soort poppen maken](/peterselie.nl/kerstpoppenmaken/)
+[Zelf dit soort poppen maken](/kerstpoppenmaken/)
 
 Registratie van "De Ster en de Stal" in de kerk van Grolloo, op 25 dec. 2018.
  Niet geheel vlekkeloos, en verkouden stem, maar och...

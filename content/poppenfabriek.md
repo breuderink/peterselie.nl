@@ -1,7 +1,7 @@
 ---
 {"permalink": "/poppenfabriek/", "layout": "base", "title": "De Poppenfabriek | Poppentheater Peterselie", "h2": "De Poppenfabriek", "mission": null}
 ---
-![Poppenfabriek_web.jpg](/peterselie.nl/files/Poppenfabriek_web.jpg "Poppenfabriek_web.jpg")
+![Poppenfabriek_web.jpg](/files/Poppenfabriek_web.jpg "Poppenfabriek_web.jpg")
 
 Deze poppenmaak-activiteit is geschikt voor 15 kinderen(of volwassenen) tegelijk (niet perse tegelijk startend) en uitermate geschikt voor op een beurs, promotieactiviteit, festival, grote partij, receptie, schoolfeest etc. Ook te koppelen aan een thema als Kerst, Pasen, Kabouters, Heksen, etc.
  Door langs tafels te lopen kunnen deelnemers hun eigen pop maken en versieren (en die mag natuurlijk mee naar huis!).
@@ -12,4 +12,4 @@ Deze poppenmaak-activiteit is geschikt voor 15 kinderen(of volwassenen) tegelijk
 
 Vraag naar een digitaal affiche!
 
-![workshop.jpg](/peterselie.nl/files/workshop.jpg "workshop.jpg")
+![workshop.jpg](/files/workshop.jpg "workshop.jpg")

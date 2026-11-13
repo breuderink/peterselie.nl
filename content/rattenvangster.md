@@ -1,10 +1,10 @@
 ---
 {"permalink": "/rattenvangster/", "layout": "base", "title": "De rattenvangster  | Poppentheater Peterselie", "h2": "De rattenvangster ", "mission": null}
 ---
-![Ratten-web.jpg](/peterselie.nl/files/Ratten-web.jpg "Ratten-web.jpg")
- Klik [hier](/peterselie.nl/afficheratten/) voor een affiche.
+![Ratten-web.jpg](/files/Ratten-web.jpg "Ratten-web.jpg")
+ Klik [hier](/afficheratten/) voor een affiche.
 
-Eerst vertelt rasverhalenvertelster Marjanne Peters van Poppentheater Peterselie haar versie van De Rattenvanger van Hamelen en wordt het [Rattenvangsterslied](/peterselie.nl/files/Rattenvanger.mp3)  aangeleerd, gezongen bij de trekharmonica.
+Eerst vertelt rasverhalenvertelster Marjanne Peters van Poppentheater Peterselie haar versie van De Rattenvanger van Hamelen en wordt het [Rattenvangsterslied](/files/Rattenvanger.mp3)  aangeleerd, gezongen bij de trekharmonica.
  Dan wordt een rattenpop gemaakt, die iedereen naar hartelust kan versieren zodat het echt een "eigen" ratje wordt.
  Niet het resultaat is het belangrijkste, maar de mate waarin het kind zijn creativiteit in de pop  kwijt kan.
  Als afsluiting wordt het verhaal van de Rattenvangster met alle ratjes uitgespeeld in een lappendecor, met door Peterselie meegenomen poppen/maskers voor de extra rollen.
@@ -27,15 +27,15 @@ Steekwoorden: #duurzaamheid, #zwerfafval, #geschiedenis, #sprookje, #natuur, #ra
 Ook te boeken als "vertelvoorstelling" (dus zonder het knutselgedeelte, maar met de maskers en attributen).
  Uitkoop is dan € 275,- excl.
 
-![DSC03233.JPG](/peterselie.nl/files/DSC03233.JPG "DSC03233.JPG")
+![DSC03233.JPG](/files/DSC03233.JPG "DSC03233.JPG")
  Ratten en kinderen bij de meespeelvoorstelling de Rattenvangster. De zakmaskers zijn door de kinderen gemaakt.
 
-![B478787D-43C8-477D-973D-E9C5B6E69B4C.jpeg](/peterselie.nl/files/B478787D-43C8-477D-973D-E9C5B6E69B4C.jpeg "B478787D-43C8-477D-973D-E9C5B6E69B4C.jpeg")
+![B478787D-43C8-477D-973D-E9C5B6E69B4C.jpeg](/files/B478787D-43C8-477D-973D-E9C5B6E69B4C.jpeg "B478787D-43C8-477D-973D-E9C5B6E69B4C.jpeg")
 
-![DSC03183.JPG](/peterselie.nl/files/DSC03183.JPG "DSC03183.JPG")
+![DSC03183.JPG](/files/DSC03183.JPG "DSC03183.JPG")
  Ministers bij de voorstelling de Rattenvangster
 
-![Rattenv.jpg](/peterselie.nl/files/Rattenv.jpg "Rattenv.jpg")
+![Rattenv.jpg](/files/Rattenv.jpg "Rattenv.jpg")
  Dagcentrum de Slinger, Steenwijk (2016)
 
 Een stukje uit de evaluaties van de Rattenvangster-serie, waar alle scholen uit Hoogezand-Sappemeer aan meededen:
@@ -50,4 +50,4 @@ Filmpje over de allereerste keer dat de (toen nog) Rattenvanger werd gespeeld.</
 <p>Stukje voorstelling:<br />
 <iframe width="320" height="315" src="https://www.youtube.com/embed/Ak4bnCTm_RY" frameborder="0" allowfullscreen></iframe></p>
 
-Klik hier voor een [Lesbrief bij de meedoe-voorstelling De Rattenvangster](/peterselie.nl/lesbriefrattenvangster/).
+Klik hier voor een [Lesbrief bij de meedoe-voorstelling De Rattenvangster](/lesbriefrattenvangster/).

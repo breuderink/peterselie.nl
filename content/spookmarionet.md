@@ -11,4 +11,4 @@ Neem een zachte bal of maak een bal van de teen van een sok, gevuld met vulling.
 
 Je kunt ook een echt hoofd maken, door het nekje af te binden.
 
-![spook met hoofd.jpg](</peterselie.nl/files/spook met hoofd.jpg> "spook met hoofd.jpg")
+![spook met hoofd.jpg](</files/spook met hoofd.jpg> "spook met hoofd.jpg")

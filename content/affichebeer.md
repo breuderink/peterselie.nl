@@ -1,5 +1,5 @@
 ---
 {"permalink": "/affichebeer/", "layout": "base", "title": "affiche beer | Poppentheater Peterselie", "h2": "affiche beer", "mission": null}
 ---
-![Berenaffiche.jpg](/peterselie.nl/files/Berenaffiche.jpg "Berenaffiche.jpg")
- Klik hier: [BerenaffichePH.jpg](/peterselie.nl/files/BerenaffichePH.jpg "Download: BerenaffichePH.jpg (607.24 KB)")
+![Berenaffiche.jpg](/files/Berenaffiche.jpg "Berenaffiche.jpg")
+ Klik hier: [BerenaffichePH.jpg](/files/BerenaffichePH.jpg "Download: BerenaffichePH.jpg (607.24 KB)")

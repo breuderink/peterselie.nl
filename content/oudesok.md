@@ -1,11 +1,11 @@
 ---
 {"permalink": "/oudesok/", "layout": "base", "title": "Pop van oude sok | Poppentheater Peterselie", "h2": "Pop van oude sok", "mission": null}
 ---
-![sokpop7.jpeg](/peterselie.nl/files/sokpop7.jpeg "sokpop7.jpeg")
+![sokpop7.jpeg](/files/sokpop7.jpeg "sokpop7.jpeg")
 
 Deze pop is gemaakt van een oude herensok.
 
-![Screenshot.png](/peterselie.nl/files/Screenshot.png "Screenshot.png")
+![Screenshot.png](/files/Screenshot.png "Screenshot.png")
  1\. Knip het boord van de sok.
  2\. Speld de hiel plat tegen de achterkant van de sok aan en naai aan elkaar.
  3\. Knip de sok doormidden tot op ongeveer de helft.
