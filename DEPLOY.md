@@ -14,9 +14,10 @@ Actions", switch it back.)
   (active state and sub-menu expansion derived from the URL).
 - `files/resources/*` (stylesheet, banner, favicon) → copied into the
   output; referenced with `relative_url`, so they carry the baseurl.
-- `files/*` (LFS media) → **excluded from the build** via
-  `.jekyll-ignore`: copying ~332 MB of media would time out GitHub's
-  build. Pages serves those files from the repo checkout instead.
+- `files/*` (media, plain git blobs — no LFS) → **excluded from the
+  build** via `.jekyll-ignore`: copying ~334 MB would time out
+  GitHub's build. Pages serves those files from the repo checkout
+  instead.
 - `jekyll-redirect-from` (an allowed GitHub Pages plugin, enabled in
   `_config.yml`) → legacy Drupal URL mapping. The old site's alias
   paths are exactly the new slugs (verified 2026-11-13), so nothing is
@@ -57,10 +58,9 @@ Expect `301` + `Location: .../visie/`.
 
 1. Open the project URL — chrome, banner, menu (with sub-menu), one
    page.
-2. Open one `/files/...` image and check it is a real image, **not an
-   LFS pointer** (a few lines of text starting `version https://...`).
-   If it is a pointer, the Pages checkout did not smudge LFS — media
-   will need a different route (owner call).
+2. Open one `/files/...` image and check it renders (media are plain
+   git blobs, no LFS — if a few lines of `version https://...` text
+   show instead, something smudge-processed the checkout).
 3. Smoke a page + the 404 page.
 4. CNAME + DNS switchover, then the 301 probe above.
 

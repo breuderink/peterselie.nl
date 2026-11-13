@@ -17,9 +17,10 @@ The editing guide with this site's markdown rules is in
 
 ## Media
 
-All media (images, audio, video) lives in `files/`, stored via Git LFS
-— run `git lfs install` once per machine. Put new files in `files/` and
-link them from a page as `/files/name.ext`.
+All media (images, audio, video) lives in `files/` as plain git blobs
+(no LFS — GitHub Pages serves the checkout, and it does not smudge
+LFS). Put new files in `files/` and link them from a page as
+`/peterselie.nl/files/name.ext`.
 
 ## Building locally
 
