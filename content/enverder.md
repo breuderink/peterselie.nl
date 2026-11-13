@@ -1,5 +1,5 @@
 ---
-{"permalink": "/enverder/", "layout": "base.html", "title": "En verder... | Poppentheater Peterselie", "h2": "En verder...", "mission": null}
+{"permalink": "/enverder/", "layout": "base", "title": "En verder... | Poppentheater Peterselie", "h2": "En verder...", "mission": null}
 ---
 ![vingerpoes.jpg](/files/vingerpoes.jpg "vingerpoes.jpg")
 
@@ -16,7 +16,8 @@
 <li>Poppen maken met Peterselie
 <ul>
 <li><a href="/zelfpoppenmaken">Zelf poppen maken en bespelen</a></li>
-<p> Poppen en werkboeken</ul>
+<p> Poppen en werkboeken</p>
+</ul>
 <li>Kinderpagina
 <ul>
 <li><a href="/kinderknutsel">poppen en knutsels</a></li>

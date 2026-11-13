@@ -1,5 +1,5 @@
 ---
-{"permalink": "/sinterklaaslegende/", "layout": "base.html", "title": "Sinterklaas | Poppentheater Peterselie", "h2": "Sinterklaas", "mission": null}
+{"permalink": "/sinterklaaslegende/", "layout": "base", "title": "Sinterklaas | Poppentheater Peterselie", "h2": "Sinterklaas", "mission": null}
 ---
 "De beuze slager" is wel de meest geschikte Sinterklaaslegende om echt in de Sint-stemming te komen.
 ![200px-Sinter-claes-saint-nicolas-dam800.jpg](/files/200px-Sinter-claes-saint-nicolas-dam800_0.jpg "200px-Sinter-claes-saint-nicolas-dam800.jpg")
@@ -85,4 +85,4 @@ Drie kind'ren gingen, hand in hand&#x2028;
 
 Franse ballade uit de 17de eeuw, bewerkt door H. de Vos
 
-<object width="320" height="240"><param name="movie" value="http://www.youtube.com/v/QhGWd_ze9dM&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/QhGWd_ze9dM&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="320" height="240"></embed></object>
+<object width="320" height="240"><param name="movie" value="http://www.youtube.com/v/QhGWd_ze9dM&rel=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/QhGWd_ze9dM&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="320" height="240"></object>

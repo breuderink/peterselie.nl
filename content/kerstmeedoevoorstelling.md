@@ -1,5 +1,5 @@
 ---
-{"permalink": "/kerstmeedoevoorstelling/", "layout": "base.html", "title": "meedoe-voorstelling Het Kerstverhaal | Poppentheater Peterselie", "h2": "meedoe-voorstelling Het Kerstverhaal", "mission": null}
+{"permalink": "/kerstmeedoevoorstelling/", "layout": "base", "title": "meedoe-voorstelling Het Kerstverhaal | Poppentheater Peterselie", "h2": "meedoe-voorstelling Het Kerstverhaal", "mission": null}
 ---
 ![DSC_0014 _web.jpg](</files/DSC_0014 _web.jpg> "DSC_0014 _web.jpg")
  Het kerstverhaal, St. Opmaat, Bedum (foto: Klaas de Haan)
@@ -11,8 +11,8 @@ Voorafgaande aan de uitvoering worden  engelen, herders en schapen gemaakt. Bij 
 
 Prijs: vanaf €750,- voor een totaal traject.
 
-<p><iframe width="320" height="315" src="https://www.youtube.com/embed/dSiStzp1WZk"<br />
-frameborder="0" allowfullscreen></iframe><br />
+<p>
+<iframe width="320" height="315" src="https://www.youtube.com/embed/dSiStzp1WZk" frameborder="0" allowfullscreen></iframe><br />
 Filmpje met fragmenten van een meedoe-kerstvoorstelling van Poppentheater Peterselie.</p>
 
 ![Kerst2019-web_edited-2.jpg](/files/Kerst2019-web_edited-2.jpg "Kerst2019-web_edited-2.jpg")

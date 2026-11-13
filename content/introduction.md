@@ -1,5 +1,5 @@
 ---
-{"permalink": "/introduction/", "layout": "base.html", "title": "Introduction | Poppentheater Peterselie", "h2": "Introduction", "mission": null}
+{"permalink": "/introduction/", "layout": "base", "title": "Introduction | Poppentheater Peterselie", "h2": "Introduction", "mission": null}
 ---
 ![CRW_5977.jpg](/files/CRW_5977.jpg "CRW_5977.jpg")
  Foto: Saskia de Jong
@@ -9,7 +9,7 @@ Marjanne Peters will be glad to show what her "Peterselie"  ("Parsley") Travelli
 
 **[Performances](/performances)**
 
-<p></strong><br />
+<p><br />
 <strong><a href="/courses">Courses / Workshops</a></strong></p>
 
 English translation: Rien van Nek

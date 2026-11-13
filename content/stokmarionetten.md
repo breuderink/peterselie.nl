@@ -1,5 +1,5 @@
 ---
-{"permalink": "/stokmarionetten/", "layout": "base.html", "title": "Stokmarionetten (tafelpoppen) | Poppentheater Peterselie", "h2": "Stokmarionetten (tafelpoppen)", "mission": null}
+{"permalink": "/stokmarionetten/", "layout": "base", "title": "Stokmarionetten (tafelpoppen) | Poppentheater Peterselie", "h2": "Stokmarionetten (tafelpoppen)", "mission": null}
 ---
 ![stokmarionet3-web.jpg](/files/stokmarionet3-web.jpg "stokmarionet3-web.jpg")
 
@@ -19,4 +19,4 @@ Maak een gezicht, haren en versier verder.
 
 ![stokmarionet2b-web.jpg](/files/stokmarionet2b-web.jpg "stokmarionet2b-web.jpg")
 
-<object width="320" height="240"><param name="movie" value="http://www.youtube.com/v/nK7qelLRjLI8&rel=1"></param><param name="wmode" value="transparant"></param><embed src="http://www.youtube.com/v/K7qelLRjLI8&rel=1" type="application/x-shockwave-flash" wmode="transparant" width="320" height="240"></embed></object>
+<object width="320" height="240"><param name="movie" value="http://www.youtube.com/v/nK7qelLRjLI8&rel=1"><param name="wmode" value="transparant"><embed src="http://www.youtube.com/v/K7qelLRjLI8&rel=1" type="application/x-shockwave-flash" wmode="transparant" width="320" height="240"></object>
