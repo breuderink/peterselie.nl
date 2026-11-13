@@ -1,0 +1,7 @@
+# LFS media: keep it out of the Jekyll build — copying ~332 MB of media
+# into the output would time out GitHub's build. GitHub Pages serves these
+# files from the repo checkout instead of the build output.
+# files/resources/ (stylesheet, banner, favicon) stays in the build:
+# it is small, plain-blob, and the local build needs it in the output.
+files/*
+!files/resources/

@@ -1,0 +1,49 @@
+# GitHub Pages project pages: the site lives at
+# https://breuderink.github.io/peterselie.nl/ — and on peterselie.nl once
+# the CNAME is active. relative_url prefixes menu and asset URLs with
+# baseurl so they resolve on the project URL too (body links in the
+# markdown stay root-relative, so the project URL is a chrome preview,
+# not a full one — see DEPLOY.md).
+url: "https://breuderink.github.io"
+baseurl: "/peterselie.nl"
+repository: "breuderink/peterselie.nl"
+
+# The ported content was authored for markdown-it (GFM, breaks: true):
+# one newline in the file = one line on the page. Kramdown equivalents:
+# input GFM, hard_wrap (single newline renders as <br>).
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+# Allowed on GitHub Pages (no custom build step). Enables legacy Drupal
+# URL mapping: add `redirect_from: ["/node/12", "/old-alias"]` to a page's
+# front matter when an old node id or alias needs to reach it. The old
+# alias set equals the new slugs 1:1, so nothing is mapped yet (2026-11-13
+# probe, archive/live-2026-10-14b vs content permalinks).
+plugins:
+  - jekyll-redirect-from
+
+# Dev-only and repo-doc files that must not reach the site output.
+# LFS media exclusion lives in .jekyll-ignore (GitHub Pages honours it).
+exclude:
+  - archive/
+  - build/
+  - tools/
+  - .pi/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
+  - .jekyll-ignore
+  - .gitattributes
+  - .gitignore
+  - DEPLOY.md
+  - EDITING.md
+  - README.md
+  - STATE.md
+  - LOG.md
+  - LOG-*.md
+  - KNOWLEDGE.md
+  - TASKS.md
+  - PLAN.md
+  - TIMELINE.md
