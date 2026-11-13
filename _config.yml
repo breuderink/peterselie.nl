@@ -1,10 +1,10 @@
-# GitHub Pages project pages: the site lives at
-# https://breuderink.github.io/peterselie.nl/ — and on peterselie.nl once
-# the CNAME is active. relative_url prefixes menu and asset URLs with
-# baseurl; body links in the markdown are root-absolute WITH the baseurl
-# so every link resolves on the project URL (see DEPLOY.md).
-url: "https://breuderink.github.io"
-baseurl: "/peterselie.nl"
+# GitHub Pages user site (repo breuderink.github.io): the site serves at
+# the domain root on peterselie.nl once the CNAME is active — the legacy
+# Drupal URLs (/slug/, /files/...) must resolve there, so there is no
+# baseurl. All links are root-absolute (menu/assets via relative_url,
+# body links as authored, see DEPLOY.md).
+url: "https://peterselie.nl"
+baseurl: ""
 repository: "breuderink/peterselie.nl"
 
 # The ported content was authored for markdown-it (GFM, breaks: true):

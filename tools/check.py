@@ -3,9 +3,9 @@
 
 Checks the Jekyll build is servable: index.html and 404.html exist and
 every internal href/src in every built page resolves THE WAY A BROWSER
-WOULD resolve it against the deployed URL: the site lives under baseurl
-on the project page, so root-absolute refs must carry baseurl, and
-relative refs resolve against the page's own path. After resolution,
+WOULD resolve it: the user site serves at the domain root (no baseurl),
+root-absolute refs resolve against the domain root and relative refs
+against the page's own path. After resolution,
 page links are checked under build/ (a file or a directory's index.html,
 canonical form /slug/) and /files/ media against the SOURCE tree, not
 build/: LFS media is excluded from the build (.jekyll-ignore) and served
@@ -21,9 +21,9 @@ from urllib.parse import urljoin
 
 ROOT = Path(__file__).resolve().parent.parent
 BUILD = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "build"
-# Must match baseurl in _config.yml (the repo name, for project pages).
-BASEURL = "/peterselie.nl"
-SITE = "https://breuderink.github.io"
+# Must match baseurl in _config.yml ("" — user site, domain root).
+BASEURL = ""
+SITE = "https://peterselie.nl"
 REF = re.compile(r'(?:href|src)="([^"]+)"')
 
 # Dead on the old site too: the targets never existed (2026-11-13 probe
@@ -31,22 +31,22 @@ REF = re.compile(r'(?:href|src)="([^"]+)"')
 # call for the owner; they point at the new site, so the site's own 404
 # page shows instead of GitHub's. Drop an entry once fixed or pruned.
 KNOWN_DEAD = {
-    "/peterselie.nl/heleboelpoppen",
-    "/peterselie.nl/waarismama",
-    "/peterselie.nl/voorstellingtips",
-    "/peterselie.nl/liedjesbladboerderij",
-    "/peterselie.nl/liedjesbruggetje",
-    "/peterselie.nl/liedjevisser",
-    "/peterselie.nl/vertelvoorstellingrattenvangster",
-    "/peterselie.nl/vertelvoorstellingerwt",
-    "/peterselie.nl/knipliedje",
-    "/peterselie.nl/links2",
-    "/peterselie.nl/vogelmarionetten",
-    "/peterselie.nl/leeuwmuis",
-    "/peterselie.nl/files/zeggen15groot.jpg",
-    "/peterselie.nl/files/Lesbrief Klalanaencr.pdf",
-    "/peterselie.nl/files/beweeg_als_een_dier.mp3",
-    "/peterselie.nl/files/Vertellen met extra's_artikel.pdf",
+    "/heleboelpoppen",
+    "/waarismama",
+    "/voorstellingtips",
+    "/liedjesbladboerderij",
+    "/liedjesbruggetje",
+    "/liedjevisser",
+    "/vertelvoorstellingrattenvangster",
+    "/vertelvoorstellingerwt",
+    "/knipliedje",
+    "/links2",
+    "/vogelmarionetten",
+    "/leeuwmuis",
+    "/files/zeggen15groot.jpg",
+    "/files/Lesbrief Klalanaencr.pdf",
+    "/files/beweeg_als_een_dier.mp3",
+    "/files/Vertellen met extra's_artikel.pdf",
 }
 
 
@@ -60,7 +60,7 @@ def main() -> int:
             continue
         # The page's deployed URL: /slug/index.html -> /slug/.
         rel = p.relative_to(BUILD).as_posix()
-        page_url = BASEURL + "/" + (rel[:-len("/index.html")] if rel.endswith("/index.html") else rel)
+        page_url = "/" + (rel[:-len("/index.html")] if rel.endswith("/index.html") else rel)
         for u in REF.findall(p.read_text(encoding="utf-8")):
             if u.startswith(("http", "//", "mailto:", "#", "data:")):
                 continue  # external or anchor-only
@@ -68,13 +68,6 @@ def main() -> int:
             path = absu.split("#")[0]
             if path in KNOWN_DEAD:
                 continue
-            if not path.startswith(BASEURL + "/"):
-                # A browser on the deployed site 404s this: the ref lacks
-                # the baseurl (or escapes the site). This is the failure
-                # the live-site crawl found on 2026-11-13.
-                fails.append(f"{rel}: {u!r} escapes the site (no baseurl)")
-                continue
-            path = path[len(BASEURL):]
             base = ROOT if path.startswith("/files/") else BUILD
             target = base / path.lstrip("/")
             if not (target.is_file() or (target / "index.html").is_file()):
