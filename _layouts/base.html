@@ -6,8 +6,8 @@
 <title>{{ title }}</title>
 <meta name="description" content="Poppentheater Peterselie verzorgt vrolijk poppentheater in het hele land voor kinderen vanaf twee jaar.">
 <meta name="keywords" content="poppentheater, poppenspel, workshop, puppetry, puppeteer, poppenspeler, theater, peuter theater, meespeeltheater, verstandelijk gehandicapten"/>
-<link rel="icon" href="/files/resources/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/files/resources/style.css">
+<link rel="icon" href="{{ '/files/resources/favicon.ico' | relative_url }}" type="image/x-icon">
+<link rel="stylesheet" href="{{ '/files/resources/style.css' | relative_url }}">
 </head>
 <body>
 <div id="content">
@@ -16,18 +16,7 @@
   <div id="columns">
     <aside id="sidebar-left" class="sidebar">
       <div class="panel">
-        {% assign activeUrl = active | default: page.url %}
-        <ul class="menu">
-          {% for item in menu %}
-          <li class="{% if item.children %}{% if item | inMenu: activeUrl %}expanded{% else %}collapsed{% endif %}{% else %}leaf{% endif %}"><a href="{{ item.url }}"{% if item.url == activeUrl %} class="active"{% endif %}>{{ item.label }}</a>{% if item.children %}{% if item | inMenu: activeUrl %}
-          <ul class="menu">
-            {% for child in item.children %}
-            <li class="leaf"><a href="{{ child.url }}"{% if child.url == activeUrl %} class="active"{% endif %}>{{ child.label }}</a></li>
-            {% endfor %}
-          </ul>
-          {% endif %}{% endif %}</li>
-          {% endfor %}
-        </ul>
+        {% include nav.html %}
       </div>
     </aside>
 

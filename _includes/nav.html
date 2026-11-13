@@ -1,0 +1,27 @@
+{%- comment -%}
+  Sidebar menu, data-driven from _data/navigation.yml.
+  An item with children stays open on its own page and on its children's
+  pages (the old site's expand behaviour, derived from the URL, not
+  per-page front matter). Active state: current page AND its parent
+  carry the marker — the parent gets `expanded`, the exact match gets
+  `active`. URLs go through relative_url so they carry the baseurl.
+  Depth: top level + one level of children (add another nested loop for
+  more levels).
+{%- endcomment -%}
+{%- assign activeUrl = page.active | default: page.url -%}
+<ul class="menu">
+  {%- for item in site.data.navigation -%}
+  {%- assign itemActive = false -%}
+  {%- if item.url == activeUrl -%}{%- assign itemActive = true -%}{% endif -%}
+  {%- for child in item.children -%}
+    {%- if child.url == activeUrl -%}{%- assign itemActive = true -%}{% endif -%}
+  {%- endfor -%}
+  <li class="{% if item.children %}{% if itemActive %}expanded{% else %}collapsed{% endif %}{% else %}leaf{% endif %}"><a href="{{ item.url | relative_url }}"{% if item.url == activeUrl %} class="active"{% endif %}>{{ item.label }}</a>{% if item.children and itemActive %}
+  <ul class="menu">
+    {%- for child in item.children -%}
+    <li class="leaf"><a href="{{ child.url | relative_url }}"{% if child.url == activeUrl %} class="active"{% endif %}>{{ child.label }}</a></li>
+    {%- endfor -%}
+  </ul>
+  {% endif %}{% endif %}</li>
+  {%- endfor -%}
+</ul>
